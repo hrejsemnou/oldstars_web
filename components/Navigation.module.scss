@@ -1,0 +1,10 @@
+@import '../styles/Variables.global.scss';
+
+.navigation a {
+  margin-right: 8px;
+  font-size: $font-size-md;
+}
+
+.navigation a:hover {
+  color: $white;
+}
