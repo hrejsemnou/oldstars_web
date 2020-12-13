@@ -1,29 +1,37 @@
 import React from 'react';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 
 import styles from './Navigation.module.scss';
 
-const Navigation = () => (
-  <nav className={styles.navigation}>
-    <Link href="/program">
-      <a>Program</a>
-    </Link>
-    <Link href="/repertoar">
-      <a>Repertoár</a>
-    </Link>
-    <Link href="/oldstars">
-      <a>OLDstars</a>
-    </Link>
-    <Link href="/herecke-studio">
-      <a>Herecké studio</a>
-    </Link>
-    <Link href="/projekty">
-      <a>Projekty</a>
-    </Link>
-    <Link href="/kontakty">
-      <a>Kontakty</a>
-    </Link>
-  </nav>
-);
+const navItems = [
+  { route: "/program", label: "Program" },
+  { route: "/repertoar", label: "Repertoár" },
+  { route: "/oldstars", label: "OLDstars" },
+  { route: "/herecke-studio", label: "Herecké studio" },
+  { route: "/projekty", label: "Projekty" },
+  { route: "/kontakty", label: "Kontakty" },
+];
+
+const Navigation = () => {
+  const router = useRouter();
+  console.log(router.pathname);
+
+  const renderLinks = () => navItems.map((item) => {
+    return (
+      <Link key={item.route} href={item.route}>
+        <a className={item.route === router.pathname ? styles.activeLink : ""}>
+          {item.label}
+        </a>
+      </Link>
+    );
+  });
+
+  return (
+    <nav className={styles.navigation}>
+      {renderLinks()}
+    </nav>
+  );
+};
 
 export default Navigation;

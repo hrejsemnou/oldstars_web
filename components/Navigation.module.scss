@@ -8,3 +8,8 @@
 .navigation a:hover {
   color: $white;
 }
+
+.activeLink {
+  color: $white;
+  font-weight: 600;
+}
