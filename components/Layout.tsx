@@ -19,7 +19,6 @@ const Layout = ({ children, title = 'Divadlo OLDstars' }: Props) => (
     {children}
     <footer>
       <hr />
-      <span>I'm here to stay (Footer)</span>
     </footer>
   </div>
 )
