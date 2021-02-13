@@ -4,11 +4,18 @@
   margin-top: 1rem;
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .navigation a {
   font-size: $font-size-md;
   font-weight: 600;
+  white-space: nowrap;
+  margin-right: 8px;
+}
+
+.navigation a:last-child {
+  margin-right: 0;
 }
 
 .navigation a:hover {
