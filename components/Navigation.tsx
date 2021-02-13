@@ -10,7 +10,6 @@ const navItems = [
   { route: "/oldstars", label: "OLDstars" },
   { route: "/herecke-studio", label: "Herecké studio" },
   { route: "/projekty", label: "Projekty" },
-  { route: "/kontakty", label: "Kontakty" },
 ];
 
 const Navigation = () => {

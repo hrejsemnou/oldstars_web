@@ -1,8 +1,14 @@
 @import '../styles/Variables.global.scss';
 
+.navigation {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+
 .navigation a {
-  margin-right: 8px;
   font-size: $font-size-md;
+  font-weight: 600;
 }
 
 .navigation a:hover {
@@ -11,5 +17,4 @@
 
 .activeLink {
   color: $white;
-  font-weight: 600;
 }
