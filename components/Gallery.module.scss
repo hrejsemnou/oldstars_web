@@ -1,0 +1,11 @@
+.galleryImageContainer {
+  width: 25%;
+  display: inline-block;
+  position: relative;
+}
+
+@media only screen and (max-width: 768px) {
+  .galleryImageContainer {
+    display: none;
+  }
+}
