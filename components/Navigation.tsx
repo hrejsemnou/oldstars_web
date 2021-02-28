@@ -36,7 +36,7 @@ const Navigation = () => {
     return (
       <div key={item.route} className={styles[item.column]}>
         <Link href={item.route}>
-          <a className={showMenu ? `${styles.show} ${cName}` : cName}>
+          <a onClick={() => setShowMenu(!showMenu)} className={showMenu ? `${styles.show} ${cName}` : cName}>
             {item.label}
           </a>
         </Link>
