@@ -1,27 +1,83 @@
 @import '../styles/Variables.global.scss';
 
 .navigation {
-  margin-top: 1rem;
   display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
 }
 
-.navigation a {
+.navLinks {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  flex-grow: 2;
+}
+
+.navLinks a {
   font-size: $font-size-md;
   font-weight: 600;
   white-space: nowrap;
-  margin-right: 8px;
 }
 
-.navigation a:last-child {
-  margin-right: 0;
-}
-
-.navigation a:hover {
+.navLinks a:hover {
   color: $white;
 }
 
 .activeLink {
   color: $white;
+}
+
+.menuToggle {
+  display: none;
+}
+
+.menuButton {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  color: $red;
+  background-color: $black;
+
+  & :hover {
+    color: $white;
+  }
+}
+
+.show {
+  display: unset !important;
+}
+
+@media only screen and (min-width: 521px) and (max-width: 1000px) {
+  .navLinks div {
+    flex-basis: 33%;
+  }
+
+  .left {
+    text-align: left;
+  }
+
+  .center {
+    text-align: center;
+  }
+
+  .right {
+    text-align: right;
+  }
+}
+
+@media only screen and (max-width: 520px) {
+  .navLinks {
+    flex-direction: column;
+  }
+
+  .navLinks a {
+    display: none;
+  }
+
+  .activeLink {
+    display: unset !important; 
+  }
+
+  .menuToggle {
+    display: inline-block;
+  }
 }

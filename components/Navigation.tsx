@@ -1,34 +1,57 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faBars } from '@fortawesome/free-solid-svg-icons';
 
 import styles from './Navigation.module.scss';
 
 const navItems = [
-  { route: "/program", label: "Program" },
-  { route: "/repertoar", label: "Repertoár" },
-  { route: "/oldstars", label: "OLDstars" },
-  { route: "/herecke-studio", label: "Herecké studio" },
-  { route: "/projekty", label: "Projekty" },
+  { route: "/", label: "Aktuálně", column: 'left' },
+  { route: "/program", label: "Program", column: 'center' },
+  { route: "/repertoar", label: "Repertoár", column: 'right' },
+  { route: "/oldstars", label: "OLDstars", column: 'left' },
+  { route: "/herecke-studio", label: "Herecké studio", column: 'center' },
+  { route: "/projekty", label: "Projekty", column: 'right' },
 ];
 
 const Navigation = () => {
+  const [showMenu, setShowMenu] = useState(false);
+
+  const MenuToggle = () => {
+    return (
+      <button className={styles.menuButton} onClick={() => setShowMenu(!showMenu)}>
+        <FontAwesomeIcon size="2x" icon={faBars} />
+      </button>
+    );
+  }
+
   const router = useRouter();
-  console.log(router.pathname);
 
   const renderLinks = () => navItems.map((item) => {
+    let cName = '';
+    if (item.route === router.pathname) {
+      cName = styles.activeLink;
+    }
     return (
-      <Link key={item.route} href={item.route}>
-        <a className={item.route === router.pathname ? styles.activeLink : ""}>
-          {item.label}
-        </a>
-      </Link>
+      <div key={item.route} className={styles[item.column]}>
+        <Link href={item.route}>
+          <a className={showMenu ? `${styles.show} ${cName}` : cName}>
+            {item.label}
+          </a>
+        </Link>
+      </div>
     );
   });
 
   return (
     <nav className={styles.navigation}>
-      {renderLinks()}
+      <div className={styles.navLinks}>
+        {renderLinks()}
+      </div>
+      <div className={styles.menuToggle}>
+        <MenuToggle />
+      </div>
     </nav>
   );
 };
