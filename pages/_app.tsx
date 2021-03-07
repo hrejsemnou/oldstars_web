@@ -1,8 +1,9 @@
-import Layout from '../components/Layout'
+import { AppProps } from 'next/app';
+
 import '../styles/Styles.global.scss';
 
-const App = () => (
-  <Layout title="Divadlo OLDstars" />
+const App = ({ Component, pageProps }: AppProps) => (
+  <Component {...pageProps} />
 )
 
 export default App;
