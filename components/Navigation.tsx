@@ -30,7 +30,11 @@ const Navigation = () => {
 
   const renderLinks = () => navItems.map((item) => {
     let cName = '';
-    if (item.route === router.pathname) {
+    if (item.route !== '/') {
+      if (router.pathname.includes(item.route)) {
+        cName = styles.activeLink;
+      }
+    } else if (router.pathname === item.route) {
       cName = styles.activeLink;
     }
     return (

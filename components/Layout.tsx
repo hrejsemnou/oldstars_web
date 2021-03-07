@@ -16,7 +16,9 @@ const Layout = ({ children, title = 'Divadlo OLDstars' }: Props) => (
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
     </Head>
     <Header />
-    {children}
+    <main className="text-white">
+      {children}
+    </main>
     <footer>
       <hr />
     </footer>
