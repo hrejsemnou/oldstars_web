@@ -19,6 +19,7 @@ const Snippet = ({ page }) => {
         {
           page.images.map(i => (
             <Image
+              key={i}
               src={`/productions/${page.slug}/images/${i}`}
               alt={`${page.title}/${i}`}
               height={150}
