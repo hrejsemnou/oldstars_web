@@ -1,5 +1,6 @@
 import { useRouter } from 'next/router'
 import ReactMarkdown from 'react-markdown'
+import Image from 'next/image';
 
 import { getAllSnippets, getPageContentBySlug } from '../../lib/markdown'
 import Layout from '../../components/Layout'
@@ -14,6 +15,18 @@ const Snippet = ({ page }) => {
     <Layout>
       <h2>{page.title}</h2>
       <h3>{page.writer}</h3>
+      <div>
+        {
+          page.images.map(i => (
+            <Image
+              src={`/productions/${page.slug}/images/${i}`}
+              alt={`${page.title}/${i}`}
+              height={150}
+              width={250}
+            />
+          ))
+        }
+      </div>
       <strong><em>{page.note}</em></strong>
       <div>
         <ReactMarkdown
@@ -62,6 +75,7 @@ export async function getStaticProps({ params }) {
     'premiere',
     'review',
     'content',
+    'images',
   ])
 
   return {

@@ -12,7 +12,6 @@ interface Preview {
 }
 
 const Repertoar = ({ previews }: { previews: Preview[] }) => {
-  console.log(previews);
   return (
     <Layout title="Repertoár">
       {previews.map(p => {
