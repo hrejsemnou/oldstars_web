@@ -17,6 +17,10 @@ body {
 a {
   color: $red;
   text-decoration: none;
+
+  &:hover {
+    color: $white;
+  }
 }
 
 h1 {
@@ -57,4 +61,8 @@ h6 {
 
 .bg-black {
   background-color: $black;
+}
+
+.text-center {
+  text-align: center;
 }
