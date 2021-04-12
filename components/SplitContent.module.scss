@@ -1,0 +1,18 @@
+.splitContent {
+  display: flex;
+  justify-content: space-between;
+}
+
+.leftChild {
+  flex-basis: 50%;
+}
+
+.rightChild {
+  flex-basis: 33%;
+}
+
+@media only screen and (max-width: 520px) {
+  .splitContent {
+    flex-direction: column;
+  }
+}
