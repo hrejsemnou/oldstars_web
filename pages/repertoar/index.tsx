@@ -3,6 +3,7 @@ import Link from 'next/link';
 
 import Layout from '../../components/Layout'
 import { getAllSnippets } from '../../lib/markdown'
+import styles from './Index.module.scss';
 
 interface Preview {
   slug: string;
@@ -14,26 +15,32 @@ interface Preview {
 const Repertoar = ({ previews }: { previews: Preview[] }) => {
   return (
     <Layout title="Repertoár">
-      {previews.map(p => {
-        const thumbnail = p.images[Math.floor(Math.random() * p.images.length)];
-        return (
-          <Link href={`/repertoar/${p.slug}`} key={p.slug}>
-            <a>
-              <Image
-                src={`/productions/${p.slug}/images/${thumbnail}`}
-                alt={p.title}
-                height={150}
-                width={250}
-              />
-              <div>
-                {p.title}
-              </div>
-              <div>
-                {p.writer}
-              </div>
-            </a>
-          </Link>
-        )})}
+      <div className={styles.previews}>
+        {previews.map(p => {
+          const thumbnail = p.images[Math.floor(Math.random() * p.images.length)];
+          return (
+            <div className={styles.preview}>
+              <Link href={`/repertoar/${p.slug}`} key={p.slug}>
+                <a className="text-bold">
+                  <Image
+                    src={`/productions/${p.slug}/images/${thumbnail}`}
+                    alt={p.title}
+                    height={200}
+                    width={350}
+                  />
+                  <div className="text-center">
+                    <div>
+                      {p.title}
+                    </div>
+                    <div className="text-white">
+                      {p.writer}
+                    </div>
+                  </div>
+                </a>
+              </Link>
+            </div>
+          )})}
+      </div>
     </Layout>
   );
 };

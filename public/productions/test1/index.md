@@ -1,6 +1,7 @@
 ---
 title: 'Věřím a nenávidím'
 writer: 'Steffano Massini'
+translation: 'Tomáš Dobrý'
 note: 'tři ženy, tři národnosti - jedna herečka'
 director: 'Ondřej Kulhavý'
 dramaturgy: 'Lucie Flemrová'
