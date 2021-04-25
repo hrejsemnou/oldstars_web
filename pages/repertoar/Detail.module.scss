@@ -1,0 +1,13 @@
+.section {
+  margin-top: 1rem;
+}
+
+.gallery {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+
+  & > * {
+    margin-top: 1rem !important;
+  }
+}

@@ -4,6 +4,8 @@ import Image from 'next/image';
 
 import { getAllSnippets, getPageContentBySlug } from '../../lib/markdown'
 import Layout from '../../components/Layout'
+import styles from './Detail.module.scss';
+import SplitContent from '../../components/SplitContent';
 
 const Snippet = ({ page }) => {
   const router = new useRouter()
@@ -13,49 +15,63 @@ const Snippet = ({ page }) => {
     </Layout>
   ) : (
     <Layout>
-      <h2>{page.title}</h2>
-      <h3>{page.writer}</h3>
-      <div>
-        {
-          page.images.map(i => (
-            <Image
-              key={i}
-              src={`/productions/${page.slug}/images/${i}`}
-              alt={`${page.title}/${i}`}
-              height={150}
-              width={250}
-            />
-          ))
+      <SplitContent
+        leftChild={
+          <div>
+            <h2>{page.title}</h2>
+            <h3>{`${page.writer} / ${page.translation}`}</h3>
+            <strong><em>{page.note}</em></strong>
+            <div>
+              <ReactMarkdown
+                source={page.content}
+              />
+            </div>
+            <div>
+              <div>
+                <span>Režie: </span><strong>{page.director}</strong>
+              </div>
+              <div>
+                <span>Dramaturgie: </span><strong>{page.dramaturgy}</strong>
+              </div>
+              <div>
+                <span>Hraje: </span><strong>{page.actors}</strong>
+              </div>
+            </div>
+            <div className={styles.section}>
+              <div>
+                <span>Délka představení: </span><strong>{page.length}</strong>
+              </div>
+              <div>
+                <span>Premiéra: </span><strong>{page.premiere}</strong>
+              </div>
+              <div>
+                <span>Recenze: </span><strong><a href={page.review}>i-divadlo</a></strong>
+              </div>
+            </div>
+          </div>
         }
-      </div>
-      <strong><em>{page.note}</em></strong>
-      <div>
-        <ReactMarkdown
-          source={page.content}
-        />
-      </div>
-      <div>
-        <div>
-          <span>Režie: </span><strong>{page.director}</strong>
-        </div>
-        <div>
-          <span>Dramaturgie: </span><strong>{page.dramaturgy}</strong>
-        </div>
-        <div>
-          <span>Hraje: </span><strong>{page.actors}</strong>
-        </div>
-      </div>
-      <div>
-        <div>
-          <span>Délka představení: </span><strong>{page.length}</strong>
-        </div>
-        <div>
-          <span>Premiéra: </span><strong>{page.premiere}</strong>
-        </div>
-        <div>
-          <span>Recenze: </span><strong><a href={page.review}>i-divadlo</a></strong>
-        </div>
-      </div>
+        rightChild={
+          <div>
+            <h2>Kdy hrajeme</h2>
+            {page.reruns.map(rerun => (
+              <div className="text-bold" key={rerun}>
+                {rerun}
+              </div>
+            ))}
+            <div className={styles.gallery}>
+              {page.images.map(i => (
+                <Image
+                  key={i}
+                  src={`/productions/${page.slug}/images/${i}`}
+                  alt={`${page.title}/${i}`}
+                  height={135}
+                  width={240}
+                />
+              ))}
+            </div>
+          </div>
+        }
+      />
     </Layout>
   )
 }
@@ -68,6 +84,7 @@ export async function getStaticProps({ params }) {
     'slug',
     'title',
     'writer',
+    'translation',
     'note',
     'director',
     'dramaturgy',
@@ -77,6 +94,7 @@ export async function getStaticProps({ params }) {
     'review',
     'content',
     'images',
+    'reruns',
   ])
 
   return {
