@@ -7,6 +7,14 @@ import Layout from '../../components/Layout'
 import styles from './Detail.module.scss';
 import SplitContent from '../../components/SplitContent';
 
+const getTitle = (writer, translation) => {
+  if (translation) {
+    return `${writer} / ${translation}`;
+  } else {
+    return writer;
+  }
+}
+
 const Snippet = ({ page }) => {
   const router = new useRouter()
   return router.isFallback ? (
@@ -19,7 +27,7 @@ const Snippet = ({ page }) => {
         leftChild={
           <div>
             <h2>{page.title}</h2>
-            <h3>{`${page.writer} / ${page.translation}`}</h3>
+            <h3>{getTitle(page.writer, page.translation)}</h3>
             <strong><em>{page.note}</em></strong>
             <div>
               <ReactMarkdown
@@ -54,8 +62,8 @@ const Snippet = ({ page }) => {
           <div>
             <h2>Kdy hrajeme</h2>
             {page.reruns.map(rerun => (
-              <div className="text-bold" key={rerun}>
-                {rerun}
+              <div className="text-bold" key={`${rerun.date} ${rerun.time}`}>
+                {`${rerun.date} ${rerun.time} ${rerun.place}`}
               </div>
             ))}
             <div className={styles.gallery}>
