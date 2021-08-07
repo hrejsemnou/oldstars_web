@@ -1,7 +1,7 @@
 import Layout from '../components/Layout'
 
-const AboutPage = () => (
-  <Layout title="About | Next.js + TypeScript Example" />
+const Home = () => (
+  <Layout title="OLDStars" />
 )
 
-export default AboutPage
+export default Home

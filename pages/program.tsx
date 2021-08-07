@@ -80,7 +80,7 @@ const Program = ({ program }: { program: Program[] }) => {
     return 0;
   });
   return (
-    <Layout title="Program">
+    <Layout title="OLDStars > Program">
       {sortedProgram.map(item => (
         <Link href={`/repertoar/${item.slug}`} key={`${item.slug}${item.date}${item.time}`}>
           <a>

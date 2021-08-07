@@ -14,7 +14,7 @@ interface Preview {
 
 const Repertoar = ({ previews }: { previews: Preview[] }) => {
   return (
-    <Layout title="Repertoár">
+    <Layout title="OLDStars > Repertoár > Aktuální">
       <div className={styles.previews}>
         {previews.map(p => {
           const thumbnail = p.images[Math.floor(Math.random() * p.images.length)];

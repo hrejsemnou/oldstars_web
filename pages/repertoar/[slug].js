@@ -18,11 +18,11 @@ const getTitle = (writer, translation) => {
 const Snippet = ({ page }) => {
   const router = new useRouter()
   return router.isFallback ? (
-    <Layout>
+    <Layout title = "OLDStars > Repertoár">
       <div>Loading...</div>
     </Layout>
   ) : (
-    <Layout>
+    <Layout title = {`OLDStars > Repertoár > ${page.title}`}>
       <SplitContent
         leftChild={
           <div>

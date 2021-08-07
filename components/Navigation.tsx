@@ -24,9 +24,54 @@ const navItems = [
       },
     ]
   },
-  { route: "/oldstars", label: "OLDstars", column: 'left', subItems: [] },
-  { route: "/herecke-studio", label: "Herecké studio", column: 'center', subItems: [] },
-  { route: "/projekty", label: "Projekty", column: 'right', subItems: [] },
+  { route: "/oldstars", label: "OLDstars", column: 'left', subItems: [
+      {
+        route: "/oldstars/o-nas", label: "O nás", column: 'left',
+      },
+      {
+        route: "/oldstars/prostory", label: "Prostory", column: 'center',
+      },
+      {
+        route: "/oldstars/spoluprace", label: "Spolupráce", column: 'right',
+      },
+      {
+        route: "/oldstars/agentura", label: "Agentura", column: 'left',
+      },
+      {
+        route: "/oldstars/nabidka", label: "Nabidka", column: 'center',
+      },
+    ]
+  },
+  { route: "/herecke-studio", label: "Herecké studio", column: 'center', subItems: [
+      {
+        route: "/herecke-studio/soubory", label: "Soubory", column: 'left',
+      },
+      {
+        route: "/herecke-studio/pripravka", label: "Přípravka", column: 'center',
+      },
+      {
+        route: "/herecke-studio/d-studio", label: "D studio", column: 'right',
+      },
+      {
+        route: "/herecke-studio/clenove", label: "Členové", column: 'left',
+      },
+    ]
+  },
+  { route: "/projekty", label: "Projekty", column: 'right', subItems: [
+      {
+        route: "/projekty/oldstars-on-the-roud", label: "OLDstars on the Roud", column: 'left',
+      },
+      {
+        route: "/projekty/festival-studentskych-divadel", label: "Festival Studentských Divadel", column: 'center',
+      },
+      {
+        route: "/projekty/ostatni", label: "Ostatní", column: 'right',
+      },
+      {
+        route: "/projekty/zajezdy", label: "Zájezdy", column: 'left',
+      },
+    ]
+  },
 ];
 
 const Navigation = () => {

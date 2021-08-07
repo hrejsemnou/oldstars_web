@@ -6,6 +6,21 @@ module.exports = {
         destination: '/repertoar/aktualni',
         permanent: true,
       },
+      {
+        source: '/oldstars',
+        destination: '/oldstars/o-nas',
+        permanent: true,
+      },
+      {
+        source: '/herecke-studio',
+        destination: '/herecke-studio/soubory',
+        permanent: true,
+      },
+      {
+        source: '/projekty',
+        destination: '/projekty/oldstars-on-the-roud',
+        permanent: true,
+      },
     ]
   }
 }
