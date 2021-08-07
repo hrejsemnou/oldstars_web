@@ -127,8 +127,21 @@ const Navigation = () => {
     );
   });
 
+  const isUrlFromFooter = () => {
+    if (
+      router.pathname === "/kontakty" ||
+      router.pathname === "/press" ||
+      router.pathname === "/podporte-nas" ||
+      router.pathname === "/partneri"
+    ) {
+      return true;
+    }
+  }
+
   const subItemsToShow = () => {
-    if (router.pathname === "/") {
+    if (
+      router.pathname === "/" || isUrlFromFooter()
+    ) {
       return [];
     }
     return navItems.filter(item => router.pathname.includes(item.route) && item.route !== '/')[0].subItems;

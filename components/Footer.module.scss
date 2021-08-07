@@ -1,0 +1,29 @@
+@import '../styles/Variables.global.scss';
+
+.footer {
+  display: flex;
+}
+
+.footerLinks {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  flex-grow: 2;
+}
+
+.footerLinks a {
+  font-size: $font-size-md;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.activeLink {
+  color: $white;
+}
+
+@media only screen and (max-width: 520px) {
+  .footerLinks {
+    flex-direction: column;
+  }
+}

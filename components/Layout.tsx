@@ -2,6 +2,7 @@ import React, { ReactNode } from 'react'
 import Head from 'next/head'
 
 import Header from '../components/Header';
+import Footer from '../components/Footer';
 
 type Props = {
   children?: ReactNode
@@ -20,6 +21,7 @@ const Layout = ({ children, title = 'Divadlo OLDstars' }: Props) => (
     <main className="text-white">
       {children}
     </main>
+    <Footer />
   </div>
 )
 
