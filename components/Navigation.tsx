@@ -38,7 +38,7 @@ const navItems = [
         route: "/oldstars/agentura", label: "Agentura", column: 'left',
       },
       {
-        route: "/oldstars/nabidka", label: "Nabidka", column: 'center',
+        route: "/oldstars/nabidka", label: "Nabídka", column: 'right',
       },
     ]
   },
@@ -59,7 +59,7 @@ const navItems = [
   },
   { route: "/projekty", label: "Projekty", column: 'right', subItems: [
       {
-        route: "/projekty/oldstars-on-the-roud", label: "OLDstars on the Roud", column: 'left',
+        route: "/projekty/on-the-roud", label: "OLDstars on the Roud", column: 'left',
       },
       {
         route: "/projekty/festival-studentskych-divadel", label: "Festival Studentských Divadel", column: 'center',

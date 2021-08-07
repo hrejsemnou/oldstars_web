@@ -18,7 +18,7 @@ module.exports = {
       },
       {
         source: '/projekty',
-        destination: '/projekty/oldstars-on-the-roud',
+        destination: '/projekty/on-the-roud',
         permanent: true,
       },
     ]

@@ -1,7 +1,7 @@
 import Layout from '../../components/Layout'
 
 const Home = () => (
-  <Layout title="OLDStars > Projekty > Ostatní" />
+  <Layout title="OLDStars > Herecké studio > Soubory" />
 )
 
 export default Home
