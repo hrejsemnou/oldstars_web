@@ -7,12 +7,26 @@ import { faBars } from '@fortawesome/free-solid-svg-icons';
 import styles from './Navigation.module.scss';
 
 const navItems = [
-  { route: "/", label: "Aktuálně", column: 'left' },
-  { route: "/program", label: "Program", column: 'center' },
-  { route: "/repertoar", label: "Repertoár", column: 'right' },
-  { route: "/oldstars", label: "OLDstars", column: 'left' },
-  { route: "/herecke-studio", label: "Herecké studio", column: 'center' },
-  { route: "/projekty", label: "Projekty", column: 'right' },
+  { route: "/", label: "Aktuálně", column: 'left', subItems: [] },
+  { route: "/program", label: "Program", column: 'center', subItems: [] },
+  { route: "/repertoar", label: "Repertoár", column: 'right', subItems: [
+      {
+        route: "/repertoar/aktualni", label: "Aktuální", column: 'left',
+      },
+      {
+        route: "/repertoar/hoste", label: "Hosté", column: 'center',
+      },
+      {
+        route: "/repertoar/monodramata", label: "Monodramata", column: 'right',
+      },
+      {
+        route: "/repertoar/archiv", label: "Archiv", column: 'left',
+      },
+    ]
+  },
+  { route: "/oldstars", label: "OLDstars", column: 'left', subItems: [] },
+  { route: "/herecke-studio", label: "Herecké studio", column: 'center', subItems: [] },
+  { route: "/projekty", label: "Projekty", column: 'right', subItems: [] },
 ];
 
 const Navigation = () => {
@@ -39,7 +53,7 @@ const Navigation = () => {
     }
     return (
       <div key={item.route} className={styles[item.column]}>
-        <Link href={item.route}>
+        <Link href={item.subItems.length > 0 ? item.subItems[0].route : item.route}>
           <a onClick={() => setShowMenu(!showMenu)} className={showMenu ? `${styles.show} ${cName}` : cName}>
             {item.label}
           </a>
@@ -48,15 +62,52 @@ const Navigation = () => {
     );
   });
 
+  const renderSubLinks = (subItems: any[]) => subItems.map((subItem) => {
+    let cName = '';
+    if (subItem.route !== '/') {
+      if (router.pathname.includes(subItem.route)) {
+        cName = styles.activeLink;
+      }
+    } else if (router.pathname === subItem.route) {
+      cName = styles.activeLink;
+    }
+    return (
+      <div key={subItem.route} className={styles[subItem.column]}>
+        <Link href={subItem.route}>
+          <a onClick={() => setShowMenu(!showMenu)} className={showMenu ? `${styles.show} ${cName}` : cName}>
+            {subItem.label}
+          </a>
+        </Link>
+      </div>
+    );
+  });
+
+  const subItemsToShow = () => {
+    if (router.pathname === "/") {
+      return [];
+    }
+    return navItems.filter(item => router.pathname.includes(item.route) && item.route !== '/')[0].subItems;
+  };
+
   return (
-    <nav className={styles.navigation}>
-      <div className={styles.navLinks}>
-        {renderLinks()}
-      </div>
-      <div className={styles.menuToggle}>
-        <MenuToggle />
-      </div>
-    </nav>
+    <>
+      <nav className={styles.navigation}>
+        <div className={styles.navLinks}>
+          {renderLinks()}
+        </div>
+        <div className={styles.menuToggle}>
+          <MenuToggle />
+        </div>
+      </nav>
+      {subItemsToShow().length > 0 && (
+        <hr />
+      )}
+      <nav className={styles.navigation}>
+        <div className={styles.navLinks}>
+          {renderSubLinks(subItemsToShow())}
+        </div>
+      </nav>
+    </>
   );
 };
 
