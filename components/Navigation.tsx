@@ -23,22 +23,22 @@ const Navigation = () => {
     { route: "/", label: "Aktuálně", column: 'left', subItems: [] },
     { route: "/program", label: "Program", column: 'center', subItems: [
       {
-        route: `/program/${nextMonths[0]}`, label: getMonthName(nextMonths[0]), column: 'left',
+        route: `/program/${nextMonths[0]+1}`, label: getMonthName(nextMonths[0]), column: 'left',
       },
       {
-        route: `/program/${nextMonths[1]}`, label: getMonthName(nextMonths[1]), column: 'center',
+        route: `/program/${nextMonths[1]+1}`, label: getMonthName(nextMonths[1]), column: 'center',
       },
       {
-        route: `/program/${nextMonths[2]}`, label: getMonthName(nextMonths[2]), column: 'right',
+        route: `/program/${nextMonths[2]+1}`, label: getMonthName(nextMonths[2]), column: 'right',
       },
       {
-        route: `/program/${nextMonths[3]}`, label: getMonthName(nextMonths[3]), column: 'left',
+        route: `/program/${nextMonths[3]+1}`, label: getMonthName(nextMonths[3]), column: 'left',
       },
       {
-        route: `/program/${nextMonths[4]}`, label: getMonthName(nextMonths[4]), column: 'center',
+        route: `/program/${nextMonths[4]+1}`, label: getMonthName(nextMonths[4]), column: 'center',
       },
       {
-        route: `/program/${nextMonths[5]}`, label: getMonthName(nextMonths[5]), column: 'right',
+        route: `/program/${nextMonths[5]+1}`, label: getMonthName(nextMonths[5]), column: 'right',
       },
       ]
     },
@@ -134,10 +134,7 @@ const Navigation = () => {
   const renderSubLinks = (subItems: any[]) => subItems.map((subItem) => {
     let cName = '';
     if (subItem.route !== '/') {
-      if (router.pathname.includes(subItem.route)) {
-        cName = styles.activeLink;
-      }
-    } else if (router.pathname === subItem.route) {
+    } if (router.asPath === subItem.route) {
       cName = styles.activeLink;
     }
     return (

@@ -105,3 +105,7 @@ export const parseProgram = (program: Program[]) => {
   });
   return sortedProgram;
 };
+
+export const filterByMonth = (program: ParsedProgram[], month: number) => {
+  return program.filter(item => item.dateObject.getMonth() === month - 1);
+}
