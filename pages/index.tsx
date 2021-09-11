@@ -5,7 +5,7 @@ import Layout from '../components/Layout'
 import SplitContent from '../components/SplitContent';
 import { getProgram } from '../lib/markdown';
 import { Program as ProgramInterface, getNextTwentyPlays } from '../lib/parseProgram';
-import styles from './Program/Program.module.scss';
+import styles from './Index.module.scss';
 
 const Home = ({ program } : { program: ProgramInterface[] }) => {
   const parsedProgram = getNextTwentyPlays(program);

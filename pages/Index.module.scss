@@ -1,0 +1,55 @@
+@import '../styles/Variables.global.scss';
+
+.programItem {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  border-bottom: 1px solid $white;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  color: $white;
+}
+
+.programItem:hover {
+  font-weight: 700;
+
+  & .title {
+    color: $white;
+  }
+}
+
+.info {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+  flex-basis: 40%;
+  min-width: 40%;
+}
+
+@media only screen and (min-width: 768px) {
+  .info {
+    flex-basis: 60%;
+    min-width: 60%;
+  }
+}
+
+.title {
+  font-weight: 700;
+  color: $red;
+}
+
+.datetime {
+  display: flex;
+  flex-flow: column;
+  min-width: 20%;
+}
+
+.day, .time {
+  margin-top: 0.5rem;
+}
+
+.place {
+  min-width: 20%;
+  text-align: right;
+}
