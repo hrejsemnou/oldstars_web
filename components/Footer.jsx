@@ -9,6 +9,7 @@ const navItems = [
   { route: "/press", label: "Press" },
   { route: "/partneri", label: "Partneři" },
   { route: "/podporte-nas", label: "Podpořte nás" },
+  { route: "http://discord.com/app", label: "Přihlásit se" },
 ];
 
 const Footer = () => {
@@ -24,9 +25,15 @@ const Footer = () => {
     }
     return (
       <Link key={item.route} href={item.route}>
-        <a className={cName}>
-          {item.label}
-        </a>
+        {item.route === "http://discord.com/app" ? (
+          <a className={cName} target="_blank">
+            {item.label}
+          </a>
+        ) : (
+          <a className={cName}>
+            {item.label}
+          </a>
+        )}
       </Link>
     );
   });
