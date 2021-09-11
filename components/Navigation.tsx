@@ -3,73 +3,103 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars } from '@fortawesome/free-solid-svg-icons';
+import { getMonthName } from '../lib/parseProgram';
 
 import styles from './Navigation.module.scss';
 
-const navItems = [
-  { route: "/", label: "Aktuálně", column: 'left', subItems: [] },
-  { route: "/program", label: "Program", column: 'center', subItems: [] },
-  { route: "/repertoar", label: "Repertoár", column: 'right', subItems: [
-      {
-        route: "/repertoar/aktualni", label: "Aktuální", column: 'left',
-      },
-      {
-        route: "/repertoar/hoste", label: "Hosté", column: 'center',
-      },
-      {
-        route: "/repertoar/monodramata", label: "Monodramata", column: 'right',
-      },
-      {
-        route: "/repertoar/archiv", label: "Archiv", column: 'left',
-      },
-    ]
-  },
-  { route: "/oldstars", label: "OLDstars", column: 'left', subItems: [
-      {
-        route: "/oldstars/o-nas", label: "O nás", column: 'left',
-      },
-      {
-        route: "/oldstars/prostory", label: "Prostory", column: 'center',
-      },
-      {
-        route: "/oldstars/spoluprace", label: "Spolupráce", column: 'right',
-      },
-    ]
-  },
-  { route: "/herecke-studio", label: "Herecké studio", column: 'center', subItems: [
-      {
-        route: "/herecke-studio/soubory", label: "Soubory", column: 'left',
-      },
-      {
-        route: "/herecke-studio/pripravka", label: "Přípravka", column: 'center',
-      },
-      {
-        route: "/herecke-studio/d-studio", label: "D studio", column: 'right',
-      },
-      {
-        route: "/herecke-studio/clenove", label: "Členové", column: 'left',
-      },
-    ]
-  },
-  { route: "/projekty", label: "Projekty", column: 'right', subItems: [
-      {
-        route: "/projekty/on-the-roud", label: "OLDstars on the ROUD", column: 'left',
-      },
-      {
-        route: "/projekty/festival-studentskych-divadel", label: "Festival Studentských Divadel", column: 'center',
-      },
-      {
-        route: "/projekty/ostatni", label: "Ostatní", column: 'right',
-      },
-      {
-        route: "/projekty/zajezdy", label: "Zájezdy", column: 'left',
-      },
-    ]
-  },
-];
-
 const Navigation = () => {
   const [showMenu, setShowMenu] = useState(false);
+  const getNextMonths = () => {
+    const today = new Date();
+    const currentMonth = today.getMonth();
+    const nextMonths = [];
+    for (let i = 0; i < 6; i++) {
+      nextMonths.push((currentMonth + i) % 12);
+    }
+    return nextMonths;
+  }
+  const nextMonths = getNextMonths();
+  const navItems = [
+    { route: "/", label: "Aktuálně", column: 'left', subItems: [] },
+    { route: "/program", label: "Program", column: 'center', subItems: [
+      {
+        route: `/program/${nextMonths[0]}`, label: getMonthName(nextMonths[0]), column: 'left',
+      },
+      {
+        route: `/program/${nextMonths[1]}`, label: getMonthName(nextMonths[1]), column: 'center',
+      },
+      {
+        route: `/program/${nextMonths[2]}`, label: getMonthName(nextMonths[2]), column: 'right',
+      },
+      {
+        route: `/program/${nextMonths[3]}`, label: getMonthName(nextMonths[3]), column: 'left',
+      },
+      {
+        route: `/program/${nextMonths[4]}`, label: getMonthName(nextMonths[4]), column: 'center',
+      },
+      {
+        route: `/program/${nextMonths[5]}`, label: getMonthName(nextMonths[5]), column: 'right',
+      },
+      ]
+    },
+    { route: "/repertoar", label: "Repertoár", column: 'right', subItems: [
+        {
+          route: "/repertoar/aktualni", label: "Aktuální", column: 'left',
+        },
+        {
+          route: "/repertoar/hoste", label: "Hosté", column: 'center',
+        },
+        {
+          route: "/repertoar/monodramata", label: "Monodramata", column: 'right',
+        },
+        {
+          route: "/repertoar/archiv", label: "Archiv", column: 'left',
+        },
+      ]
+    },
+    { route: "/oldstars", label: "OLDstars", column: 'left', subItems: [
+        {
+          route: "/oldstars/o-nas", label: "O nás", column: 'left',
+        },
+        {
+          route: "/oldstars/prostory", label: "Prostory", column: 'center',
+        },
+        {
+          route: "/oldstars/spoluprace", label: "Spolupráce", column: 'right',
+        },
+      ]
+    },
+    { route: "/herecke-studio", label: "Herecké studio", column: 'center', subItems: [
+        {
+          route: "/herecke-studio/soubory", label: "Soubory", column: 'left',
+        },
+        {
+          route: "/herecke-studio/pripravka", label: "Přípravka", column: 'center',
+        },
+        {
+          route: "/herecke-studio/d-studio", label: "D studio", column: 'right',
+        },
+        {
+          route: "/herecke-studio/clenove", label: "Členové", column: 'left',
+        },
+      ]
+    },
+    { route: "/projekty", label: "Projekty", column: 'right', subItems: [
+        {
+          route: "/projekty/on-the-roud", label: "OLDstars on the ROUD", column: 'left',
+        },
+        {
+          route: "/projekty/festival-studentskych-divadel", label: "Festival Studentských Divadel", column: 'center',
+        },
+        {
+          route: "/projekty/ostatni", label: "Ostatní", column: 'right',
+        },
+        {
+          route: "/projekty/zajezdy", label: "Zájezdy", column: 'left',
+        },
+      ]
+    },
+  ];
 
   const MenuToggle = () => {
     return (
