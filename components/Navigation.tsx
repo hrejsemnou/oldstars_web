@@ -34,12 +34,6 @@ const navItems = [
       {
         route: "/oldstars/spoluprace", label: "Spolupráce", column: 'right',
       },
-      {
-        route: "/oldstars/agentura", label: "Agentura", column: 'left',
-      },
-      {
-        route: "/oldstars/nabidka", label: "Nabídka", column: 'right',
-      },
     ]
   },
   { route: "/herecke-studio", label: "Herecké studio", column: 'center', subItems: [
@@ -59,7 +53,7 @@ const navItems = [
   },
   { route: "/projekty", label: "Projekty", column: 'right', subItems: [
       {
-        route: "/projekty/on-the-roud", label: "OLDstars on the Roud", column: 'left',
+        route: "/projekty/on-the-roud", label: "OLDstars on the ROUD", column: 'left',
       },
       {
         route: "/projekty/festival-studentskych-divadel", label: "Festival Studentských Divadel", column: 'center',

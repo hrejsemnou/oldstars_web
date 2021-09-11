@@ -23,7 +23,7 @@ const Footer = () => {
       cName = styles.activeLink;
     }
     return (
-      <Link href={item.route}>
+      <Link key={item.route} href={item.route}>
         <a className={cName}>
           {item.label}
         </a>
