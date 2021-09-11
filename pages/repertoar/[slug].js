@@ -3,6 +3,7 @@ import ReactMarkdown from 'react-markdown'
 import Image from 'next/image';
 
 import { getAllSnippets, getPageContentBySlug } from '../../lib/markdown'
+import { createDateObject } from '../../lib/parseProgram';
 import Layout from '../../components/Layout'
 import styles from './Detail.module.scss';
 import SplitContent from '../../components/SplitContent';
@@ -61,7 +62,7 @@ const Snippet = ({ page }) => {
         rightChild={
           <div>
             <h2>Kdy hrajeme</h2>
-            {page.reruns.map(rerun => (
+            {page.reruns.filter(item => createDateObject(item) > new Date()).map(rerun => (
               <div className="text-bold" key={`${rerun.date} ${rerun.time}`}>
                 {`${rerun.date} ${rerun.time} ${rerun.place}`}
               </div>

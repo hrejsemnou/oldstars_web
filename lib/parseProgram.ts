@@ -72,14 +72,19 @@ function getDayName(day: number) {
   };
 }
 
+export const createDateObject = (rerun: { date: string, time: string }) => {
+  const dateParts = rerun.date.split('.');
+  const timeParts = rerun.time.split(':');
+  const dateObject = new Date(new Date(+dateParts[2], +dateParts[1] - 1, +dateParts[0], +timeParts[0], +timeParts[1]));
+  return dateObject;
+}
+
 export const parseProgram = (program: Program[]) => {
   const parsedProgram: ParsedProgram[] = [];
   const dateObjects: Date[] = [];
   program.forEach((p) => {
     p.reruns.forEach(rerun => {
-      const dateParts = rerun.date.split('.');
-      const timeParts = rerun.time.split(':');
-      const dateObject = new Date(new Date(+dateParts[2], +dateParts[1] - 1, +dateParts[0], +timeParts[0], +timeParts[1]));
+      const dateObject = createDateObject(rerun);
       const dayName = getDayName(dateObject.getDay());
       dateObjects.push(dateObject);
       parsedProgram.push({
