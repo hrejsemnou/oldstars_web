@@ -111,7 +111,10 @@ export const parseProgram = (program: Program[]) => {
   return sortedProgram;
 };
 
-export const filterByMonth = (program: ParsedProgram[], month: number) => {
+export const filterByMonth = (program: ParsedProgram[], month: number | null) => {
+  if (month === null) {
+    return program;
+  }
   const today = new Date();
   return program.filter(item => item.dateObject.getMonth() === month - 1).filter(item => {
     if (item.dateObject.getMonth() < today.getMonth()) {
@@ -121,3 +124,9 @@ export const filterByMonth = (program: ParsedProgram[], month: number) => {
     }
   }).filter(item => item.dateObject.getFullYear() <= today.getFullYear() + 1);
 }
+
+export const getNextTwentyPlays = (program: Program[]) => {
+  const today = new Date();
+  const parsedProgram = parseProgram(program);
+  return parsedProgram.slice(0, 20).filter(item => item.dateObject > today);
+};
