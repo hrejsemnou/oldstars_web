@@ -18,6 +18,7 @@ const getTitle = (writer, translation) => {
 
 const Snippet = ({ page }) => {
   const router = new useRouter()
+  const reruns = page.reruns.filter(item => createDateObject(item) > new Date())
   return router.isFallback ? (
     <Layout title = "OLDStars > Repertoár">
       <div>Loading...</div>
@@ -62,11 +63,16 @@ const Snippet = ({ page }) => {
         rightChild={
           <div>
             <h2>Kdy hrajeme</h2>
-            {page.reruns.filter(item => createDateObject(item) > new Date()).map(rerun => (
-              <div className="text-bold" key={`${rerun.date} ${rerun.time}`}>
-                {`${rerun.date} ${rerun.time} ${rerun.place}`}
-              </div>
-            ))}
+            {reruns.length > 0 ? (
+              reruns.map(rerun => (
+                <div className="text-bold" key={`${rerun.date} ${rerun.time}`}>
+                  {`${rerun.date} ${rerun.time} ${rerun.place}`}
+                </div>
+                )
+              )) : (
+                <p>Momentálně není naplánovaná žádná repríza.</p>
+              )
+            }
             <div className={styles.gallery}>
               {page.images.map(i => (
                 <Image
