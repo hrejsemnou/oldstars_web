@@ -107,5 +107,12 @@ export const parseProgram = (program: Program[]) => {
 };
 
 export const filterByMonth = (program: ParsedProgram[], month: number) => {
-  return program.filter(item => item.dateObject.getMonth() === month - 1);
+  const today = new Date();
+  return program.filter(item => item.dateObject.getMonth() === month - 1).filter(item => {
+    if (item.dateObject.getMonth() < today.getMonth()) {
+      return item.dateObject.getFullYear() > today.getFullYear();
+    } else {
+      return item.dateObject.getFullYear() === today.getFullYear(); 
+    }
+  }).filter(item => item.dateObject.getFullYear() <= today.getFullYear() + 1);
 }
