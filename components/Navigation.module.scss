@@ -5,6 +5,10 @@
   display: flex;
 }
 
+.navigation:nth-of-type(2) {
+  margin-top: 0px;
+}
+
 .navLinks {
   display: flex;
   flex-direction: row;
