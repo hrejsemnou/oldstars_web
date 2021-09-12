@@ -1,13 +1,21 @@
+import React from 'react';
 import { useRouter } from 'next/router'
+import ReactMarkdown from 'react-markdown'
 import Link from 'next/link';
 
 import Layout from '../components/Layout'
 import SplitContent from '../components/SplitContent';
-import { getProgram } from '../lib/markdown';
+import { getProgram, getNews } from '../lib/markdown';
 import { Program as ProgramInterface, getNextTwentyPlays } from '../lib/parseProgram';
 import styles from './Index.module.scss';
 
-const Home = ({ program } : { program: ProgramInterface[] }) => {
+export interface News {
+  title: string;
+  date: string;
+  content: string;
+}
+
+const Home = ({ program, news } : { program: ProgramInterface[], news: News[] }) => {
   const parsedProgram = getNextTwentyPlays(program);
   const router = useRouter();
   return router.isFallback ? (
@@ -49,7 +57,23 @@ const Home = ({ program } : { program: ProgramInterface[] }) => {
         rightChild={
           <>
             <h2>Aktuality</h2>
-            <p>Lorem ipsum dolor...</p>
+            {news.sort((a, b) => {
+              if (a.date > b.date) { return -1; }
+              if (b.date > a.date) { return 1; }
+              return 0;
+            }).map(item => (
+              <React.Fragment key={item.title}>
+                <span className="text-bold">{item.title}</span>
+                <p>{item.date}</p>
+                <div>
+                  <ReactMarkdown
+                    source={item.content}
+                  />
+                </div>
+                <hr />
+              </React.Fragment>
+            ))
+            }
           </>
         }
       />
@@ -58,10 +82,12 @@ const Home = ({ program } : { program: ProgramInterface[] }) => {
 }
 
 export async function getStaticProps() {
+  const news = getNews(['date', 'title', 'content'])
   const program = getProgram()
   return {
     props: {
       program: program,
+      news: news,
     }
   };
 }
