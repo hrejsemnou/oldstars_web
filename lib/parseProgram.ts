@@ -83,7 +83,7 @@ export const parseProgram = (program: Program[]) => {
   const parsedProgram: ParsedProgram[] = [];
   const dateObjects: Date[] = [];
   program.forEach((p) => {
-    p.reruns.forEach(rerun => {
+    p.reruns ? p.reruns.forEach(rerun => {
       const dateObject = createDateObject(rerun);
       const dayName = getDayName(dateObject.getDay());
       dateObjects.push(dateObject);
@@ -97,7 +97,7 @@ export const parseProgram = (program: Program[]) => {
         place: rerun.place,
         dateObject: dateObject,
       });
-    });
+    }) : [];
   });
   const sortedProgram = parsedProgram.sort((dateA, dateB) => {
     if (dateA.dateObject > dateB.dateObject) {
