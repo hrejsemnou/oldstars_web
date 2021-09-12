@@ -18,7 +18,7 @@ const getTitle = (writer, translation) => {
 
 const Snippet = ({ page }) => {
   const router = new useRouter()
-  const reruns = page.reruns.filter(item => createDateObject(item) > new Date())
+  const reruns = page.reruns ? page.reruns.filter(item => createDateObject(item) > new Date()) : [];
   return router.isFallback ? (
     <Layout title = "OLDStars > Repertoár">
       <div>Loading...</div>

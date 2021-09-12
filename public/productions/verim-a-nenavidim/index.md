@@ -8,6 +8,7 @@ actors: 'Klára Cibulová'
 length: '1h'
 premiere: '2019-20-09 20:00'
 review: 'https://www.i-divadlo.cz/divadlo/oldstars/verim-a-nenavidim'
+tag: monodrama
 reruns:
   -
     date: '26.4.2020'
@@ -16,6 +17,30 @@ reruns:
   -
     date: '27.4.2020'
     time: '20:00'
+    place: 'Harold'
+  - 
+    date: '13.10.2021'
+    time: '20:30'
+    place: 'Harold'
+  - 
+    date: '5.10.2021'
+    time: '20:30'
+    place: 'Harold'
+  - 
+    date: '20.9.2021'
+    time: '20:30'
+    place: 'Harold'
+  - 
+    date: '6.10.2021'
+    time: '20:30'
+    place: 'Harold'
+  - 
+    date: '5.12.2021'
+    time: '20:30'
+    place: 'Harold'
+  - 
+    date: '5.11.2021'
+    time: '20:30'
     place: 'Harold'
 ---
 

@@ -9,6 +9,7 @@ interface Preview {
   slug: string;
   title: string;
   writer: string;
+  tag: string;
   images: string[];
 }
 
@@ -16,7 +17,7 @@ const Repertoar = ({ previews }: { previews: Preview[] }) => {
   return (
     <Layout title="OLDStars > Repertoár > Aktuální">
       <div className={styles.previews}>
-        {previews.map(p => {
+        {previews.filter(item => item.tag !== "guests" && item.tag !== "archive").map(p => {
           const thumbnail = p.images[Math.floor(Math.random() * p.images.length)];
           return (
             <div className={styles.preview}>
@@ -46,7 +47,7 @@ const Repertoar = ({ previews }: { previews: Preview[] }) => {
 };
 
 export async function getStaticProps() {
-  const previews = getAllSnippets(['slug', 'title', 'writer', 'images'])
+  const previews = getAllSnippets(['slug', 'title', 'writer', 'images', 'tag'])
   return {
     props: {
       previews: previews,
