@@ -61,7 +61,7 @@ const Home = ({ program, news } : { program: ProgramInterface[], news: News[] })
               if (a.date > b.date) { return -1; }
               if (b.date > a.date) { return 1; }
               return 0;
-            }).map(item => (
+            }).slice(0, 2).map(item => (
               <React.Fragment key={item.title}>
                 <span className="text-bold">{item.title}</span>
                 <p>{item.date}</p>
