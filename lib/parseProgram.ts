@@ -125,8 +125,8 @@ export const filterByMonth = (program: ParsedProgram[], month: number | null) =>
   }).filter(item => item.dateObject.getFullYear() <= today.getFullYear() + 1);
 }
 
-export const getNextTwentyPlays = (program: Program[]) => {
+export const getNextPlays = (program: Program[]) => {
   const today = new Date();
   const parsedProgram = parseProgram(program);
-  return parsedProgram.filter(item => item.dateObject > today).slice(0, 20);
+  return parsedProgram.filter(item => item.dateObject > today).slice(0, 5);
 };

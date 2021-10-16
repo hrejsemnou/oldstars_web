@@ -131,7 +131,7 @@ const Navigation = () => {
     );
   });
 
-  const renderSubLinks = (subItems: any[]) => subItems.map((subItem) => {
+  const renderSubLinks = (subItems: any[]) => subItems?.map((subItem) => {
     let cName = '';
     if (subItem.route !== '/') {
     } if (router.asPath === subItem.route) {
@@ -165,7 +165,7 @@ const Navigation = () => {
     ) {
       return [];
     }
-    return navItems.filter(item => router.pathname.includes(item.route) && item.route !== '/')[0].subItems;
+    return navItems.filter(item => router.pathname.includes(item.route) && item.route !== '/')[0]?.subItems;
   };
 
   return (
@@ -178,7 +178,7 @@ const Navigation = () => {
           <MenuToggle />
         </div>
       </nav>
-      {subItemsToShow().length > 0 && (
+      {subItemsToShow()?.length > 0 && (
         <hr />
       )}
       <nav className={styles.navigation}>

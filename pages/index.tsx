@@ -6,17 +6,18 @@ import Link from 'next/link';
 import Layout from '../components/Layout'
 import SplitContent from '../components/SplitContent';
 import { getProgram, getNews } from '../lib/markdown';
-import { Program as ProgramInterface, getNextTwentyPlays } from '../lib/parseProgram';
+import { Program as ProgramInterface, getNextPlays } from '../lib/parseProgram';
 import styles from './Index.module.scss';
 
 export interface News {
+  slug: string;
   title: string;
   date: string;
   content: string;
 }
 
 const Home = ({ program, news } : { program: ProgramInterface[], news: News[] }) => {
-  const parsedProgram = getNextTwentyPlays(program);
+  const parsedProgram = getNextPlays(program);
   const router = useRouter();
   return router.isFallback ? (
     <Layout title = "OLDStars > Program">
@@ -31,7 +32,7 @@ const Home = ({ program, news } : { program: ProgramInterface[], news: News[] })
             {parsedProgram.length === 0 ? (
               <p>Momentálně nejsou naplánována žádná představení.</p>
             ) : (
-              parsedProgram.slice(0, 5).map(item => (
+              parsedProgram.map(item => (
                 <Link href={`/repertoar/${item.slug}`} key={`${item.slug}${item.date}${item.time}`}>
                   <a>
                     <div className={styles.programItem}>
@@ -63,7 +64,9 @@ const Home = ({ program, news } : { program: ProgramInterface[], news: News[] })
               return 0;
             }).slice(0, 2).map(item => (
               <React.Fragment key={item.title}>
-                <span className="text-bold">{item.title}</span>
+                <Link href={`/novinky/${item.slug}`}>
+                  <a><span className="text-bold">{item.title}</span></a>
+                </Link>
                 <p>{item.date}</p>
                 <div>
                   <ReactMarkdown
@@ -82,7 +85,7 @@ const Home = ({ program, news } : { program: ProgramInterface[], news: News[] })
 }
 
 export async function getStaticProps() {
-  const news = getNews(['date', 'title', 'content'])
+  const news = getNews(['slug', 'date', 'title', 'content'])
   const program = getProgram()
   return {
     props: {
