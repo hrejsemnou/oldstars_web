@@ -31,7 +31,7 @@ const Home = ({ program, news } : { program: ProgramInterface[], news: News[] })
             {parsedProgram.length === 0 ? (
               <p>Momentálně nejsou naplánována žádná představení.</p>
             ) : (
-              parsedProgram.map(item => (
+              parsedProgram.slice(0, 5).map(item => (
                 <Link href={`/repertoar/${item.slug}`} key={`${item.slug}${item.date}${item.time}`}>
                   <a>
                     <div className={styles.programItem}>
@@ -67,7 +67,7 @@ const Home = ({ program, news } : { program: ProgramInterface[], news: News[] })
                 <p>{item.date}</p>
                 <div>
                   <ReactMarkdown
-                    source={item.content}
+                    source={item.content.substring(0, 400) + "..."}
                   />
                 </div>
                 <hr />
