@@ -57,6 +57,36 @@ const Snippet = ({ page }) => {
                   <span>Hraje: </span><strong>{page.actors}</strong>
                 </div>
               ) : null }
+              {page.videoart ? (
+                <div>
+                  <span>Videoart: </span><strong>{page.videoart}</strong>
+                </div>
+              ) : null }
+              {page.art ? (
+                <div>
+                  <span>Výtvarné řešení: </span><strong>{page.art}</strong>
+                </div>
+              ) : null }
+              {page.scenography ? (
+                <div>
+                  <span>Scénografie: </span><strong>{page.scenography}</strong>
+                </div>
+              ) : null }
+              {page.photography ? (
+                <div>
+                  <span>Fotografie: </span><strong>{page.photography}</strong>
+                </div>
+              ) : null }
+              {page.edit ? (
+                <div>
+                  <span>Úprava: </span><strong>{page.edit}</strong>
+                </div>
+              ) : null }
+              {page.music ? (
+                <div>
+                  <span>Hudba: </span><strong>{page.music}</strong>
+                </div>
+              ) : null }
             </div>
             <div className={styles.section}>
               {page.length ? (
@@ -130,6 +160,10 @@ export async function getStaticProps({ params }) {
     'review',
     'content',
     'images',
+    'scenography',
+    'videoart',
+    'art',
+    'edit',
     'reruns',
   ])
 
