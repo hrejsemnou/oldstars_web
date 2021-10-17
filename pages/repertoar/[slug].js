@@ -37,26 +37,43 @@ const Snippet = ({ page }) => {
               />
             </div>
             <div>
-              <div>
-                <span>Režie: </span><strong>{page.director}</strong>
-              </div>
-              <div>
-                <span>Dramaturgie: </span><strong>{page.dramaturgy}</strong>
-              </div>
-              <div>
-                <span>Hraje: </span><strong>{page.actors}</strong>
-              </div>
+              {page.director ? (
+                <div>
+                  <span>Režie: </span><strong>{page.director}</strong>
+                </div>
+              ) : null }
+              {page.dramaturgy ? (
+                <div>
+                  <span>Dramaturgie: </span><strong>{page.dramaturgy}</strong>
+                </div>
+              ) : null }
+              {page.production ? (
+                <div>
+                  <span>Produkce: </span><strong>{page.production}</strong>
+                </div>
+              ) : null }
+              {page.actors ? (
+                <div>
+                  <span>Hraje: </span><strong>{page.actors}</strong>
+                </div>
+              ) : null }
             </div>
             <div className={styles.section}>
-              <div>
-                <span>Délka představení: </span><strong>{page.length}</strong>
-              </div>
-              <div>
-                <span>Premiéra: </span><strong>{page.premiere}</strong>
-              </div>
-              <div>
-                <span>Recenze: </span><strong><a href={page.review}>i-divadlo</a></strong>
-              </div>
+              {page.length ? (
+                <div>
+                  <span>Délka představení: </span><strong>{page.length}</strong>
+                </div>
+              ) : null }
+              {page.premiere ? (
+                <div>
+                  <span>Premiéra: </span><strong>{page.premiere}</strong>
+                </div>
+              ) : null }
+              {page.review ? (
+                <div>
+                  <span>Recenze: </span><strong><a href={page.review}>i-divadlo</a></strong>
+                </div>
+              ) : null }
             </div>
           </div>
         }
@@ -65,8 +82,11 @@ const Snippet = ({ page }) => {
             <h2>Kdy hrajeme</h2>
             {reruns.length > 0 ? (
               reruns.map(rerun => (
-                <div className="text-bold" key={`${rerun.date} ${rerun.time}`}>
-                  {`${rerun.date} ${rerun.time} ${rerun.place}`}
+                <div className={`text-bold ${styles.reruns}`} key={`${rerun.date} ${rerun.time}`}>
+                  <span>{rerun.date}</span>
+                  <span>{rerun.time}</span>
+                  <span>{rerun.place}</span>
+                  {rerun.ticket && <a href={rerun.ticket}>Vstupenky</a>}
                 </div>
                 )
               )) : (
@@ -74,7 +94,7 @@ const Snippet = ({ page }) => {
               )
             }
             <div className={styles.gallery}>
-              {page.images.map(i => (
+              {page.images.sort(() => 0.5 - Math.random()).slice(0, 4).map(i => (
                 <Image
                   key={i}
                   src={`/productions/${page.slug}/images/${i}`}
@@ -102,6 +122,7 @@ export async function getStaticProps({ params }) {
     'translation',
     'note',
     'director',
+    'production',
     'dramaturgy',
     'actors',
     'length',
