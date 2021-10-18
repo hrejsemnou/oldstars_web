@@ -14,17 +14,17 @@ reruns:
   -
     date: '29.10.2021'
     time: '20:00'
-    place: 'Bytové divadlo Košická'
+    place: 'bytové divadlo Košická'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/sznusvr/'
   -
     date: '06.11.2021'
     time: '20:00'
-    place: 'Bytové divadlo Košická'
+    place: 'bytové divadlo Košická'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szkusvr/'
   -
     date: '20.11.2021'
     time: '20:00'
-    place: 'Bytové divadlo Košická'
+    place: 'bytové divadlo Košická'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szlusvr/'
 ---
 Hlavní a jedinou postavou hry je chlapec, který má za 80 minut jediný úkol - přesvědčit nejen svou matku, že na světě existuje milion věcí, kvůli kterým stojí za to se nezabíjet…
