@@ -113,10 +113,13 @@ const Snippet = ({ page }) => {
             {reruns.length > 0 ? (
               reruns.map(rerun => (
                 <div className={`text-bold ${styles.reruns}`} key={`${rerun.date} ${rerun.time}`}>
-                  <span>{rerun.date}</span>
-                  <span>{rerun.time}</span>
-                  <span>{rerun.place}</span>
-                  {rerun.ticket && <a href={rerun.ticket}>Vstupenky</a>}
+                  <div classname={styles.datetime}>
+                    <div>{`${rerun.date} ${rerun.time}`}</div>
+                    <div>{rerun.place}</div>
+                  </div>
+                  <div className={styles.placetickets}>
+                    {rerun.ticket && <a href={rerun.ticket}>Vstupenky</a>}
+                  </div>
                 </div>
                 )
               )) : (
