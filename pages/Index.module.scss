@@ -23,14 +23,21 @@
   display: flex;
   flex-flow: column;
   justify-content: space-between;
-  flex-basis: 40%;
-  min-width: 40%;
 }
 
-@media only screen and (min-width: 768px) {
-  .info {
-    flex-basis: 60%;
-    min-width: 60%;
+@media only screen and (max-width: 520px) {
+  .datetime {
+    flex-direction: row !important;
+  }
+  .time {
+    margin-top: 0 !important;
+    margin-left: 0.5rem;
+  }
+  .day {
+    display: none;
+  }
+  .note {
+    display: none;
   }
 }
 
@@ -42,7 +49,6 @@
 .datetime {
   display: flex;
   flex-flow: column;
-  min-width: 20%;
 }
 
 .day, .time {
@@ -50,6 +56,20 @@
 }
 
 .place {
-  min-width: 20%;
   text-align: right;
+}
+
+@media only screen and (min-width: 521px) {
+  .timeAndInfo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .datetime {
+    order: 1;
+  }
+  .info {
+    order: 2;
+    margin-left: 2rem;
+  }
 }

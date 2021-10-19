@@ -23,14 +23,16 @@ const Program = ({ program, month }: { month: number, program: ProgramInterface[
           <Link href={`/repertoar/${item.slug}`} key={`${item.slug}${item.date}${item.time}`}>
             <a>
               <div className={styles.programItem}>
-                <div className={styles.datetime}>
-                  <span className="text-bold">{item.date}</span>
-                  <span className={styles.time}>{item.time}</span>
-                  <span className={styles.day}>{item.day}</span>
-                </div>
-                <div className={styles.info}>
-                  <span className={styles.title}>{item.title}</span>
-                  <span>{item.note}</span>
+                <div className={styles.timeAndInfo}>
+                  <div className={styles.info}>
+                    <span className={styles.title}>{item.title}</span>
+                    <span className={styles.note}>{item.note}</span>
+                  </div>
+                  <div className={styles.datetime}>
+                    <span className="text-bold">{item.date}</span>
+                    <span className={styles.time}>{item.time}</span>
+                    <span className={styles.day}>{item.day}</span>
+                  </div>
                 </div>
                 <div className={styles.place}>
                   <span>{item.place}</span>
