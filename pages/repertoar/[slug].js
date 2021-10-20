@@ -132,6 +132,7 @@ const Snippet = ({ page }) => {
                   key={i}
                   src={`/productions/${page.slug}/images/${i}`}
                   alt={`${page.title}/${i}`}
+                  objectFit="cover"
                   height={135}
                   width={240}
                 />
