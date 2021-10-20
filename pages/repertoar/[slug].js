@@ -1,12 +1,12 @@
 import { useRouter } from 'next/router'
 import ReactMarkdown from 'react-markdown'
-import Image from 'next/image';
 
 import { getAllSnippets, getPageContentBySlug } from '../../lib/markdown'
 import { createDateObject } from '../../lib/parseProgram';
 import Layout from '../../components/Layout'
 import styles from './Detail.module.scss';
 import SplitContent from '../../components/SplitContent';
+import ImageGallery from '../../components/ImageGallery';
 
 const getTitle = (writer, translation) => {
   if (translation) {
@@ -113,7 +113,7 @@ const Snippet = ({ page }) => {
             {reruns.length > 0 ? (
               reruns.map(rerun => (
                 <div className={`text-bold ${styles.reruns}`} key={`${rerun.date} ${rerun.time}`}>
-                  <div classname={styles.datetime}>
+                  <div className={styles.datetime}>
                     <div>{`${rerun.date} ${rerun.time}`}</div>
                     <div>{rerun.place}</div>
                   </div>
@@ -126,18 +126,7 @@ const Snippet = ({ page }) => {
                 <p>Momentálně není naplánovaná žádná repríza.</p>
               )
             }
-            <div className={styles.gallery}>
-              {page.images.sort(() => 0.5 - Math.random()).slice(0, 4).map(i => (
-                <Image
-                  key={i}
-                  src={`/productions/${page.slug}/images/${i}`}
-                  alt={`${page.title}/${i}`}
-                  objectFit="cover"
-                  height={135}
-                  width={240}
-                />
-              ))}
-            </div>
+            <ImageGallery images={page.images.sort().map(image => `/productions/${page.slug}/images/${image}`)} />
           </div>
         }
       />

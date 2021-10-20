@@ -11,8 +11,18 @@
   flex-basis: 33%;
 }
 
-@media only screen and (max-width: 520px) {
+@media only screen and (max-width: 720px) {
   .splitContent {
-    flex-direction: column;
+    flex-direction: column !important;
+  }
+}
+
+@media only screen and (min-width: 720px) {
+  .leftChild {
+    max-width: 60%;
+  }
+
+  .rightChild {
+    max-width: 33%;
   }
 }
