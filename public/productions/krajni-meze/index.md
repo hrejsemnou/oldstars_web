@@ -23,6 +23,4 @@ reruns:
 ---
 Už jste někdy přišli domů, našli chlapa v krbu a poblíž svou kamarádku, která se chová poměrně zvláštně? Hra o spravedlnosti, touze po pomstě a relativitě pravdy. #MeToo
 
-**Ahoj** *Ahoj*
-
 [Trailer](https://www.youtube.com/watch?v=BMusI3p8XjU)
