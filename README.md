@@ -1,8 +1,8 @@
 # Jak přidávat nový content
 
 ## Inscenace
-- ve slozce `public/productions` vytvorit soubor ve formatu `nazev-inscenace/index.md` (Ve složce productions kliknout na Add File > Create New File)
-- vzorový index soubor pro inscenaci vypadá takhle:
+- ve složce `public/productions` vytvořit soubor ve formátu `nazev-inscenace/index.md` (Ve složce productions kliknout na Add File > Create New File)
+- vzorový index soubor pro inscenaci vypadá třeba takhle:
 ```
 ---
 title: 'Margaritě...'
