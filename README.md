@@ -1,7 +1,7 @@
 # Jak přidávat nový content
 
 ## Inscenace
-- ve slozce `public/productions` vytvorit soubor ve formatu `<nazev-inscenace>/index.md`
+- ve slozce `public/productions` vytvorit soubor ve formatu `<nazev-inscenace>/index.md` (Ve složce productions kliknout na Add File > Create New File)
 - vzorový index soubor pro inscenaci vypadá takhle:
 ```
 ---
@@ -43,4 +43,4 @@ mediální ohlasy:
 Autorská práva zastupuje AURA PONT
 ```
 Nahoře jsou metadata a reprízy (reruns), pod čarou potom popis, který podporuje [Markdownové formátování](https://www.markdownguide.org/cheat-sheet)
-- pro nahrání fotek je momentálně nutné u sebe na počítači vytvořit složku `images`, do ní vložit fotky (nezáleží na jejich názvu ani formátu) a celou složku poté přetáhnout do složky inscenace (Ve složce inscenace Add Files -> Upload Files)
+- pro nahrání fotek je momentálně nutné u sebe na počítači vytvořit složku `images`, do ní vložit fotky (nezáleží na jejich názvu ani formátu) a celou složku poté přetáhnout do složky inscenace (Ve složce inscenace Add File -> Upload Files)
