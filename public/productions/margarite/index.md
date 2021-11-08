@@ -30,7 +30,7 @@ Jak bojovat s nepřízní osudu? Nejlépe s humorem, nevadí, že je občas drsn
 
 Vstupenky k dispozici přes předprodejní server GOOUT. Zakoupením vstupenky přispějete na Bellis Young & Cancer - projekt Aliance žen s rakovinou prsu.
 
-mediální ohlasy:
+**Mediální ohlasy:**
 
 "Naturelu Ljuby Krbové hra přesně sedí. Herečka nevystoupí z role, jakoby příběh opravdu odžila. Navíc v malém podkroví Werichovy vily dokáže blízko sedící diváky doslova vtáhnout." Pavel Širmer, i-divadlo.cz, 11. 4. 2018
 
