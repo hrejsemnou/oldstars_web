@@ -42,5 +42,22 @@ mediální ohlasy:
 
 Autorská práva zastupuje AURA PONT
 ```
-Nahoře jsou metadata a reprízy (reruns), pod čarou potom popis, který podporuje [Markdownové formátování](https://www.markdownguide.org/cheat-sheet)
+- Nahoře jsou metadata a reprízy (reruns), pod čarou potom popis, který podporuje [Markdownové formátování](https://www.markdownguide.org/cheat-sheet)
+- Podporovaná metadata (povinný je jen název a autor, zbytek se dá vypsat i v popisku dole v markdownu)
+  - title: Název inscenace
+  - writer: Autor
+  - translation: Překladatel
+  - director: Režie
+  - dramaturgy: Dramaturgie
+  - production: Produkce
+  - actors: Hraje
+  - videoart: Videoart
+  - art: Výtvarné řešení
+  - scenography: Scénografie
+  - photography: Fotografie
+  - edit: Úprava
+  - music: Hudba
+  - length: Délka představení
+  - premiere: Premiéra
+  - reruns: Reprízy
 - pro nahrání fotek je momentálně nutné u sebe na počítači vytvořit složku `images`, do ní vložit fotky (nezáleží na jejich názvu ani formátu) a celou složku poté přetáhnout do složky inscenace (Ve složce inscenace Add File -> Upload Files)
