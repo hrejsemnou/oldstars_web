@@ -46,6 +46,7 @@ Autorská práva zastupuje AURA PONT
 - Podporovaná metadata (povinný je jen název a autor, zbytek se dá vypsat i v popisku dole v markdownu)
   - title: Název inscenace
   - writer: Autor
+  - tag: archive / monodrama / guests
   - translation: Překladatel
   - director: Režie
   - dramaturgy: Dramaturgie
