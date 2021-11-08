@@ -7,6 +7,7 @@ const ImageGallery = ({ images }) => {
     <ReactImageGallery
       showPlayButton={false}
       showFullscreenButton={false}
+      showThumbnails={images.length > 1}
       items={images.map(image => ({ original: image, thumbnail: image }))}
       renderItem={(image) => (
         <a href={image.original} target='_blank'>

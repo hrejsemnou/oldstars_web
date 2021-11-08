@@ -9,13 +9,14 @@ const Monodramas = ({ previews }) => (
   <Layout title="OLDStars > Repertoár > Monodramata">
       <div className={styles.previews}>
         {previews.filter(item => item.tag === "monodrama").map(p => {
-          const thumbnail = p.images[Math.floor(Math.random() * p.images.length)];
+          const hasImage = p.images.length > 0;
+          const thumbnail = hasImage ? p.images[Math.floor(Math.random() * p.images.length)] : '/no-image.png';
           return (
             <div className={styles.preview} key={p.title}>
               <Link href={`/repertoar/${p.slug}`} key={p.slug}>
                 <a className="text-bold">
                   <Image
-                    src={`/productions/${p.slug}/images/${thumbnail}`}
+                    src={hasImage ? `/productions/${p.slug}/images/${thumbnail}` : '/no-image.png'}
                     alt={p.title}
                     objectFit="cover"
                     height={200}

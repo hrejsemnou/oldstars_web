@@ -126,7 +126,11 @@ const Snippet = ({ page }) => {
                 <p>Momentálně není naplánovaná žádná repríza.</p>
               )
             }
-            <ImageGallery images={page.images.sort().map(image => `/productions/${page.slug}/images/${image}`)} />
+            {page.images.length > 0 ? (
+              <ImageGallery images={page.images?.sort().map(image => `/productions/${page.slug}/images/${image}`)} />
+            ) : (
+              <ImageGallery images={['/no-image.png']} />
+            )}
           </div>
         }
       />
