@@ -39,6 +39,7 @@ const Home = () => (
       <a href="/tiskovky/TZ_OLDstars_se_vrací_z_Žižkova_do_Vršovic_2018.pdf" download>TZ OLDstars se vrací ze Žižkova do Vršovic 2018</a>
     </p>
     <h2>Monitoring mediálních výstupů</h2>
+    <p>TODO</p>
   </Layout>
 )
 

@@ -59,7 +59,7 @@ const Home = ({ program, news } : { program: ProgramInterface[], news: News[] })
         }
         rightChild={
           <>
-            <h2>Aktuality</h2>
+            <h2><Link href="/novinky">Aktuality</Link></h2>
             {news.sort((a, b) => {
               if (a.date > b.date) { return -1; }
               if (b.date > a.date) { return 1; }
