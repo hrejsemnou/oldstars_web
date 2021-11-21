@@ -122,7 +122,8 @@ export const filterByMonth = (program: ParsedProgram[], month: number | null) =>
     } else {
       return item.dateObject.getFullYear() === today.getFullYear(); 
     }
-  }).filter(item => item.dateObject.getFullYear() <= today.getFullYear() + 1);
+  }).filter(item => item.dateObject.getFullYear() <= today.getFullYear() + 1)
+  .filter(item => item.dateObject >= today);
 }
 
 export const getNextPlays = (program: Program[]) => {
