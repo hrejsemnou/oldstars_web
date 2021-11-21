@@ -1,3 +1,21 @@
 .header {
+  margin-top: 2.5rem;
   width: 100%;
+}
+
+.headerFirstRow {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  h1 {
+    margin-top: unset;
+    margin-bottom: unset;
+  }
+
+  & :nth-child(2) {
+    & > * {
+      margin-left: 0.5rem;
+    }
+  }
 }
