@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import { useRouter } from 'next/router'
 import ReactMarkdown from 'react-markdown'
 
@@ -16,9 +17,28 @@ const getTitle = (writer, translation) => {
   }
 }
 
+const ReservationForm = ({ show }) => {
+  if (show) {
+    return (
+      <form>
+        <h4>Rezervace vstupenek</h4>
+        <label htmlFor="name">Jméno a příjmení</label>
+        <input type="text" name="name" />
+        <label htmlFor="e-mail">E-mail</label>
+        <input type="email" name="e-mail" />
+        <label htmlFor="amount">Počet vstupenek</label>
+        <input type="number" name="amount" />
+      </form>
+    );
+  } else {
+    return null;
+  }
+};
+
 const Snippet = ({ page }) => {
   const router = new useRouter()
   const reruns = page.reruns ? page.reruns.filter(item => createDateObject(item) > new Date()) : [];
+  const [showRerunForm, setShowRerunForm] = useState(null);
   return router.isFallback ? (
     <Layout title = "OLDStars > Repertoár">
       <div>Loading...</div>
@@ -111,14 +131,26 @@ const Snippet = ({ page }) => {
           <div>
             <h2>Kdy hrajeme</h2>
             {reruns.length > 0 ? (
-              reruns.map(rerun => (
+              reruns.map((rerun, index) => (
                 <div className={`text-bold ${styles.reruns}`} key={`${rerun.date} ${rerun.time}`}>
                   <div className={styles.datetime}>
                     <div>{`${rerun.date} ${rerun.time}`}</div>
                     <div>{rerun.place}</div>
                   </div>
                   <div className={styles.placetickets}>
-                    {rerun.ticket && <a href={rerun.ticket}>Vstupenky</a>}
+                    {rerun.ticket ? (
+                      <a href={rerun.ticket}>Vstupenky</a>
+                    ) : (
+                      <>
+                        <span
+                          onClick={() => { setShowRerunForm(index) }}
+                          className={styles.ticketCollapsible}
+                        >
+                          Vstupenky
+                        </span>
+                        <ReservationForm show={showRerunForm === index} />
+                      </>
+                    )}
                   </div>
                 </div>
                 )
