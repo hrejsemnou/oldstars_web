@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { useRouter } from 'next/router'
 import ReactMarkdown from 'react-markdown'
 
@@ -17,21 +17,27 @@ const getTitle = (writer, translation) => {
   }
 }
 
-const ReservationForm = ({ show }) => {
+const ReservationForm = ({ show, title, rerun }) => {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [amount, setAmount] = useState("");
   const [submitted, setSubmitted] = useState(false);
 
+  useEffect(() => {
+    if (submitted) {
+      setSubmitted(false);
+    }
+  }, [show]);
+
   const handleSubmit = (e) => { 
     e.preventDefault();
-    console.log("Sending");
     let data = {
       name,
       email,
-      amount
+      amount,
+      title,
+      rerun
     }
-    console.log(data);
 
     fetch('/api/reservation', {
       method: 'POST',
@@ -41,18 +47,20 @@ const ReservationForm = ({ show }) => {
       },
       body: JSON.stringify(data)
     }).then((res) => {
-      console.log("Response received");
       if (res.status === 200) {
-        console.log("Response succeeded");
-        setSubmitted(true);
         setName('');
         setEmail('');
-        setBody('');
+        setAmount('');
+        setSubmitted(true);
       }
     })
   };
+  
+  if (show && submitted) {
+    return <div className={styles.reservationSuccess}>Žádost o rezervaci byla úspěšně odeslána. Až se k ní dostaneme, pošleme Vám potvrzení. Děkujeme!</div>
+  }
 
-  if (show) {
+  if (show && !submitted) {
     return (
       <form className={styles.reservationForm}>
         <h4>Rezervace vstupenek</h4>
@@ -199,7 +207,7 @@ const Snippet = ({ page }) => {
                       )}
                     </div>
                   </div>
-                  <ReservationForm show={showRerunForm === index} />
+                  <ReservationForm show={showRerunForm === index} title={page.title} rerun={rerun} />
                 </React.Fragment>
                 )
               )) : (

@@ -7,22 +7,22 @@ export default function (req, res) {
     port: 465,
     host: "smtp.gmail.com",
     auth: {
-      user: 'oldstarsharold@gmail.com',
-      pass: PASSWORD,
+      user: 'demo.odesilatel@gmail.com',
+      pass: 'demo12345',
     },
     secure: true,
   });
   const mailData = {
-    from: 'oldstarsharold@gmail.cz',
-    to: 'lukas.sahula@icloud.com',
+    from: 'demo.odesilatel@gmail.com',
+    to: 'demo.prijemce@gmail.com',
     subject: `Rezervace`,
-    text: `Na jméno ${req.body.name} ${req.body.email} ${req.body.amount}`,
+    text: `Rezervace na představení ${req.body.title} ${req.body.rerun.date} ${req.body.rerun.time} ${req.body.rerun.place}. Jméno: ${req.body.name}, e-mail: ${req.body.email}, počet lístků: ${req.body.amount}`,
   }
   transporter.sendMail(mailData, function (err, info) {
     if(err)
       console.log(err)
     else
       console.log(info)
-  })
-  res.status(200);
+  });
+  res.status(200).end();
 }
