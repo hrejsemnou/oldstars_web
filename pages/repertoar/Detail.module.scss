@@ -37,7 +37,7 @@
 .reservationForm {
   margin-bottom: 1rem;
 
-  & formGroup {
+  & div.formGroup {
     display: flex;
     flex-direction: column;
     width: 50%;
@@ -48,6 +48,8 @@
   }
 
   & button {
+    height: 1.5rem;
+    border-radius: 3px;
     margin-top: 1rem;
     color: $white;
     background-color: $red;
@@ -59,8 +61,11 @@
   & button:active {
     background-color: $red-button-active;
   }
+  & button:disabled {
+    background-color: grey;
+  }
 
-  & div {
+  & div.message {
     margin-top: 1rem;
   }
 }

@@ -18,26 +18,60 @@ const getTitle = (writer, translation) => {
 }
 
 const ReservationForm = ({ show }) => {
+  const [name, setName] = useState("");
+  const [email, setEmail] = useState("");
+  const [amount, setAmount] = useState("");
+  const [submitted, setSubmitted] = useState(false);
+
+  const handleSubmit = (e) => { 
+    e.preventDefault();
+    console.log("Sending");
+    let data = {
+      name,
+      email,
+      amount
+    }
+    console.log(data);
+
+    fetch('/api/reservation', {
+      method: 'POST',
+      headers: {
+        'Accept': 'application/json, text/plain, */*',
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(data)
+    }).then((res) => {
+      console.log("Response received");
+      if (res.status === 200) {
+        console.log("Response succeeded");
+        setSubmitted(true);
+        setName('');
+        setEmail('');
+        setBody('');
+      }
+    })
+  };
+
   if (show) {
     return (
       <form className={styles.reservationForm}>
         <h4>Rezervace vstupenek</h4>
-        <formGroup>
+        <div className={styles.formGroup}>
           <label htmlFor="name">Jméno a příjmení</label>
-          <input type="text" name="name" />
-        </formGroup>
-        <formGroup>
+          <input type="text" name="name" onChange={e => setName(e.target.value)}/>
+        </div>
+        <div className={styles.formGroup}>
           <label htmlFor="e-mail">E-mail</label>
-          <input type="email" name="e-mail" />
-        </formGroup>
-        <formGroup>
+          <input type="email" name="e-mail" onChange={e => setEmail(e.target.value)}/>
+        </div>
+        <div className={styles.formGroup}>
           <label htmlFor="amount">Počet vstupenek</label>
-          <input type="number" min="0" name="amount" />
-        </formGroup>
-        <formGroup>
-          <button type="submit">Rezervovat</button>
-        </formGroup>
+          <input type="number" min="0" name="amount" onChange={e => setAmount(e.target.value)}/>
+        </div>
         <div>
+          <button type="submit" disabled={name === "" || email === "" || amount === ""} onClick={e => handleSubmit(e)}>Rezervovat</button>
+        </div>
+        <div className={styles.message}>
           Rezervované vstupenky si vyzvedávejte 20 minut před začátkem představení v místě jeho konání. V případě, že změníte plány, zrušte prosím svoji rezezervaci na <a href="mailto:info@oldstars.cz">info@oldstars.cz</a>.
         </div>
       </form>
@@ -144,8 +178,8 @@ const Snippet = ({ page }) => {
             <h2>Kdy hrajeme</h2>
             {reruns.length > 0 ? (
               reruns.map((rerun, index) => (
-                <>
-                  <div className={`text-bold ${styles.reruns}`} key={`${rerun.date} ${rerun.time}`}>
+                <React.Fragment key={`${rerun.date} ${rerun.time}`}>
+                  <div className={`text-bold ${styles.reruns}`}>
                     <div className={styles.datetime}>
                       <div>{`${rerun.date} ${rerun.time}`}</div>
                       <div>{rerun.place}</div>
@@ -166,7 +200,7 @@ const Snippet = ({ page }) => {
                     </div>
                   </div>
                   <ReservationForm show={showRerunForm === index} />
-                </>
+                </React.Fragment>
                 )
               )) : (
                 <p>Momentálně není naplánovaná žádná repríza.</p>
