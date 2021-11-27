@@ -1,7 +1,7 @@
 require('dotenv').config()
 const PASSWORD = process.env.password;
 
-export default function (req, res) {
+export default async function (req, res) {
   let nodemailer = require('nodemailer')
   const transporter = nodemailer.createTransport({
     port: 465,
@@ -18,11 +18,18 @@ export default function (req, res) {
     subject: `Rezervace`,
     text: `Rezervace na představení ${req.body.title} ${req.body.rerun.date} ${req.body.rerun.time} ${req.body.rerun.place}. Jméno: ${req.body.name}, e-mail: ${req.body.email}, počet lístků: ${req.body.amount}`,
   }
-  transporter.sendMail(mailData, function (err, info) {
-    if(err)
-      console.log(err)
-    else
-      console.log(info)
+
+  await new Promise((resolve, reject) => {
+    transporter.sendMail(mailData, function (err, info) {
+      if (err) {
+        console.error(err);
+        reject(err);
+      }
+      else {
+        console.log(info)
+        resolve(info);
+      }
+    });
+    res.status(200).end();
   });
-  res.status(200).end();
 }
