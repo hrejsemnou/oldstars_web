@@ -33,3 +33,34 @@
 .ticketCollapsible:hover {
   color: $white;
 }
+
+.reservationForm {
+  margin-bottom: 1rem;
+
+  & formGroup {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+  }
+
+  & input {
+    margin-top: 0.5rem;
+  }
+
+  & button {
+    margin-top: 1rem;
+    color: $white;
+    background-color: $red;
+    border: unset;
+  } 
+  & button:hover {
+    background-color: $red-button-hover;
+  }
+  & button:active {
+    background-color: $red-button-active;
+  }
+
+  & div {
+    margin-top: 1rem;
+  }
+}

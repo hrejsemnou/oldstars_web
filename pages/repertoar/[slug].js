@@ -20,14 +20,26 @@ const getTitle = (writer, translation) => {
 const ReservationForm = ({ show }) => {
   if (show) {
     return (
-      <form>
+      <form className={styles.reservationForm}>
         <h4>Rezervace vstupenek</h4>
-        <label htmlFor="name">Jméno a příjmení</label>
-        <input type="text" name="name" />
-        <label htmlFor="e-mail">E-mail</label>
-        <input type="email" name="e-mail" />
-        <label htmlFor="amount">Počet vstupenek</label>
-        <input type="number" name="amount" />
+        <formGroup>
+          <label htmlFor="name">Jméno a příjmení</label>
+          <input type="text" name="name" />
+        </formGroup>
+        <formGroup>
+          <label htmlFor="e-mail">E-mail</label>
+          <input type="email" name="e-mail" />
+        </formGroup>
+        <formGroup>
+          <label htmlFor="amount">Počet vstupenek</label>
+          <input type="number" min="0" name="amount" />
+        </formGroup>
+        <formGroup>
+          <button type="submit">Rezervovat</button>
+        </formGroup>
+        <div>
+          Rezervované vstupenky si vyzvedávejte 20 minut před začátkem představení v místě jeho konání. V případě, že změníte plány, zrušte prosím svoji rezezervaci na <a href="mailto:info@oldstars.cz">info@oldstars.cz</a>.
+        </div>
       </form>
     );
   } else {
@@ -132,27 +144,29 @@ const Snippet = ({ page }) => {
             <h2>Kdy hrajeme</h2>
             {reruns.length > 0 ? (
               reruns.map((rerun, index) => (
-                <div className={`text-bold ${styles.reruns}`} key={`${rerun.date} ${rerun.time}`}>
-                  <div className={styles.datetime}>
-                    <div>{`${rerun.date} ${rerun.time}`}</div>
-                    <div>{rerun.place}</div>
+                <>
+                  <div className={`text-bold ${styles.reruns}`} key={`${rerun.date} ${rerun.time}`}>
+                    <div className={styles.datetime}>
+                      <div>{`${rerun.date} ${rerun.time}`}</div>
+                      <div>{rerun.place}</div>
+                    </div>
+                    <div className={styles.placetickets}>
+                      {rerun.ticket ? (
+                        <a href={rerun.ticket}>Vstupenky</a>
+                      ) : (
+                        <>
+                          <span
+                            onClick={() => { setShowRerunForm(index) }}
+                            className={styles.ticketCollapsible}
+                          >
+                            Vstupenky
+                          </span>
+                        </>
+                      )}
+                    </div>
                   </div>
-                  <div className={styles.placetickets}>
-                    {rerun.ticket ? (
-                      <a href={rerun.ticket}>Vstupenky</a>
-                    ) : (
-                      <>
-                        <span
-                          onClick={() => { setShowRerunForm(index) }}
-                          className={styles.ticketCollapsible}
-                        >
-                          Vstupenky
-                        </span>
-                        <ReservationForm show={showRerunForm === index} />
-                      </>
-                    )}
-                  </div>
-                </div>
+                  <ReservationForm show={showRerunForm === index} />
+                </>
                 )
               )) : (
                 <p>Momentálně není naplánovaná žádná repríza.</p>
