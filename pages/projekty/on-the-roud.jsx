@@ -13,7 +13,7 @@ const Home = () => (
       Poslední ročník, Festival OLDstars on the ROUD 2021 byl podpořen grantem Ministerstvem kultury – Státního fondu kultury. Osmý ročník proběhl pod záštitou hejtmana Ústeckého kraje Ing. Jana Schillera a rektorky Akademie múzických umění PhDr. Ingeborg Radok Žádné. Partnery festivalu byli Kino Sokol a Cukrárna Dortletka. Děkujeme také SOŠ a SOU a Gymnáziu v Roudnici nad Labem a jejím ředitelům Ing. Richardu Červenému a Mgr. Petru Dobešovi za pomoc a podporu při organizaci festivalu.
     </p>
     <h3>Proběhlé ročníky</h3>
-    <p>TODO: Odkazy na minule rocniky</p>
+    <p>Omlouváme se, na této sekci se pracuje</p>
     <h3>Kontakty</h3>
     <div>
       koordinátorka festivalu
@@ -29,7 +29,7 @@ const Home = () => (
       Klára Vaňkátová, +420 733 665 680, <a href="mailto:klara.vankatova.kv@seznam.cz">klara.vankatova.kv@seznam.cz</a>
     </div>
     <h3>Články</h3>
-    <p>TODO: Odkazy na clanky</p>
+    <p>Omlouváme se, na této sekci se pracuje</p>
   </Layout>
 )
 

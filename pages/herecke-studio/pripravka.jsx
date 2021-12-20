@@ -23,7 +23,7 @@ const Home = () => (
       Počet studentů ve skupině je omezen. Více informací a přihlášky na <a href="mailto:herectvi@oldstars.cz">herectvi@oldstars.cz</a>.
     </p>
     <h3>Minulé přípravky</h3>
-    <p>TODO: Odkazy na clanky</p>
+    <p>Omlouváme se, na této sekci se pracuje.</p>
   </Layout>
 )
 

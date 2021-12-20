@@ -10,7 +10,7 @@ const Home = () => (
       Festival je nízkorozpočtový a tradičně je podporován městskou částí Prahy 1. 
     </p>
     <h3>Proběhlé ročníky</h3>
-    <p>TODO: Odkazy na minule rocniky</p>
+    <p>Omlouváme se, na této sekci se pracuje</p>
     <h3>Kontakty</h3>
     <div>
       koordinátorka festivalu
@@ -26,7 +26,7 @@ const Home = () => (
       Klára Vaňkátová, +420 733 665 680, <a href="mailto:klara.vankatova.kv@seznam.cz">klara.vankatova.kv@seznam.cz</a>
     </div>
     <h3>Články</h3>
-    <p>TODO: Odkazy na clanky</p>
+    <p>Omlouváme se, na této sekci se pracuje</p>
   </Layout>
 )
 

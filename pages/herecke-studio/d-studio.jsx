@@ -19,14 +19,17 @@ const Home = () => (
       Lektory Dětského studia v průběhu let byli: Jeník Tyl, Aška Luhanová, Madla Rutová, Daniela Von Vorst nebo Zuzana Horáková. Od roku 2019 studio vedou naše členky Bára Waschingerová a Eva Sinkovičová.
     </p>
     <h3>Kontakt</h3>
-    <p>TODO: Kontaktní formulář</p>
+    <p>
+      <a href="/documents/Zavazna_prihlaska.pdf" download>Přihláška do hereckého studia</a>
+    </p>
     <p>
       Zkoušíme pravidelně jednou týdně dvě hodiny. Alespoň jednou za rok navštívíme představení v některém z pražských divadel a vyrazíme spolu i na víkendové soustředění. Aby rodiče měli představu o tom, jak se s dětmi pracujeme, máme pro ně (a s nimi) minimálně jednou do roka otevřenou hodinu, kde nás nejen pozorují, ale taky si něco málo vyzkouší na vlastní kůži.
     </p>
     <p>
       Veškeré informace na emailu <a href="mailto:detskestudio@oldstars.cz">detskestudio@oldstars.cz</a>.
     </p>
-    <h4>TODO: Minulé roky</h4>
+    <h4>Minulé ročníky</h4>
+    <p>Omlouváme se, na této sekci se pracuje.</p>
   </Layout>
 )
 

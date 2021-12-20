@@ -12,7 +12,7 @@ const Home = () => (
         <Image
           layout="fixed"
           key="tstanek"
-          src="/productions/verim-a-nenavidim/images/1.jpg"
+          src="/no-image.png"
           alt="tomas-stanek-foto"
           height={135}
           width={240}
@@ -67,7 +67,7 @@ const Home = () => (
         <Image
           layout="fixed"
           key="zhorakova"
-          src="/productions/verim-a-nenavidim/images/1.jpg"
+          src="/no-image.png"
           alt="zuzana-horakova-foto"
           height={135}
           width={240}
@@ -89,7 +89,7 @@ const Home = () => (
         <Image
           layout="fixed"
           key="jhorak"
-          src="/productions/verim-a-nenavidim/images/1.jpg"
+          src="/no-image.png"
           alt="jan-horak-foto"
           height={135}
           width={240}
@@ -111,7 +111,7 @@ const Home = () => (
         <Image
           layout="fixed"
           key="dvonvorst"
-          src="/productions/verim-a-nenavidim/images/1.jpg"
+          src="/no-image.png"
           alt="daniela-von-vorst-foto"
           height={135}
           width={240}
@@ -133,7 +133,7 @@ const Home = () => (
         <Image
           layout="fixed"
           key="esinkovicova"
-          src="/productions/verim-a-nenavidim/images/1.jpg"
+          src="/no-image.png"
           alt="eva-sinkovicova-foto"
           height={135}
           width={240}
@@ -150,7 +150,7 @@ const Home = () => (
         <Image
           layout="fixed"
           key="bwaschingerova"
-          src="/productions/verim-a-nenavidim/images/1.jpg"
+          src="/no-image.png"
           alt="bara=waschingerova-foto"
           height={135}
           width={240}

@@ -1,11 +1,13 @@
 import Layout from '../../components/Layout'
+import ImageGallery from '../../components/ImageGallery';
+import { getImagesByDirectory } from '../../lib/markdown';
 
-const Home = () => (
+const Home = ({ imagesKosicka, imagesHarold }) => (
   <Layout title="OLDStars > Prostory">
     <h2>Prostory</h2>
     <h3>Bytové divadlo v Košické</h3>
     <p>Košická 21, Praha 10</p>
-    <p>TODO: Galerie fotek</p>
+    <ImageGallery images={imagesKosicka.map(image => `/oldstars/prostory/kosicka/${image}`)} />
     <p>
       V novém prostoru ve Vršovicích, kde OLDstars sídlí od roku 2018, ctí myšlenku původních bytových divadel. Nabízí jak zázemí pro Herecké studio, tak i nevšední divácký prožitek.
     </p>
@@ -35,7 +37,7 @@ const Home = () => (
     </p>
     <h3>Sklepní prostor HarOLD</h3>
     <p>Charkovská 15, Praha 10</p>
-    <p>TODO: Galerie fotek</p>
+    <ImageGallery images={imagesHarold.map(image => `/oldstars/prostory/harold/${image}`)} />
     <p>
       Sklepní prostor funguje již od založení umělecké skupiny jako divadelní platforma. V současné době slouží jako zkušebna pro soubory Hereckého studia.
     </p>
@@ -73,3 +75,13 @@ const Home = () => (
 
 export default Home
 
+export async function getStaticProps() {
+  const imagesKosicka = getImagesByDirectory('public/oldstars/prostory/kosicka');
+  const imagesHarold = getImagesByDirectory('public/oldstars/prostory/harold');
+  return {
+    props: {
+      imagesKosicka: imagesKosicka,
+      imagesHarold: imagesHarold,
+    },
+  }
+}
