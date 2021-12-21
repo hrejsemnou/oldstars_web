@@ -5,7 +5,7 @@ import styles from './Soubory.module.scss'
 
 const Home = () => (
   <Layout title="OLDStars > Herecké studio > Soubory">
-    <h2>Režijní vedení</h2>
+    <h2>Pedagogické vedení</h2>
     <h3>BcA. Tomáš Staněk</h3>
     <div className={styles.soubor}>
       <div>
