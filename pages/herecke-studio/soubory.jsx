@@ -76,7 +76,7 @@ const Home = () => (
       <div className={styles.souborInfo}>
         <span className="text-bold">Kontakt:</span>
         <span>tel: +420 723 607 104</span>
-        <span>e-mail: <a href="mailto:zuzana.mala@oldstars.cz">zuzana.mala@oldstars.cz</a></span>
+        <span>e-mail: <a href="mailto:zuzana.horakova@oldstars.cz">zuzana.mala@oldstars.cz</a></span>
       </div>
     </div>
     <h4>Krátké info:</h4>
