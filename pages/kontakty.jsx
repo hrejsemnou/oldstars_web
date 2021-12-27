@@ -42,19 +42,19 @@ const Home = () => (
       <strong>OLDstars: </strong><a href="mailto:tomas.stanek@oldstars.cz">tomas.stanek@oldstars.cz</a>, +420 606 865 237
     </p>
     <p>
-      <strong>Herecké studio OLDstars: </strong><a href="mailto:zuzana.mala@oldstars.cz">zuzana.mala@oldstars.cz</a>, +420 723 607 104
+      <strong>Herecké studio OLDstars: </strong><a href="mailto:zuzana.horakova@oldstars.cz">zuzana.horakova@oldstars.cz</a>, +420 723 607 104
     </p>
     <p>
       <strong>Dětské studio OLDstars: </strong><a href="mailto:eva@oldstars.cz">eva@oldstars.cz</a>, <a href="mailto:bara@oldstars.cz">bara@oldstars.cz</a>
     </p>
     <p>
-      <strong>Bytové divadlo v Košické: </strong>Jakub Brunclík, <a href="mailto:bruncjakub@gmail.com">bruncjakub@gmail.com</a>, +420 607 636 314
+      <strong>Bytové divadlo v Košické: </strong>Jakub Brunclík, <a href="mailto:jakub.brunclik@oldstars.cz">jakub.brunclik@oldstars.cz</a>, +420 607 636 314
     </p>
     <p>
-      <strong>Produkce projektů: </strong>Elisa Speváková, <a href="mailto:elisa.spevakova@gmail.com">elisa.spevakova@gmail.com</a>
+      <strong>Produkce projektů: </strong>Elisa Speváková, <a href="mailto:elisa@oldstars.cz">elisa@oldstars.cz</a>
     </p>
     <p>
-      <strong>PR projektů: </strong>Klára Vaňkátová, <a href="mailto:klara.vankatova.kv@seznam.cz">klara.vankatova.kv@seznam.cz</a>
+      <strong>PR projektů: </strong>Klára Vaňkátová, <a href="mailto:klara.vankatova@oldstars.cz">klara.vankatova@oldstars.cz</a>
     </p>
     <p>
       <strong>Marketing, PR OLDstars: </strong><a href="mailto:nicol@oldstars.cz">nicol@oldstars.cz</a>
