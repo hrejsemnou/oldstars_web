@@ -26,6 +26,9 @@ const Home = () => (
     <p>
       <a href="/documents/Závěrečná_zpráva_OLDstars_za_rok_2019.pdf" download>Výroční zpráva o činnosti a hospodaření za rok 2019</a>
     </p>
+    <p>
+    <a href="/documents/Výroční_zpráva_oldstars_2020.pdf" download>Výroční zpráva o činnosti a hospodaření za rok 2020</a>
+    </p>
   </Layout>
 )
 
