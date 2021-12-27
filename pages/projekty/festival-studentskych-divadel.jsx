@@ -23,7 +23,7 @@ const Home = () => (
       PR a propagace
     </div>
     <div>
-      Klára Vaňkátová, +420 733 665 680, <a href="mailto:klara.vankatova.kv@seznam.cz">klara.vankatova.kv@seznam.cz</a>
+      Klára Vaňkátová, +420 733 665 680, <a href="mailto:klara.vankatova@oldstars.cz">klara.vankatova@oldstars.cz</a>
     </div>
     <h3>Články</h3>
     <p>Omlouváme se, na této sekci se pracuje</p>
