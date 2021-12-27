@@ -1,7 +1,7 @@
 import Layout from '../../components/Layout'
 
 const Home = () => (
-  <Layout title="OLDStars > Projekty > Zájezdy">
+  <Layout title="OLDStars > Projekty > Zájezdy a turné">
     <p>Omlouvám se, na této sekci se pracuje.</p>
   </Layout>
 )
