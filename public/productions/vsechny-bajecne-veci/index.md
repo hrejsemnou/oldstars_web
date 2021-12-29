@@ -27,7 +27,7 @@ reruns:
     place: 'bytové divadlo Košická'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szlusvr/'
    -
-    date: "14.1.2022'
+    date: '14.1.2022'
     time: '20:00'
     place: 'bytové divadlo Košická'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szlnkls/'
