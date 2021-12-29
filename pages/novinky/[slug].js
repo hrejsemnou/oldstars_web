@@ -7,11 +7,11 @@ import Layout from '../../components/Layout'
 const Snippet = ({ news }) => {
   const router = new useRouter()
   return router.isFallback ? (
-    <Layout title = "OLDStars > Novinky">
+    <Layout title = "OLDstars > Novinky">
       <div>Loading...</div>
     </Layout>
   ) : (
-    <Layout title = {`OLDStars > Novinky > ${news.date}`}>
+    <Layout title = {`OLDstars > Novinky > ${news.date}`}>
       <React.Fragment key={news.title}>
         <h2 className="text-bold">{news.title}</h2>
         <p>{news.date}</p>

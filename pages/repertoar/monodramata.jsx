@@ -6,7 +6,7 @@ import { getAllSnippets } from '../../lib/markdown'
 import styles from './Index.module.scss';
 
 const Monodramas = ({ previews }) => (
-  <Layout title="OLDStars > Repertoár > Monodramata">
+  <Layout title="OLDstars > Repertoár > Monodramata">
       <div className={styles.previews}>
         {previews.filter(item => item.tag === "monodrama").map(p => {
           const hasImage = p.images.length > 0;

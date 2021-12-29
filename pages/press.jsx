@@ -3,7 +3,7 @@ import Link from 'next/link';
 import Layout from '../components/Layout'
 
 const Home = () => (
-  <Layout title="OLDStars > Press">
+  <Layout title="OLDstars > Press">
     <h2>Informace pro novináře</h2>
     <p>
       <a href="mailto:press@oldstars.cz">press@oldstars.cz</a>

@@ -1,7 +1,7 @@
 import Layout from '../../components/Layout'
 
 const Home = () => (
-  <Layout title="OLDStars > Herecké studio > Přípravka">
+  <Layout title="OLDstars > Herecké studio > Přípravka">
     <h2>Přípravka</h2>
     <p>
       OLDstars každoročně otevírají přípravné kurzy pro zájemce, kteří chtějí studovat divadelní obory. Náplní dvousemestrálního kurzu je zvládnutí základní orientace v dějinách a teorii divadla, praktické seznámení s divadelním provozem, hereckými technikami, hlasová a pohybová příprava (základy žonglování a akrobacie).

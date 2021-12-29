@@ -6,7 +6,7 @@ import { getMembers } from '../../lib/markdown';
 import styles from './Soubory.module.scss';
 
 const Members = ({ members }) => (
-  <Layout title="OLDStars > Herecké studio > Členové">
+  <Layout title="OLDstars > Herecké studio > Členové">
     <h2>Členové</h2>
     <p>Omlouváme se, na této sekci se pracuje.</p>
     {members.map(member => (

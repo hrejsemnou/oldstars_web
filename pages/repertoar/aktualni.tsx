@@ -15,7 +15,7 @@ interface Preview {
 
 const Repertoar = ({ previews }: { previews: Preview[] }) => {
   return (
-    <Layout title="OLDStars > Repertoár > Aktuální">
+    <Layout title="OLDstars > Repertoár > Aktuální">
       <div className={styles.previews}>
         {previews.filter(item => item.tag !== "guests" && item.tag !== "archive").map(p => {
           const hasImage = p.images.length > 0;

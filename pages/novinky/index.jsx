@@ -5,7 +5,7 @@ import ReactMarkdown from 'react-markdown'
 import Link from 'next/link';
 
 const Home = ({ news }) => (
-  <Layout title="OLDStars > Novinky">
+  <Layout title="OLDstars > Novinky">
     <h2>Novinky</h2>
     {news.sort((a, b) => {
       if (a.date > b.date) { return -1; }

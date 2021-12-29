@@ -3,7 +3,7 @@ import Link from 'next/link';
 import Layout from '../components/Layout'
 
 const Home = () => (
-  <Layout title="OLDStars > Kontakty">
+  <Layout title="OLDstars > Kontakty">
     <h2>OLDSTARS z.s., umělecká skupina</h2>
     <h3>Sídlo</h3>
     <p>Fakturační a korespondenční adresa: Charkovská 15, Praha 10</p>

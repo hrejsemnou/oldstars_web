@@ -94,11 +94,11 @@ const Snippet = ({ page }) => {
   const reruns = page.reruns ? page.reruns.filter(item => createDateObject(item) > new Date()) : [];
   const [showRerunForm, setShowRerunForm] = useState(null);
   return router.isFallback ? (
-    <Layout title = "OLDStars > Repertoár">
+    <Layout title = "OLDstars > Repertoár">
       <div>Loading...</div>
     </Layout>
   ) : (
-    <Layout title = {`OLDStars > Repertoár > ${page.title}`}>
+    <Layout title = {`OLDstars > Repertoár > ${page.title}`}>
       <SplitContent
         leftChild={
           <div>

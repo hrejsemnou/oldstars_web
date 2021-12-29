@@ -6,7 +6,7 @@ import { getAllSnippets } from '../../lib/markdown'
 import styles from './Index.module.scss';
 
 const Archive = ({ previews }) => (
-  <Layout title="OLDStars > Repertoár > Archiv">
+  <Layout title="OLDstars > Repertoár > Archiv">
       <div className={styles.previews}>
         {previews.filter(item => item.tag === "archive").map(p => {
           const hasImage = p.images.length > 0;

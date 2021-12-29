@@ -1,7 +1,7 @@
 import Layout from '../../components/Layout'
 
 const Home = () => (
-  <Layout title="OLDStars > Herecké studio > D studio">
+  <Layout title="OLDstars > Herecké studio > D studio">
     <h2>Dětské studio</h2>
     <p>
       Naše Dětské studio OLDstars vzniklo v roce 2009, jako "inkubátor" budoucích členů Hereckého studia. D studio nikdy nebylo obyčejným dramaťákem na jehož konci by se konala závěrečná besídka s předvedením toho, jak jsou děti šikovné. 

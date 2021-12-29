@@ -3,7 +3,7 @@ import ImageGallery from '../../components/ImageGallery';
 import { getImagesByDirectory } from '../../lib/markdown';
 
 const Home = ({ imagesKosicka, imagesHarold }) => (
-  <Layout title="OLDStars > Prostory">
+  <Layout title="OLDstars > Prostory">
     <h2>Prostory</h2>
     <h3>Bytové divadlo v Košické</h3>
     <p>Košická 21, Praha 10</p>

@@ -11,11 +11,11 @@ const Program = ({ program, month }: { month: number, program: ProgramInterface[
   const parsedProgram = filterByMonth(parseProgram(program), month);
   const router = useRouter();
   return router.isFallback ? (
-    <Layout title = "OLDStars > Program">
+    <Layout title = "OLDstars > Program">
       <div>Loading...</div>
     </Layout>
   ) : (
-    <Layout title="OLDStars > Program">
+    <Layout title="OLDstars > Program">
       {parsedProgram.length === 0 ? (
         <p>Na tento měsíc ještě nejsou naplánována žádná představení.</p>
       ) : (

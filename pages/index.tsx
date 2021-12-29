@@ -20,11 +20,11 @@ const Home = ({ program, news } : { program: ProgramInterface[], news: News[] })
   const parsedProgram = getNextPlays(program);
   const router = useRouter();
   return router.isFallback ? (
-    <Layout title = "OLDStars > Program">
+    <Layout title = "OLDstars">
       <div>Loading...</div>
     </Layout>
   ) : (
-    <Layout title="OLDStars">
+    <Layout title="OLDstars">
       <SplitContent
         leftChild={
           <>

@@ -1,7 +1,7 @@
 import Layout from '../../components/Layout'
 
 const Home = () => (
-  <Layout title="OLDStars > Projekty > Festival studentských divadel">
+  <Layout title="OLDstars > Projekty > Festival studentských divadel">
     <h2>Festival studentských divadel</h2>
     <p>
       Festival studentských divadel pořádá již 10 let  umělecká skupina OLDstars jakožto podzimní třídenní maraton na prestižní adrese v Praze v Divadle Celetná. Festival je programově ozvěnami letního benefičního OLDstars on the ROUD a skládá se převážně z repertoáru umělecké skupiny za uplynulou sezónu. Prostor dostanou i spřátelené studentské divadelní soubory - v minulosti to byly například DDM Praha 3, Vanabí Litoměřice, Divadelní spolek JAK a mnoho dalších. 
