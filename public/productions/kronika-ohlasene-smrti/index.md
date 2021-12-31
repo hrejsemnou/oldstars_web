@@ -1,4 +1,5 @@
 ---
+tag: 'archive'
 title: 'Kronika ohlášené smrti'
 writer: 'Gabriel García Márquez'
 translation: 'Eduard Hodoušek'
