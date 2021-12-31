@@ -20,6 +20,10 @@ reruns:
     date: '23.10.2021'
     time: '20:00'
     place: 'bytové divadlo Košická'
+  - 
+    date: '28.1.2022'
+    time: '20:00'
+    place: 'bytové divadlo Košická'
 ---
 Už jste někdy přišli domů, našli chlapa v krbu a poblíž svou kamarádku, která se chová poměrně zvláštně? Hra o spravedlnosti, touze po pomstě a relativitě pravdy. #MeToo
 
