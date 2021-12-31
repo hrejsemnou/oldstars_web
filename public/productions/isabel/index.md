@@ -14,5 +14,9 @@ reruns:
     time: '20:00'
     place: 'bytové divadlo Košická'
     ticket: 'https://goout.net/cs/isabel/szbgids/'
+  - 
+    date: '26.1.2022'
+    time: '20:00'
+    place: 'bytové divadlo Košická'
 ---
 Zmizela žena a podezřelého muže vyslýchá lékařka...
