@@ -1,4 +1,5 @@
 ---
+tag: 'archive'
 title: 'Stop the Tempo'
 writer: 'Gianina Cărbunariu'
 translation: 'Jitka Lukešová'
