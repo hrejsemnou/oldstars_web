@@ -16,5 +16,13 @@ reruns:
     date: '08.12.2021'
     time: '20:00'
     place: 'bytové divadlo Košická'
+  -  
+    date: '4.2.2022'
+    time: '20:00'
+    place: 'bytové divadlo Košická'
+  -  
+    date: '11.2.2022'
+    time: '20:00'
+    place: 'bytové divadlo Košická'
 ---
 V dobách, kdy ulicím L. A. vládl zločin, a zrada číhala za každým rohem, jeden starý muž naplánoval loupež, která změnila všechno. Vašek Šamárek, Jirka Maršál a Kryštof Lepšík jsou... Vzteklí psi.
