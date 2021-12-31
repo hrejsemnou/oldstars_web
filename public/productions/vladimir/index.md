@@ -17,7 +17,7 @@ reruns:
     time: '20:00'
     place: 'bytové divadlo Košická'
   -
-    time: '5.3.2022'
+    date: '5.3.2022'
     time: '20:00'
     place: 'bytové divadlo Košická'
 ---
