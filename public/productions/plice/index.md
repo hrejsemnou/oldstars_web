@@ -15,6 +15,11 @@ reruns:
     time: '20:00'
     place: 'bytové divadlo Košická'
     ticket: 'https://goout.net/cs/plice/szcgids/'
+  -  
+    date: '15.1.2022'
+    time: '20:00'
+    place: 'bytové divadlo Košická'
+    ticket: 'https://goout.net/cs/listky/plice/rmsl/'
 ---
 Love story na pozadí globální katastrofy. [calm music playing] Jsme slušní lidé? Ano. Chci říct, no dobře, ale teď vážně, jsme? Ano, jsme. Jak? Co jak? No jakým způsobem? Prostě jsme. Tak jo. Dobře. [information overload]
 
