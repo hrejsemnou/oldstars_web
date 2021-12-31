@@ -1,4 +1,5 @@
 ---
+tag: 'archive'
 title: 'Předtím / Potom'
 writer: 'Roland Schimmelpfeninnig'
 translation: 'Petr Štědroň'
