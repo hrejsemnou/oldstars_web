@@ -92,10 +92,10 @@ const Navigation = () => {
           route: "/projekty/festival-studentskych-divadel", label: "Festival Studentských Divadel", column: 'center',
         },
         {
-          route: "/projekty/ostatni", label: "Ostatní", column: 'right',
+          route: "/projekty/dalsi", label: "Další", column: 'right',
         },
         {
-          route: "/projekty/zajezdy", label: "Zájezdy", column: 'left',
+          route: "/projekty/zajezdy-a-turne", label: "Zájezdy a turné", column: 'left',
         },
       ]
     },
