@@ -18,6 +18,7 @@ body {
 a {
   color: $red;
   text-decoration: none;
+  cursor: pointer;
 
   &:hover {
     color: $white;
