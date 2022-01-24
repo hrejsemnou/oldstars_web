@@ -7,18 +7,18 @@ reruns:
   -
     date: '30.1.2022'
     time: '20:00'
-    place: 'bytové divadlo Košická'
+    place: 'H2O - bytové divadlo'
   -
     date: '26.2.2022'
     time: '20:00'
-    place: 'bytové divadlo Košická'
+    place: 'H2O - bytové divadlo'
   -  
     date: '4.3.2022'
     time: '20:00'
-    place: 'bytové divadlo Košická'
+    place: 'H2O - bytové divadlo'
   -
     date: '5.3.2022'
     time: '20:00'
-    place: 'bytové divadlo Košická'
+    place: 'H2O - bytové divadlo'
 ---
 Četl jsem, že za určitých okolností se z každého člověka může stát násilník.
