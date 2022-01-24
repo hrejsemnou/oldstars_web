@@ -15,7 +15,7 @@ const Home = () => (
       <strong>PR OLDstars: </strong><a href="mailto:nicol@oldstars.cz">nicol@oldstars.cz</a>
     </p>
     <p>
-      <strong>PR projektů: </strong>Klára Vaňkátová, <a href="mailto:klara.vankatova.kv@seznam.cz">klara.vankatova.kv@seznam.cz</a>
+      <strong>PR projektů: </strong>Klára Vaňkátová, <a href="mailto:klara.vankatova@oldstars.cz">klara.vankatova@oldstars.cz</a>
     </p>
     <Link href="/loga">
       <a>
