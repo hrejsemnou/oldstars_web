@@ -57,7 +57,7 @@ const ReservationForm = ({ show, title, rerun }) => {
   };
   
   if (show && submitted) {
-    return <div className={styles.reservationSuccess}>Žádost o rezervaci byla úspěšně odeslána. Až se k ní dostaneme, pošleme Vám potvrzení. Děkujeme!</div>
+    return <div className={styles.reservationSuccess}>Žádost o rezervaci byla úspěšně odeslána. Děkujeme!</div>
   }
 
   if (show && !submitted) {
