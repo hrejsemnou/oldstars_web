@@ -56,10 +56,10 @@ const Home = () => (
       <strong>Produkce projektů: </strong>Elisa Speváková, <a href="mailto:elisa@oldstars.cz">elisa@oldstars.cz</a>
     </p>
     <p>
-      <strong>PR projektů: </strong>Klára Vaňkátová, <a href="mailto:klara.vankatova@oldstars.cz">klara.vankatova@oldstars.cz</a>
+      <strong>PR projektů: </strong>Klára Vaňkátová, <a href="mailto:klara.vankatova@oldstars.cz">klara.vankatova@oldstars.cz</a>, +420 733 665 680
     </p>
     <p>
-      <strong>Marketing, PR OLDstars: </strong><a href="mailto:nicol@oldstars.cz">nicol@oldstars.cz</a>
+      <strong>Marketing, PR OLDstars: </strong>Nicol Hrabovská, <a href="mailto:nicol@oldstars.cz">nicol@oldstars.cz</a>, +420 773 695 561
     </p>
     <p>
       <a href="/documents/Závazná_přihláška_OLDstars.pdf" download>Přihláška do hereckého studia</a>
