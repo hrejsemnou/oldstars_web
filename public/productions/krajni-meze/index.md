@@ -26,7 +26,7 @@ reruns:
     place: 'bytové divadlo Košická'
     vstupenky: 'https://goout.net/cs/listky/krajni-meze/hskl/'
   -  
-    date: '20.2.2022'
+    date: '25.2.2022'
     time: '20:00'
     place: 'bytové divadlo Košická'
     vstupenky: 'https://goout.net/cs/listky/krajni-meze/iskl/'
