@@ -12,7 +12,7 @@ const Home = () => (
       +420 606 865 237
     </p>
     <p>
-      <strong>PR OLDstars: </strong><a href="mailto:nicol@oldstars.cz">nicol@oldstars.cz</a>
+      <strong>PR OLDstars: </strong>Nicol Hrabovská, <a href="mailto:nicol@oldstars.cz">nicol@oldstars.cz</a>
     </p>
     <p>
       <strong>PR projektů: </strong>Klára Vaňkátová, <a href="mailto:klara.vankatova@oldstars.cz">klara.vankatova@oldstars.cz</a>
