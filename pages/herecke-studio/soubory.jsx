@@ -16,7 +16,7 @@ const Home = () => {
           <h3 className={styles.header}>
             <FontAwesomeIcon icon={expanded === 0 ? faCaretDown : faCaretRight} />
             <span>
-              BcA. Tomáš Staněk
+              Tomáš Staněk
             </span>
           </h3>
         </a>
