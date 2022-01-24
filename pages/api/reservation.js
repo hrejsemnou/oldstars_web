@@ -1,5 +1,5 @@
 require('dotenv').config()
-const PASSWORD = process.env.password;
+const PASSWORD = process.env.PASSWORD;
 
 export default async function (req, res) {
   let nodemailer = require('nodemailer')
@@ -7,14 +7,14 @@ export default async function (req, res) {
     port: 465,
     host: "smtp.gmail.com",
     auth: {
-      user: 'demo.odesilatel@gmail.com',
-      pass: 'demo12345',
+      user: 'oldstarsharold@gmail.com',
+      pass: PASSWORD,
     },
     secure: true,
   });
   const mailData = {
-    from: 'demo.odesilatel@gmail.com',
-    to: 'demo.prijemce@gmail.com',
+    from: 'oldstarsharold@gmail.com',
+    to: 'klara.vankatova.kv@seznam.cz',
     subject: `Rezervace`,
     text: `Rezervace na představení ${req.body.title} ${req.body.rerun.date} ${req.body.rerun.time} ${req.body.rerun.place}. Jméno: ${req.body.name}, e-mail: ${req.body.email}, počet lístků: ${req.body.amount}`,
   }
