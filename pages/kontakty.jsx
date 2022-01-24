@@ -5,6 +5,8 @@ import Layout from '../components/Layout'
 const Home = () => (
   <Layout title="OLDstars > Kontakty">
     <h2>OLDSTARS z.s., umělecká skupina</h2>
+    <h3>Kde nás najdete?</h3>
+    <p>H2O - bytové divadlo v Košické: Košická 21, Praha 10</p>
     <h3>Sídlo</h3>
     <p>Fakturační a korespondenční adresa: Charkovská 15, Praha 10</p>
     <p>IČO: 266 755 79</p>
