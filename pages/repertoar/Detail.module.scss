@@ -37,6 +37,10 @@
 .reservationForm {
   margin-bottom: 1rem;
 
+  & div.available {
+    margin-bottom: 1rem;
+  }
+
   & div.formGroup {
     display: flex;
     flex-direction: column;

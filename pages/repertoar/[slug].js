@@ -64,6 +64,11 @@ const ReservationForm = ({ show, title, rerun }) => {
     return (
       <form className={styles.reservationForm}>
         <h4>Rezervace vstupenek</h4>
+        {(rerun.available || rerun.available === 0) && (
+          <div className={styles.available}>
+            Počet volných míst: {rerun.available}
+          </div>
+        )}
         <div className={styles.formGroup}>
           <label htmlFor="name">Jméno a příjmení</label>
           <input type="text" name="name" onChange={e => setName(e.target.value)}/>
