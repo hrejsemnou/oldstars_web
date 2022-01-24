@@ -23,7 +23,7 @@ reruns:
     date: '23.11.2021'
     time: '20:00'
     place: 'Werichova vila'
-    ticket: 'https://goout.net/cs/margarite/szkeccs/'
+    available: 20
   -
     date: '07.12.2021'
     time: '20:00'
@@ -62,3 +62,5 @@ Autorská práva zastupuje AURA PONT
   - premiere: Premiéra
   - reruns: Reprízy
 - pro nahrání fotek je momentálně nutné u sebe na počítači vytvořit složku `images`, do ní vložit fotky (nezáleží na jejich názvu ani formátu) a celou složku poté přetáhnout do složky inscenace `public/productions/nazev-inscenace` (Ve složce inscenace klikni na Add File -> Upload Files, přetáhni složku s fotkami a klikni na Commit changes).
+
+- Pokud nejsou k dispozici vstupenky přes goout, parametr `ticket` se nevyplňuje. Přes parametr `available` se dá nastavit zobrazení počtu volných vstupenek. Je nutné jej updatovat po výběru rezervací z rezervačního mailu.
