@@ -1,8 +1,10 @@
 require('dotenv').config()
 const PASSWORD = process.env.PASSWORD;
+const TEST = process.env.TEST;
 
 export default async function (req, res) {
   let nodemailer = require('nodemailer')
+  console.log(TEST);
   const transporter = nodemailer.createTransport({
     port: 465,
     host: "smtp.gmail.com",
