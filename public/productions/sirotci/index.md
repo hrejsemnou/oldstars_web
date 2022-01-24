@@ -2,6 +2,8 @@
 title: 'Sirotci'
 writer: 'Dennis Kelly'
 translation: 'Ester Žantovská'
+director: 'Barbora Mašková'
+actors: 'Viktor Javořík, Jana Kotrbatá, Jan Battěk'
 premiere: '12.2.2022'
 reruns:
   -
