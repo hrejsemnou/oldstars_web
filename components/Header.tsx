@@ -19,6 +19,11 @@ const Header = () => (
         </Link>
       </h1>
       <div>
+        <Link href="/oldstars/prostory">
+          <a>
+            <span>Kde nás najdete?</span>
+          </a>
+        </Link>
         <a href="https://www.facebook.com/skupinaOLDstars">
           <Image
             src="/facebook40x40.png"
