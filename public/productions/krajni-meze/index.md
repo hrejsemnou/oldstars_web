@@ -23,12 +23,12 @@ reruns:
   - 
     date: '28.1.2022'
     time: '20:00'
-    place: 'H2O - bytové divadlo'
+    place: 'H2O - bytové divadlo v Košické'
     vstupenky: 'https://goout.net/cs/listky/krajni-meze/hskl/'
   -  
     date: '25.2.2022'
     time: '20:00'
-    place: 'H2O - bytové divadlo'
+    place: 'H2O - bytové divadlo v Košické'
     vstupenky: 'https://goout.net/cs/krajni-meze/szinkls/'
 ---
 Už jste někdy přišli domů, našli chlapa v krbu a poblíž svou kamarádku, která se chová poměrně zvláštně? Hra o spravedlnosti, touze po pomstě a relativitě pravdy. #MeToo
