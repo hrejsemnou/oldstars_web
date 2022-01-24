@@ -5,7 +5,7 @@ import { getImagesByDirectory } from '../../lib/markdown';
 const Home = ({ imagesKosicka, imagesHarold }) => (
   <Layout title="OLDstars > Prostory">
     <h2>Prostory</h2>
-    <h3>Bytové divadlo v Košické</h3>
+    <h3>H2O - Bytové divadlo v Košické</h3>
     <p>Košická 21, Praha 10</p>
     <ImageGallery images={imagesKosicka.map(image => `/oldstars/prostory/kosicka/${image}`)} />
     <p>
