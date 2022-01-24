@@ -7,13 +7,13 @@ export default async function (req, res) {
     port: 465,
     host: "smtp.gmail.com",
     auth: {
-      user: 'oldstarsharold@gmail.com',
+      user: 'demo.odesilatel@gmail.com',
       pass: PASSWORD,
     },
     secure: true,
   });
   const mailData = {
-    from: 'oldstarsharold@gmail.com',
+    from: 'demo.odesilatel@gmail.com',
     to: 'klara.vankatova.kv@seznam.cz',
     subject: `Rezervace`,
     text: `Rezervace na představení ${req.body.title} ${req.body.rerun.date} ${req.body.rerun.time} ${req.body.rerun.place}. Jméno: ${req.body.name}, e-mail: ${req.body.email}, počet lístků: ${req.body.amount}`,
