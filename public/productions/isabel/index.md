@@ -12,12 +12,12 @@ reruns:
   -
     date: '05.11.2021'
     time: '20:00'
-    place: 'bytové divadlo Košická'
+    place: 'H2O - bytové divadlo'
     ticket: 'https://goout.net/cs/isabel/szbgids/'
   - 
     date: '26.1.2022'
     time: '20:00'
-    place: 'bytové divadlo Košická'
+    place: 'H2O - bytové divadlo'
     ticket: 'https://goout.net/cs/isabel/sznputs/'
 ---
 Zmizela žena a podezřelého muže vyslýchá lékařka...
