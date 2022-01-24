@@ -16,7 +16,7 @@ const Home = () => (
       koordinátorka festivalu
     </div>
     <div>
-      Elisa Speváková, +420 736 621 558, <a href="mailto:elisa@oldstars.cz">elisa@oldstars.cz</a>
+      Elisa Speváková, +420 736 621 558, <a href="mailto:elisa.spevakova@oldstars.cz">elisa.spevakova@oldstars.cz</a>
     </div>
     <br />
     <div>
