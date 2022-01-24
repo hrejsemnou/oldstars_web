@@ -62,7 +62,7 @@ const Home = () => (
       <strong>Marketing, PR OLDstars: </strong><a href="mailto:nicol@oldstars.cz">nicol@oldstars.cz</a>
     </p>
     <p>
-      <a href="/documents/Zavazna_prihlaska.pdf" download>Přihláška do hereckého studia</a>
+      <a href="/documents/Závazná přihláška OLDstars.pdf" download>Přihláška do hereckého studia</a>
     </p>
     <Link href="/dokumenty">
       <a>
