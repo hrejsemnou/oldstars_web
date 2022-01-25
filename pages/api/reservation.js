@@ -1,5 +1,5 @@
 require('dotenv').config()
-const PASSWORD = process.env.PASSWORD;
+const PASSWORD = process.env.PASSWORD; //heslo k mailu z env variable
 
 export default async function (req, res) {
   let nodemailer = require('nodemailer')
