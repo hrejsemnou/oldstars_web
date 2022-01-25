@@ -33,10 +33,7 @@ const Home = () => (
         Kmenový soubor vznikal postupně od roku 2002 z absolventů Dismanova rozhlasového dětského souboru při Českém rozhlase. Tehdejší asistenti vedení Tomáš Staněk, Danka Ouhrabková a Tereza Tobiášová se osamostatnili a vytvořili vlastní nezávislý projekt. Startovní team OLDstars byl tvořen: Petrou Balou, Mirkem Beránkem, Marjou Helebrantovou, Markétou Ježkovou, Lenkou Kohoutovou, Jirkou Konvalinkou, Aškou Košťálovou (Luhanovou), Tomášem Kotrbou, Karlem Kratochvílem, Matějem Křístkem, Martinem Stevem Luhanem, Matějem Morávkem, Kačkou Odarčenkovou, Adamem Rutem, Madlou Rutovou, Ančou Řezníčkovou, Jakubem Štěpánem, Veronikou Tůmovou, Veronikou Vichnarovou a Kačkou Wienerovou.
       </p>
       <p>
-        Za svou dlouhou historii skupina inscenovala nejrůznější texty české i světové dramatiky, pořádala scénická čtení, divadelní happeningy a koncerty, organizuje benefiční divadelní festival v klášteře v Roudnici nad Labem, dříve také na hradě Helfenburk u Bavorova a festival studentského divadla v Divadle v Celetné. Pořádala festival studentských kapel Ve3fest a na Vltavě od června 2014 provozovala kulturní plavidlo BarOnLoď.
-      </p>
-      <p>
-        Idea OLDstars vychází ze specifik studentského - tedy generačního divadla. Současné hry vybízejí k experimentu a silně rezonují s tématy jejich tvůrců i celé společnosti. Nezávislé studentské divadlo má právo na názor, pokus i omyl. Chceme být otevřenou platformou studentského kulturního života nejen v Praze. Inspirativní jsou divadelní potkávání našich studentů s profesionály – v inscenacích OLDstars po boku studentů pohostinsky vystoupili: Ljuba Krbová, Saša Minajev, Kateřina Březinová, Miroslav Hanuš, Daniel Krejčík nebo Elizaveta Maximová a mnoho dalších.
+        OLDstars inscenují nejrůznější texty české i světové dramatiky, pořádají scénická čtení, divadelní happeningy a koncerty, organizují benefiční divadelní festivaly -  v klášteře v Roudnici nad Labem, na hradě Helfenburk u Bavorova, nebo festival studentského divadla v Divadle v Celetné. Pořádali festival studentských kapel Ve3fest a na Vltavě v létě 2014 provozovali kulturní plavidlo BarOnLoď.
       </p>
     </article>
   </Layout>
