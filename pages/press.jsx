@@ -24,7 +24,10 @@ const Home = () => (
     </Link>
     <h2>Tiskové zprávy</h2>
     <p>
-      <a href="/tiskovky/Tiskova_zprava_OLDstars_on_the_ROUD_2020.pdf" download>Tisková zpráva OLDstars on the ROUD 2020.pdf</a>
+      <a href="/tiskovky/Tiskova_zprava_OLDstars_on_the_ROUD_2021.pdf" download>Tisková zpráva OLDstars on the ROUD 2021</a>
+    </p>
+    <p>
+      <a href="/tiskovky/Tiskova_zprava_OLDstars_on_the_ROUD_2020.pdf" download>Tisková zpráva OLDstars on the ROUD 2020</a>
     </p>
     <p>
       <a href="/tiskovky/TZ_-_Festival_studentskeho_divadla_v_Celetne_2019.pdf" download>TZ Festival studentského divadla v Celetné 2019</a>
