@@ -202,12 +202,16 @@ const Snippet = ({ page }) => {
                         <a href={rerun.ticket}>Vstupenky</a>
                       ) : (
                         <>
+                          {rerun.available === 0 ? (
+                            <span>Vyprodáno</span>
+                          ) : (
                           <span
                             onClick={() => { setShowRerunForm(index) }}
                             className={styles.ticketCollapsible}
                           >
                             Vstupenky
                           </span>
+                          )}
                         </>
                       )}
                     </div>
