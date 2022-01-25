@@ -10,8 +10,11 @@ const Home = () => {
   const [expanded, setExpanded] = useState(null);
   return (
     <Layout title="OLDstars > Herecké studio > Soubory">
+              <p>
+                Celých dosavadních 18 let existence se OLDstars věnují divadelní pedagogice. Studenti jsou pro každý semestr zařazeni v jednotlivých (převážně generačních) týmech, kde se s garancí lektorů intenzivně věnují přípravě konkrétních divadelních projektů. Členové Hereckého studia se v rámci celé skupiny věnují nejen činohernímu herectví, ale také režii, scénografii, light designu a práci v technickém zázemí divadla, produkci a PR, tvorbě scénické hudby, fundraisingu, grafice, žurnalistice, a v rámci nadsouborových projektů - zejména festivalů a turné - rovněž produkci.
+              </p>
       <h2>Pedagogické vedení</h2>
-      <>
+      <>      
         <a onClick={() => expanded === 0 ? setExpanded(null) : setExpanded(0)}>
           <h3 className={styles.header}>
             <FontAwesomeIcon icon={expanded === 0 ? faCaretDown : faCaretRight} />
@@ -19,9 +22,9 @@ const Home = () => {
               Tomáš Staněk
             </span>
           </h3>
-        </a>
+        </a>  
         {expanded === 0 ? (
-          <>
+          <>  
             <div className={styles.soubor}>
               <div>
                 <Image
