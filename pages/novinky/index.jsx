@@ -1,5 +1,6 @@
 import Layout from '../../components/Layout'
 import { getNews } from '../../lib/markdown';
+import { parseDate } from '../../lib/utils';
 
 import ReactMarkdown from 'react-markdown'
 import Link from 'next/link';
@@ -7,11 +8,8 @@ import Link from 'next/link';
 const Home = ({ news }) => (
   <Layout title="OLDstars > Novinky">
     <h2>Novinky</h2>
-    {news.sort((a, b) => {
-      if (a.date > b.date) { return -1; }
-      if (b.date > a.date) { return 1; }
-      return 0;
-    }).slice(0, 2).map(item => (
+    {news.sort((a, b) => parseDate(b.date) - parseDate(a.date) 
+    ).map(item => (
       <React.Fragment key={item.title}>
         <Link href={`/novinky/${item.slug}`}>
           <a><h3 className="text-bold">{item.title}</h3></a>

@@ -3,6 +3,7 @@ import { useRouter } from 'next/router'
 import ReactMarkdown from 'react-markdown'
 import Link from 'next/link';
 
+import { parseDate } from '../lib/utils';
 import Layout from '../components/Layout'
 import SplitContent from '../components/SplitContent';
 import { getProgram, getNews } from '../lib/markdown';
@@ -60,11 +61,8 @@ const Home = ({ program, news } : { program: ProgramInterface[], news: News[] })
         rightChild={
           <>
             <h2><Link href="/novinky">Aktuality</Link></h2>
-            {news.sort((a, b) => {
-              if (a.date > b.date) { return -1; }
-              if (b.date > a.date) { return 1; }
-              return 0;
-            }).slice(0, 2).map(item => (
+            {news.sort((a, b) => parseDate(b.date) - parseDate(a.date) 
+            ).slice(0, 2).map(item => (
               <React.Fragment key={item.title}>
                 <Link href={`/novinky/${item.slug}`}>
                   <a><span className="text-bold">{item.title}</span></a>
