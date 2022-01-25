@@ -24,13 +24,16 @@ const Home = () => (
     </Link>
     <h2>Tiskové zprávy</h2>
     <p>
+      <a href="/tiskovky/Tisková_zpráva_FSDC_2021.pdf" download>Tisková zpráva Festival studentských divadel v Celetné 2021</a>
+    </p>
+    <p>
       <a href="/tiskovky/Tiskova_zprava_OLDstars_on_the_ROUD_2021.pdf" download>Tisková zpráva OLDstars on the ROUD 2021</a>
     </p>
     <p>
       <a href="/tiskovky/Tiskova_zprava_OLDstars_on_the_ROUD_2020.pdf" download>Tisková zpráva OLDstars on the ROUD 2020</a>
     </p>
     <p>
-      <a href="/tiskovky/TZ_-_Festival_studentskeho_divadla_v_Celetne_2019.pdf" download>TZ Festival studentského divadla v Celetné 2019</a>
+      <a href="/tiskovky/TZ_-_Festival_studentskeho_divadla_v_Celetne_2019.pdf" download>TZ Festival studentských divadel v Celetné 2019</a>
     </p>
     <p>
       <a href="/tiskovky/TZ_OLDstars_on_the_ROUD_2019.pdf" download>TZ benefičního festivalu OLDstars on the Roud 2019</a>
@@ -39,7 +42,7 @@ const Home = () => (
       <a href="/tiskovky/TZ-NIKDY-OLDstars_bytové_divadlo_kosicka.pdf" download>TZ inscenace NIKDY se stěhuje do bytového divadla v Košické</a>
     </p>
     <p>
-      <a href="/tiskovky/TZ_festival_studentského_divadla_Celetná_2018.pdf" download>TZ Festival studentských divadel v Divadle v Celetne 2018</a>
+      <a href="/tiskovky/TZ_festival_studentského_divadla_Celetná_2018.pdf" download>TZ Festival studentských divadel v Celetné 2018</a>
     </p>
     <p>
       <a href="/tiskovky/TZ_OLDstars_se_vrací_z_Žižkova_do_Vršovic_2018.pdf" download>TZ OLDstars se vrací ze Žižkova do Vršovic 2018</a>
