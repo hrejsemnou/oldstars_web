@@ -61,7 +61,7 @@ const Home = ({ program, news } : { program: ProgramInterface[], news: News[] })
         rightChild={
           <>
             <h2><Link href="/novinky">Aktuality</Link></h2>
-            {news.sort((a, b) => parseDate(b.date) - parseDate(a.date) 
+            {news.sort((a, b) => Number(parseDate(b.date)) - Number(parseDate(a.date)) 
             ).slice(0, 2).map(item => (
               <React.Fragment key={item.title}>
                 <Link href={`/novinky/${item.slug}`}>
