@@ -1,3 +1,4 @@
+---
 title: 'Stojím v řadě'
 writer: 'Ascanio Celestini'
 translation: 'Tereza Sieglová'
