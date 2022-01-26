@@ -89,10 +89,10 @@ const Navigation = () => {
           route: "/projekty/on-the-roud", label: "OLDstars on the ROUD", column: 'left',
         },
         {
-          route: "/projekty/festival-studentskych-divadel", label: "Festival Studentských Divadel", column: 'center',
+          route: "/projekty/festival-studentskych-divadel", label: "Festival studentských divadel", column: 'center',
         },
         {
-          route: "/projekty/dalsi", label: "Další", column: 'right',
+          route: "/projekty/dalsi", label: "Festival v Roudnici nad Labem", column: 'right',
         },
         {
           route: "/projekty/zajezdy-a-turne", label: "Zájezdy a turné", column: 'left',
