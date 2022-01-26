@@ -86,13 +86,13 @@ const Navigation = () => {
     },
     { route: "/projekty", label: "Projekty", column: 'right', subItems: [
         {
-          route: "/projekty/on-the-roud", label: "OLDstars on the ROUD", column: 'left',
+          route: "/projekty/on-the-road", label: "OLDstars on the ROAD", column: 'left',
         },
         {
           route: "/projekty/festival-studentskych-divadel", label: "Festival studentských divadel", column: 'center',
         },
         {
-          route: "/projekty/dalsi", label: "Festival v Roudnici nad Labem", column: 'right',
+          route: "/projekty/festival-v-roudnici-nad-labem", label: "Festival v Roudnici nad Labem", column: 'right',
         },
         {
           route: "/projekty/zajezdy-a-turne", label: "Zájezdy a turné", column: 'left',

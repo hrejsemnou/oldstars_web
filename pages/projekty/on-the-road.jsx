@@ -1,7 +1,7 @@
 import Layout from '../../components/Layout'
 
 const Home = () => (
-  <Layout title="OLDstars > Projekty > OLDstars on the Roud">
+  <Layout title="OLDstars > Projekty > OLDstars on the ROAD">
     <h2>OLDstars on the Roud</h2>
     <p>
       Již osm let je druhý červencový víkend pro OLDstars ve znamení benefičního festivalu OLDstars on the ROUD v augustiniánském klášteře v Roudnici nad Labem. Festival se odehrává jak v samotném areálu kláštera, tak ve veřejném prostoru města. Výtěžek ze vstupného je tradičně věnován na opravy a rozvoj kláštera - zisk z minulých let byl například využit pro vznik Klášterního klubu nebo Ekocentra Zvonice. Diváci tak mají možnost zhlédnout na tři desítky inscenací ze stálého repertoáru OLDstars a jejich hostů, a to včetně titulů připravovaných přímo pro jednotlivé ročníky festivalu.

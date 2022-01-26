@@ -18,7 +18,7 @@ module.exports = {
       },
       {
         source: '/projekty',
-        destination: '/projekty/on-the-roud',
+        destination: '/projekty/on-the-road',
         permanent: true,
       },
     ]
