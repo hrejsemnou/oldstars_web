@@ -30,6 +30,11 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/krajni-meze/szinkls/'
+  -
+    date: '13.3. 2022'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/krajni-meze/szgwtus/'
 ---
 Už jste někdy přišli domů, našli chlapa v krbu a poblíž svou kamarádku, která se chová poměrně zvláštně? Hra o spravedlnosti, touze po pomstě a relativitě pravdy. #MeToo
 
