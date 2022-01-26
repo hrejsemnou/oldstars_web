@@ -8,7 +8,7 @@ production: 'Nicol Hrabovská'
 scenography: 'Eva Justichová'
 edit: 'Daniel Krejčík, Tomáš Staněk'
 actors: 'Daniel Krejčík'
-premiere: '10.4.2018'
+premiere: '16.3.2018'
 tag: monodrama
 reruns:
   -
