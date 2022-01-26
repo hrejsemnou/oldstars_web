@@ -2,15 +2,10 @@ import Layout from '../../components/Layout'
 
 const Home = () => (
   <Layout title="OLDstars > Projekty > OLDstars on the ROAD">
-    <h2>OLDstars on the Roud</h2>
+    <h2>OLDstars on the ROAD 2022</h2>
+    <h3>8.- 17.7. 2022</h3>
     <p>
-      Již osm let je druhý červencový víkend pro OLDstars ve znamení benefičního festivalu OLDstars on the ROUD v augustiniánském klášteře v Roudnici nad Labem. Festival se odehrává jak v samotném areálu kláštera, tak ve veřejném prostoru města. Výtěžek ze vstupného je tradičně věnován na opravy a rozvoj kláštera - zisk z minulých let byl například využit pro vznik Klášterního klubu nebo Ekocentra Zvonice. Diváci tak mají možnost zhlédnout na tři desítky inscenací ze stálého repertoáru OLDstars a jejich hostů, a to včetně titulů připravovaných přímo pro jednotlivé ročníky festivalu.
-    </p>
-    <p>
-      Pro diváky je tradičně zajištěno občerstvení, toalety i sprchy, spaní ve stanovém městečku v klášterní zahradě a neomezený přístup k pitné vodě.
-    </p>
-    <p>
-      Poslední ročník, Festival OLDstars on the ROUD 2021 byl podpořen grantem Ministerstvem kultury – Státního fondu kultury. Osmý ročník proběhl pod záštitou hejtmana Ústeckého kraje Ing. Jana Schillera a rektorky Akademie múzických umění PhDr. Ingeborg Radok Žádné. Partnery festivalu byli Kino Sokol a Cukrárna Dortletka. Děkujeme také SOŠ a SOU a Gymnáziu v Roudnici nad Labem a jejím ředitelům Ing. Richardu Červenému a Mgr. Petru Dobešovi za pomoc a podporu při organizaci festivalu.
+      Studentská umělecká skupina OLDstars se v létě opět vydá na cesty. Svůj letošní repertoár podělí v červenci mezi několik lokací ve Středočeském kraji.
     </p>
     <h3>Proběhlé ročníky</h3>
     <p>Omlouváme se, na této sekci se pracuje</p>
