@@ -1,0 +1,6 @@
+---
+name: 'Elisa Speváková'
+---
+
+Elisa přišla do D studia OLDstars asi před devíti lety, kdy pod vedením Zuzky Horákové účinkovala například v Bílé nemoci Karla Čapka či ve Vraždy podle abecedy Agaty Christie. Na repertoáru měla také Noční (Jste ty sebevraždy?) Miloslava Stehlíka nebo Noční živočichové Juana Mayorgy. Postupně se ale začala věnovat spíše produkci naší umělecké skupiny - již druhým rokem byla letos koordinátorkou letního benefičního festivalu OLDstars on the ROUD, dříve měla na starosti propagaci a PR této události. Stojí také za několika ročníky podzimního Festivalu studentského divadelního festivalu v Celetné. Setkat se s ní můžete také při návštěvách našich představení přímo v H2O Bytovém divadle v Košické, kdy vás s úsměvem pravidelně vítá. Její kroky dále vedly ke studiu oboru Produkce na DAMU, kde má za sebou úspěšně první ročník. Pracovala jako produkční doprovodných edukačních programů v Národním divadle, je a byla asistentkou produkce na mnoha dalších festivalech a je předsedkyní České unie židovské mládeže.
+„OLDstars jsou jako rodina. Dokážeme si pomáhat, pohádat se, ale nakonec se všichni máme stejně rádi. Děkuju za 10 let neuvěřitelných zkušeností od herectví po produkci."
