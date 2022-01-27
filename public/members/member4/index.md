@@ -1,0 +1,5 @@
+---
+name: 'Prokop Košař'
+---
+
+V OLDstars se Prokop poprvé představil v roce 2018 na letním benefičním festivalu OLDstars on the ROUD v inscenaci Jak se dělá divadlo. Velmi rychle se začlenil do dalších aktivit našeho souboru. Od roku 2020 je součástí produkčního týmu benefičního festivalu a už vloni se vrhnul do vlastní režie - Neviditelné město od Astrid Saalbach. V inscenaci Portugálie Zoltána Egressyho skvěle ztvárnil postavu Řepy, za kterou byl portálem i-divadlo nominován na nejlepší herecký výkon roku 2019. Dále jste ho mohli vidět v inscenaci Holubi Davida Gieselmanna a těšit se můžete na Spílání publiku. Je absolventem Dismanova rozhlasového dětského souboru, objevil se v éteru Českého rozhlasu i na obrazovkách České televize a hlásí se na DAMU. Pro kulturní centrum Vozovna spolupřipravuje komorní inscenaci Helverova noc polského dramatika Ingmara Villqista. Pro OLDstars režijně přichystal inscenaci Láska a informace Caryl Churchillové, Anna 11. března španělské dramatičky Palomy Pedrero a autorský počin jako překvapení! Na jeho další počiny se můžete těšit na letním festivale 2022!
