@@ -3,7 +3,7 @@ title: 'Margaritě...'
 writer: 'Carlos Be'
 translation: 'Iveta Gonzálezová'
 director: 'Tomáš Staněk'
-production: 'Lucie Gabrovská'
+production: 'Lucie Gabrovská a Elisa Speváková'
 actors: 'Ljuba Krbová'
 premiere: '10.4.2018'
 tag: monodrama
