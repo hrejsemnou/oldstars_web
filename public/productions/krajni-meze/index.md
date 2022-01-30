@@ -2,6 +2,7 @@
 title: 'Krajní meze'
 writer: 'William Mastrosimone'
 translation: 'Marta Ljubková'
+note: O spravedlnosti, touze po pomstě a relativitě pravdy.
 director: 'Lukáš Ruml'
 scenography: 'Barbora Maleninská'
 photography: 'Ondřej Vidím'
