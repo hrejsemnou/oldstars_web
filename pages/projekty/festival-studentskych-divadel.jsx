@@ -4,7 +4,7 @@ const Home = () => (
   <Layout title="OLDstars > Projekty > Festival studentských divadel">
     <h2>Festival studentských divadel</h2>
     <p>
-      Festival studentských divadel pořádá již 10 let  umělecká skupina OLDstars jakožto podzimní třídenní maraton na prestižní adrese v Praze v Divadle Celetná. Festival je programově ozvěnami letního benefičního OLDstars on the ROUD a skládá se převážně z repertoáru umělecké skupiny za uplynulou sezónu. Prostor dostanou i spřátelené studentské divadelní soubory - v minulosti to byly například DDM Praha 3, Vanabí Litoměřice, Divadelní spolek JAK a mnoho dalších. 
+      Podzimní Festival studentských divadel pořádáme již 10 let. Třídenní maraton soudobé tvorby na pražské prestižní adrese v Divadle Celetná je vyhledávanou platformou studentského divadla. Prostor dostávají i spřátelené studentské divadelní soubory - v minulosti to byly například Dismanův rozhlasový dětský soubor, DDM Praha 3, Vanabí Litoměřice, Divadelní spolek JAK, spolek Nepřijatelní, Divadelní studio gymnázia Jaroslava Heyrovského, Divadelní ateliér Ulita a mnoho dalších. 
     </p>
     <p>
       Festival je nízkorozpočtový a tradičně je podporován městskou částí Prahy 1. 
