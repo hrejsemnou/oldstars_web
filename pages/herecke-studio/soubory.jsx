@@ -245,7 +245,7 @@ const Home = () => {
       </>
       <br />
       <h4>
-        <a href="/documents/Závazná_přihláška_OLDstars.pdf" download>Přihláška do hereckého studia</a>
+        <a href="/documents/Závazná_přihláška_OLDstars.pdf" download>Přihláška do Hereckého studia OLDstars</a>
       </h4>
       <h4>
         Spolupracovali s námi:
