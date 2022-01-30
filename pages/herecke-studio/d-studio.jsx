@@ -20,7 +20,7 @@ const Home = () => (
     </p>
     <h3>Kontakt</h3>
     <p>
-      <a href="/documents/Zavazna_prihlaska.pdf" download>Přihláška do hereckého studia</a>
+      <a href="/documents/Zavazna_prihlaska.pdf" download>Přihláška do Hereckého studia OLDstars</a>
     </p>
     <p>
       Zkoušíme pravidelně jednou týdně dvě hodiny. Alespoň jednou za semestr navštívíme představení v některém z pražských divadel a vyrazíme spolu i na víkendové soustředění. Aby rodiče měli představu o tom, jak se s dětmi pracujeme, máme pro ně (a s nimi) minimálně jednou do roka otevřenou hodinu, kde nás nejen pozorují, ale taky si něco málo vyzkouší na vlastní kůži. Dětské studio se aktivně účastní festivalů OLDstars.
