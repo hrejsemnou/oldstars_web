@@ -147,7 +147,7 @@ const Home = () => {
             </div>
             <h4>Krátké info:</h4>
             <p>
-              Herec, absolvent DAMU, žák Jaroslavy Adamové, Věry Galatíkové a Ladislava Mrkvičky. Je členem souboru Slováckého divadla v Uherském Hradišti. Hraje na flétnu, saxofon, klarinet, kytaru, učí se na akordeon. Příležitostně spolupracuje jako lektor se souborem OLDstars a DDM Praha 3 - Ulita, zaměřuje se především na pohybové workshopy. Angažuje se v nezávislých projektech (scénické čtení Antonín Huvar: Pověsíme jenom faráře, studentský film Amputace apod.)
+              Herec, absolvent DAMU, žák Jaroslavy Adamové, Věry Galatíkové a Ladislava Mrkvičky. Byl členem souboru Slováckého divadla v Uherském Hradišti. Hraje na flétnu, saxofon, klarinet, kytaru, učí se na akordeon. Příležitostně spolupracuje jako lektor se souborem OLDstars a DDM Praha 3 - Ulita, zaměřuje se především na pohybové workshopy. Angažuje se v nezávislých projektech (scénické čtení Antonín Huvar: Pověsíme jenom faráře, studentský film Amputace apod.)
             </p>
           </>
         ) : null}
