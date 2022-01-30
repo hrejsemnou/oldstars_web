@@ -3,4 +3,4 @@ title: 'Nový web'
 date: '20.12.2021'
 ---
 
-Spouští se nový web, momentálně se ladí práce s články a novinkami.
+K osmnáctým narozeninám jsme si nadělili spuštění nového webu OLDstars. Testujeme nové možnosti, ladíme práci s články a databázemi. Budeme rádi za Vaše dojmy, nápady i připomínky. web@oldstars.cz
