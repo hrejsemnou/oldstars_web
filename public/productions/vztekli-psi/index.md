@@ -20,7 +20,7 @@ reruns:
     date: '4.2.2022'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 4
+    available: 2
   -  
     date: '11.2.2022'
     time: '20:00'
