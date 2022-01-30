@@ -157,7 +157,7 @@ const Home = () => {
           <h3 className={styles.header}>
             <FontAwesomeIcon icon={expanded === 3 ? faCaretDown : faCaretRight} />
             <span>
-              BcA. Daniela (Ouhrabková) Von Vorst, dipl. um.
+              MgA. Daniela (Ouhrabková) Von Vorst
             </span>
           </h3>
         </a>
@@ -254,11 +254,11 @@ const Home = () => {
         <li>Martin Satoranský</li>
         <li>Mgr. Marcela Magdová</li>
         <li>MgA. Kateřina Mikanová</li>
-        <li>BcA. Veronika Kastlová</li>
+        <li>Veronika Kastlová</li>
         <li>Madla Rutová</li>
         <li>Aška Košťálová Luhanová</li>
-        <li>BcA. Adam Rut</li>
-        <li>DiS. Anna Hrnečková</li>
+        <li>Adam Rut</li>
+        <li>Anna Hrnečková</li>
         <li>Jiří Konvalinka</li>
         <li>MgA. Ondřej Novotný</li>
       </ul>
