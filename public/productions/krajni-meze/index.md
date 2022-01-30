@@ -2,7 +2,7 @@
 title: 'Krajní meze'
 writer: 'William Mastrosimone'
 translation: 'Marta Ljubková'
-note: O spravedlnosti, touze po pomstě a relativitě pravdy.
+note: o spravedlnosti, touze po pomstě a relativitě pravdy
 director: 'Lukáš Ruml'
 scenography: 'Barbora Maleninská'
 photography: 'Ondřej Vidím'
@@ -40,3 +40,5 @@ reruns:
 Už jste někdy přišli domů, našli chlapa v krbu a poblíž svou kamarádku, která se chová poměrně zvláštně? Hra o spravedlnosti, touze po pomstě a relativitě pravdy. #MeToo
 
 [Trailer](https://www.youtube.com/watch?v=BMusI3p8XjU)
+
+Autorská práva zastupuje AURAPONT
