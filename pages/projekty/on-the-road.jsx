@@ -6,7 +6,7 @@ const Home = () => (
     <h3>8.- 17.7. 2022</h3>
     <p>
       Studentská umělecká skupina OLDstars se v létě opět vydá na cesty. Svůj letošní repertoár podělí v červenci mezi několik lokací ve Středočeském kraji.
-    </p> <a hreff="http://www.oldstarsontheroad.cz">www.oldstarsontheroad.cz</a>
+    </p> <a href="http://www.oldstarsontheroad.cz">www.oldstarsontheroad.cz</a>
   </Layout>
 )
 
