@@ -1,7 +1,7 @@
 ---
 title: 'Plíce'
 writer: 'Duncan Macmillan'
-note: Love story na pozadí globální katastrofy.
+note: Love story na pozadí globální katastrofy
 director: 'Matyáš Řezníček'
 actors: 'Petr Jeřábek a Eliška Vocelová'
 premiere: '10.07.2021'
