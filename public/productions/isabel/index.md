@@ -16,3 +16,5 @@ reruns:
     ticket: 'https://goout.net/cs/isabel/szbgids/'
 ---
 Zmizela žena a podezřelého muže vyslýchá lékařka...
+
+Autorská práva zastupuje AURAPONT
