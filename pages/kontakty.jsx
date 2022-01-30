@@ -7,6 +7,7 @@ const Home = () => (
     <h2>OLDSTARS z.s., umělecká skupina</h2>
     <h3>Kde nás najdete?</h3>
     <p>H2O - bytové divadlo v Košické: Košická 21, Praha 10</p>
+  <p>HarOLD - sklepní prostor v Charkovské: Charkovská 15, Praha 10</p>
     <h3>Sídlo</h3>
     <p>Fakturační a korespondenční adresa: Charkovská 15, Praha 10</p>
     <p>IČO: 266 755 79</p>
@@ -37,9 +38,7 @@ const Home = () => (
       <a href="https://www.facebook.com/oldstarsontheroud">Festival studentských divadel v Celetné Facebook</a>
     </div>
     <br />
-    <p>
-      <strong>Agentura: </strong><a href="mailto:stanislava.lojkova@oldstars.cz">stanislava.lojkova@oldstars.cz</a>, +420 739 339 367
-    </p>
+    
     <p>
       <strong>OLDstars: </strong><a href="mailto:tomas.stanek@oldstars.cz">tomas.stanek@oldstars.cz</a>, +420 606 865 237
     </p>
@@ -61,8 +60,11 @@ const Home = () => (
     <p>
       <strong>Marketing, PR OLDstars: </strong>Nicol Hrabovská, <a href="mailto:nicol@oldstars.cz">nicol@oldstars.cz</a>, +420 773 695 561
     </p>
+  <p>
+      <strong>Agentura: </strong><a href="mailto:stanislava.lojkova@oldstars.cz">stanislava.lojkova@oldstars.cz</a>, +420 739 339 367
+    </p>
     <p>
-      <a href="/documents/Závazná_přihláška_OLDstars.pdf" download>Přihláška do hereckého studia</a>
+      <a href="/documents/Závazná_přihláška_OLDstars.pdf" download>Přihláška do Hereckého studia OLDstars</a>
     </p>
     <Link href="/dokumenty">
       <a>
