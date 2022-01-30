@@ -1,6 +1,6 @@
 ---
 title: 'Opatření pro návštěvu divadla'
-date: '17.01.2022'
+date: '15.12.2021'
 ---
 
 V souladu s opatřením Ministerstva zdravotnictví se při příchodu do divadla musí všichni diváci prokázat splněním jedné z následujících podmínek vstupu:
