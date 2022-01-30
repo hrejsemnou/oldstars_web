@@ -2,6 +2,7 @@
 title: 'Sirotci'
 writer: 'Dennis Kelly'
 translation: 'Ester Žantovská'
+note: oddanost rodině
 director: 'Barbora Mašková'
 actors: 'Viktor Javořík, Jana Kotrbatá, Jan Battěk'
 premiere: '12.2.2022'
