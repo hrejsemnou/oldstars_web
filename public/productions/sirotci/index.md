@@ -7,14 +7,6 @@ director: 'Barbora Mašková'
 actors: 'Viktor Javořík, Jana Kotrbatá, Jan Battěk'
 premiere: '12.2.2022'
 reruns:
-  -
-    date: '12.2.2022'
-    time: '20:00'
-    place: 'H2O - bytové divadlo v Košické'
-  -  
-    date: '27.2.2022'
-    time: '20:00'
-    place: 'H2O - bytové divadlo v Košické'
   -  
     date: '11.3.2022'
     time: '20:00'
