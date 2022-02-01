@@ -16,7 +16,7 @@ reruns:
     date: '11.3.2022'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    tickets: 'https://goout.net/cs/sirotci/szuplvs/'
+    ticket: 'https://goout.net/cs/sirotci/szuplvs/'
   -  
     date: '25.3.2022'
     time: '20:00'
