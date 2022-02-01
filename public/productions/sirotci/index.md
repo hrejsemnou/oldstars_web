@@ -11,7 +11,7 @@ reruns:
     date: '27.2.2022'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    tickets: 0
+    available: 0
   -  
     date: '11.3.2022'
     time: '20:00'
