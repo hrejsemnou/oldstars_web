@@ -147,7 +147,9 @@ const Home = () => {
             </div>
             <h4>Krátké info:</h4>
             <p>
-              Herec, absolvent DAMU, žák Jaroslavy Adamové, Věry Galatíkové a Ladislava Mrkvičky. Byl členem souboru Slováckého divadla v Uherském Hradišti. Hraje na flétnu, saxofon, klarinet, kytaru, učí se na akordeon. Příležitostně spolupracuje jako lektor se souborem OLDstars a DDM Praha 3 - Ulita, zaměřuje se především na pohybové workshopy. Angažuje se v nezávislých projektech (scénické čtení Antonín Huvar: Pověsíme jenom faráře, studentský film Amputace apod.)
+              Vystudoval činoherní herectví na DAMU. Jeho hereckými pedagogy byli Jaroslava Adamová, Věra Galatíková a Ladislav Mrkvička.
+
+Od roku 2007 do 2013 působil ve Slováckém divadle v Uherském Hradišti (www.slovackedivadlo.cz). Angažmá ukončil po přestěhování do Roudnice nad Labem, od té doby je hercem na volné noze. Spolupracuje na nezávislých projektech nebo vytváří vlastní (www.jan-horak.cz). S OLDstars spolupracuje od roku 2013.
             </p>
           </>
         ) : null}
