@@ -25,6 +25,6 @@ reruns:
     date: '11.2.2022'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 14
+    available: 12
 ---
 V dobách, kdy ulicím L. A. vládl zločin, a zrada číhala za každým rohem, jeden starý muž naplánoval loupež, která změnila všechno. Vašek Šamárek, Jirka Maršál a Kryštof Lepšík jsou... Vzteklí psi.
