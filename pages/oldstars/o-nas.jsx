@@ -24,7 +24,7 @@ const Home = () => (
         Doménou OLDstars je participace studentů na provozu umělecké skupiny, včetně řízení jednotlivých projektů.  
       </p>
       <p>
-        Kromě Hereckého studia skupina nabízí pro zájemce úspěšné přípravné kurzy na umělecké střední a vysoké školy. Pro ty nejmladší vzniklo dětské D studio OLDstars.
+        
       </p>
     </article>
     <h3>Historie</h3>
@@ -33,7 +33,7 @@ const Home = () => (
         Kmenový soubor vznikal postupně od roku 2002 z absolventů Dismanova rozhlasového dětského souboru při Českém rozhlase. Tehdejší asistenti vedení Tomáš Staněk, Danka Ouhrabková a Tereza Tobiášová se osamostatnili a vytvořili vlastní nezávislý projekt. Startovní team OLDstars byl tvořen: Petrou Balou, Mirkem Beránkem, Marjou Helebrantovou, Markétou Ježkovou, Lenkou Kohoutovou, Jirkou Konvalinkou, Aškou Košťálovou (Luhanovou), Tomášem Kotrbou, Karlem Kratochvílem, Matějem Křístkem, Martinem Stevem Luhanem, Matějem Morávkem, Kačkou Odarčenkovou, Adamem Rutem, Madlou Rutovou, Ančou Řezníčkovou, Jakubem Štěpánem, Veronikou Tůmovou, Veronikou Vichnarovou a Kačkou Wienerovou.
       </p>
       <p>
-        OLDstars inscenují nejrůznější texty české i světové dramatiky, pořádají scénická čtení, divadelní happeningy a koncerty, organizují benefiční divadelní festivaly -  v klášteře v Roudnici nad Labem, na hradě Helfenburk u Bavorova, nebo festival studentského divadla v Divadle v Celetné. Pořádali festival studentských kapel Ve3fest a na Vltavě v létě 2014 provozovali kulturní plavidlo BarOnLoď.
+        OLDstars inscenují nejrůznější texty české i světové dramatiky, pořádají scénická čtení, divadelní happeningy a koncerty, organizují benefiční divadelní festivaly -  v klášteře v Roudnici nad Labem, na hradě Helfenburk u Bavorova, nebo festival studentského divadla v Divadle v Celetné. Pořádali festival studentských kapel Ve3fest a na Vltavě v létě 2014 provozovali kulturní plavidlo BarOnLoď.Kromě Hereckého studia skupina nabízí pro zájemce úspěšné přípravné kurzy na umělecké střední a vysoké školy. Pro ty nejmladší vzniklo dětské D studio OLDstars.
       </p>
     </article>
   </Layout>
