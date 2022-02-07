@@ -52,7 +52,7 @@ const Home = () => (
       <strong>Bytové divadlo v Košické: </strong>Jakub Brunclík, <a href="mailto:jakub.brunclik@oldstars.cz">jakub.brunclik@oldstars.cz</a>, +420 607 636 314
     </p>
     <p>
-      <strong>Produkce projektů: </strong>Elisa Speváková, <a href="mailto:elisa@oldstars.cz">elisa@oldstars.cz</a>
+      <strong>Produkce projektů: </strong>Elisa Speváková, <a href="mailto:elisa.spevakova@oldstars.cz">elisa.spevakova@oldstars.cz</a>, </strong>Jiří Dejl, <a href="jiri.dejl@oldstars.cz">jiri.dejl@oldstars.cz</a>
     </p>
     <p>
       <strong>PR projektů: </strong>Klára Vaňkátová, <a href="mailto:klara.vankatova@oldstars.cz">klara.vankatova@oldstars.cz</a>, +420 733 665 680
