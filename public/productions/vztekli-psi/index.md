@@ -24,7 +24,7 @@ reruns:
   -  
     date: '11.2.2022'
     time: '20:00'
-    place: 'H2O - bytové divadlo v Košické'
+    place: 'z technických důvodů zrušeno, omlouváme se'
     available: 1
   -  
     date: '12.3.2022'
