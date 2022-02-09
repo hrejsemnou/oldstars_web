@@ -29,7 +29,7 @@ reruns:
     place: 'Werichova vila'
     ticket: 'https://goout.net/cs/listky/margarite/sybk/'
   -  
-    date: '17.2.2022'
+    date: '29.3.2022'
     time: '19:30'
     place: 'Werichova vila'
     ticket: 'https://goout.net/cs/margarite/szcjtqs/'
