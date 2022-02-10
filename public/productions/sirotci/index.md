@@ -5,7 +5,7 @@ translation: 'Ester Žantovská'
 note: oddanost rodině
 director: 'Barbora Mašková'
 actors: 'Viktor Javořík, Jana Kotrbatá, Jan Battěk'
-premiere: '12.2.2022'
+premiere: '27.2.2022'
 reruns:
   -  
     date: '27.2.2022'
