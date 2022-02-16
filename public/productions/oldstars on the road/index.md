@@ -1,5 +1,6 @@
 ---
 title: 'OLDstars on the ROAD'
+writer: 'OLDstars'
 place: 'Kutná Hora'
 reruns:
   -
