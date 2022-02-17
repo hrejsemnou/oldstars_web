@@ -1,0 +1,23 @@
+---
+title: 'Balkon'
+writer: 'Jean Genet'
+translation: 'Jiří Konůpek'
+actors: 'Adéla Fejková, Dorota Tučková, Lukáš Cenker, Sebastian Vopěnka, Vilma Vojtíšková, Theresia Anna Hakenová, Daniel Spiess, Matěj Podlešák a Michael Rádl'
+director: 'Prokop Košař'
+dramaturgy: 'Prokop Košař'
+scenography: 'Michael Čambor'
+music: 'Jonáš Balcar'
+art: 'Barbora Amálie Lišková'
+production: 'Jiří Dejl'
+premiere: '2.4.2022'
+reruns:
+  -
+    date: '2.4.2022'
+    time: '20:00'
+    place: 'H2O bytové divadlo v Košické'
+---    
+Ozvěny střelby. Umírají stovky nevinných lidí. A jako maják naděje svítí v centru toho zvěrstva dům s červenou lucernou. Kde končí hra a začíná realita? Kdo řídí Boha? A kdo královnu? Kolik masek člověk sundá, než se odhalí skutečná tvář?
+
+Inscenace o zdánlivých pravdách, lačnosti po slávě a nejtajnějších touhách.
+
+Pohybová spolupráce: Vilma Vojtíšková
