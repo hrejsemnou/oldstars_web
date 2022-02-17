@@ -7,7 +7,6 @@ director: 'Prokop Košař'
 dramaturgy: 'Prokop Košař'
 scenography: 'Michael Čambor'
 music: 'Jonáš Balcar'
-art: 'Barbora Amálie Lišková'
 production: 'Jiří Dejl'
 premiere: '2.4.2022'
 reruns:
@@ -21,3 +20,4 @@ Ozvěny střelby. Umírají stovky nevinných lidí. A jako maják naděje svít
 Inscenace o zdánlivých pravdách, lačnosti po slávě a nejtajnějších touhách.
 
 Pohybová spolupráce: Vilma Vojtíšková
+Kostýmy: Barbora Amálie Lišková
