@@ -26,7 +26,7 @@ const Header = () => (
         </Link>
         <a href="https://www.facebook.com/skupinaOLDstars">
           <Image
-            src="/facebook40x40.png"
+            src="/facebook.png"
             width={40}
             height={40}
           />
