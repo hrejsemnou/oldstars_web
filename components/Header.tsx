@@ -26,23 +26,23 @@ const Header = () => (
         </Link>
         <a href="https://www.facebook.com/skupinaOLDstars">
           <Image
-            src="/facebook_logo.png"
-            width={40}
-            height={40}
+            src="/fb_logo_white.png"
+            width={20}
+            height={20}
           />
         </a>
         <a href="http://www.youtube.com/user/OLDstarsHarOLD">
           <Image
-            src="/yt_log.jpg"
-            width={40}
-            height={40}
+            src="/yt_logo_white.png"
+            width={20}
+            height={20}
           />
         </a>
         <a href="https://www.instagram.com/oldstars.cz/">
           <Image
-            src="/ig_log.jpg"
-            width={40}
-            height={40}
+            src="/ig_logo_white.png"
+            width={20}
+            height={20}
           />
         </a>
       </div>
