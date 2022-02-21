@@ -40,7 +40,7 @@ const Header = () => (
         </a>
         <a href="https://www.instagram.com/oldstars.cz/">
           <Image
-            src="/ig_log.png"
+            src="/ig_log.jpg"
             width={40}
             height={40}
           />
