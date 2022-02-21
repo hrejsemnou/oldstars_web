@@ -33,7 +33,7 @@ const Header = () => (
         </a>
         <a href="http://www.youtube.com/user/OLDstarsHarOLD">
           <Image
-            src="/youtube40x40.png"
+            src="/yt_logo.png"
             width={40}
             height={40}
           />
