@@ -37,10 +37,6 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/krajni-meze/szgwtus/'
   -  
-    date: '15.4.2022'
-    time: '20:00'
-    place: 'H2O - bytové divadlo v Košické'
-  -  
     date: '14.5.2022'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
