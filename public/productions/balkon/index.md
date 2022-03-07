@@ -12,7 +12,7 @@ premiere: '2.4.2022'
 reruns:
   -
     date: '2.4.2022'
-    time: '20:00'
+    time: '19:00'
     place: 'H2O bytové divadlo v Košické'
 ---    
 Ozvěny střelby. Umírají stovky nevinných lidí. A jako maják naděje svítí v centru toho zvěrstva dům s červenou lucernou. Kde končí hra a začíná realita? Kdo řídí Boha? A kdo královnu? Kolik masek člověk sundá, než se odhalí skutečná tvář?
