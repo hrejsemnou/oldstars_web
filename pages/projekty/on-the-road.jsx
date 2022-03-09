@@ -11,9 +11,12 @@ const Home = () => (
 
       Bývalý pivovar Sedlec u katedrály Panny Marie a sv. Jana Křtitele v Kutné Hoře je již několik let regionálním centrem nezávislé kultury. Druhý červencový víkend jej zamýšlíme zahltit maratonem studentského divadla.  Areál nabízí desítku originálních lokací, těšit se můžete nejen na openair, ale i komorní inscenace v interiérech stodol a ve spletitém podzemí. V jedinečném industriálním objektu vzniknou divadelní projekty přímo na míru jednotlivým prostorům, ale můžete se těšit i na reprízy oblíbených inscenací z repertoáru. Dramaturgie festivalu bude velmi různorodá, uvedeme interpretace klasických textů, díla současných dramatiků, ale i autorské inscenace.
     </p>
+    <p>
          <a href="https://www.goforboom.com/cs/events/oldstars-on-the-road-kutna-hora?fbclid=IwAR0RX5qLeQUuzG-G--keDNZDRGwVAGxHXxMJ-UFizc4Eff1zKRS-bDtKDuA">Vstupenky na festival k zakoupení zde</a>
-        
+    </p>
+    <p>
          <a href="http://www.oldstarsontheroad.cz">www.oldstarsontheroad.cz</a>
+    </p>
   </Layout>
 )
 
