@@ -14,7 +14,7 @@ const Home = () => (
     <p>
          <a href="https://www.goforboom.com/cs/events/oldstars-on-the-road-kutna-hora?fbclid=IwAR0RX5qLeQUuzG-G--keDNZDRGwVAGxHXxMJ-UFizc4Eff1zKRS-bDtKDuA">Vstupenky na festival k zakoupení zde</a>
     </p>
-    <p>
+    <p>Projekt byl podpořen grantem Státního fondu kultury a grantem Středočeského kraje - děkujeme!
          <a href="http://www.oldstarsontheroad.cz">www.oldstarsontheroad.cz</a>
     </p>
   </Layout>
