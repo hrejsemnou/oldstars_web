@@ -21,7 +21,7 @@ const Home = () => (
     </p>
     <h3>Jak se dělá divadelní festival?</h3>
     <p> 
-      *Doprovodný program OLDstars v Kutné Hoře*
+      <i>Doprovodný program OLDstars v Kutné Hoře</i>
     </p>
     <p>
       Program festivalu bude bohatý, inscenovány budou nejen hry klasické, ale i nejnovější kousky od současných dramatiků, nabídnou i pestrou škálu doprovodných programů. Organizovány budou workshopy herectví, cirkusové akrobacie a příměstský tábor "Jak se dělá divadelní festival?".
