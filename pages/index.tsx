@@ -70,7 +70,7 @@ const Home = ({ program, news } : { program: ProgramInterface[], news: News[] })
                 <p>{item.date}</p>
                 <div>
                   <ReactMarkdown
-                    source={item.content.substring(0, 400) + "..."}
+                    source={item.preview ? item.preview : (item.content.substring(0, 400) + "...")}
                   />
                 </div>
                 <hr />
@@ -85,7 +85,7 @@ const Home = ({ program, news } : { program: ProgramInterface[], news: News[] })
 }
 
 export async function getStaticProps() {
-  const news = getNews(['slug', 'date', 'title', 'content'])
+  const news = getNews(['slug', 'date', 'title', 'preview', 'content'])
   const program = getProgram()
   return {
     props: {
