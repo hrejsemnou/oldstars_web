@@ -14,6 +14,7 @@ export interface News {
   slug: string;
   title: string;
   date: string;
+  preview: string;
   content: string;
 }
 
