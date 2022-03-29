@@ -16,7 +16,7 @@ const Home = () => (
          <a href="https://www.goforboom.com/cs/events/oldstars-on-the-road-kutna-hora?fbclid=IwAR0RX5qLeQUuzG-G--keDNZDRGwVAGxHXxMJ-UFizc4Eff1zKRS-bDtKDuA">Vstupenky na festival k zakoupení zde</a>
     </p>
     <p>Projekt byl podpořen grantem Státního fondu kultury a grantem Středočeského kraje - děkujeme!</p> 
-    <p>Letošní ročník proběhne pod záštitou rektora Janáčkovy akadamie múzických umění v Brně MgA. Petra Michálka, radní pro oblast kultury, památkové péče a cestovního ruchu Středočeského kraje Mgr. Václava Švendy, radního pro kulturu v Kutné Hoře Mgr. Štěpána Drtiny a vedoucího Katedry pedagogiky na Filozofické fakultě Univerzity Karlovy v Praze Doc. PhDr. Martina Strouhala, Ph.D. Děkujeme! </p>
+    <p>Letošní ročník proběhne pod záštitou rektora Janáčkovy akademie múzických umění v Brně MgA. Petra Michálka, radního pro oblast kultury, památkové péče a cestovního ruchu Středočeského kraje Mgr. Václava Švendy, radního pro kulturu v Kutné Hoře Mgr. Štěpána Drtiny a vedoucího Katedry pedagogiky na Filozofické fakultě Univerzity Karlovy v Praze Doc. PhDr. Martina Strouhala, Ph.D. Děkujeme! </p>
     <p>
          <a href="http://www.oldstarsontheroad.cz">www.oldstarsontheroad.cz</a>
     </p>
