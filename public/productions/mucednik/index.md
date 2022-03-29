@@ -4,6 +4,7 @@ writer: 'Marius von Mayenburg'
 translation: 'Kateřina Bohadlová'
 director: 'Tomáš Staněk'
 music: 'Wayn3'
+note: 'Musím tady tohle přečíst...'
 actors: 'Ondřej Polák, Klára Fittnerová, Barbora Waschingerová, Josef Bobeš Havelka, Klára Vaňkátová, Kryštof Lepšík / Antonín Brukner, Markéta Zemánková, Vojtěch Zemánek'
 reruns:
   -
