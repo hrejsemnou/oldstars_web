@@ -5,6 +5,12 @@ translation: 'Jaromír Janeček'
 note: 'Hořká satirická komedie o konzumu a morálce. Hra o hře na přátelství'
 director: 'kolektiv'
 actors: 'Jacqueline/Klára Jurečková, Odile/Ilona Smolová, Juliette/Marie Fišárková, Roland/Vladimír Nezdařil'
+premiere: '16.04.2022'
+reruns:
+  -
+    date: '16.04.2022'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
 ---
 „Obvykle v sobě přátelství skrývá reciprocitu, která mu bere přitažlivost. Když se před vámi někdo plazí po kolenou, je to příjemné, ale když mu to máte oplácet, kde je pak nějaká radost?“
 
