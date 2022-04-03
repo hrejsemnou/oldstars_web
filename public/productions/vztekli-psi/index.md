@@ -5,7 +5,7 @@ note: 'loupež, která změnila všechno'
 director: 'Jan Šípal'
 art: 'Václav Šamárek'
 dramaturgy: 'Jiří Maršál'
-actors: 'Kryštof Lepšík, Jiří Maršál, Marek Kryška, Vašek Šamárek, Jan Šípal, Jan Hausenblas, Cyril Janeček a Lukáš Sahula'
+actors: 'Kryštof Lepšík, Jiří Maršál, Marek Kryška, Vašek Šamárek, Jan Šípal, Jan Hausenblas, Cyril Janeček a Vašek Podlešák'
 premiere: '28.09.2021'
 reruns:
   -
