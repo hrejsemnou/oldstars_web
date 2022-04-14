@@ -11,7 +11,7 @@ reruns:
     date: '16.04.2022'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: '2'
+    available: '0'
 ---
 „Obvykle v sobě přátelství skrývá reciprocitu, která mu bere přitažlivost. Když se před vámi někdo plazí po kolenou, je to příjemné, ale když mu to máte oplácet, kde je pak nějaká radost?“
 
