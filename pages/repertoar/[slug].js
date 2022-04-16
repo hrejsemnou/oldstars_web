@@ -64,7 +64,7 @@ const ReservationForm = ({ show, title, rerun }) => {
     return (
       <form className={styles.reservationForm}>
         <h4>Rezervace vstupenek</h4>
-        {(rerun.available || rerun.available === 0) && (
+        {(rerun.available || rerun.available === 0 || rerun.available === '0') && (
           <div className={styles.available}>
             Počet volných míst: {rerun.available}
           </div>
@@ -202,7 +202,7 @@ const Snippet = ({ page }) => {
                         <a href={rerun.ticket}>Vstupenky</a>
                       ) : (
                         <>
-                          {rerun.available === 0 ? (
+                          {(rerun.available === 0 || rerun.available === '0') ? (
                             <span>Vyprodáno</span>
                           ) : (
                           <span
