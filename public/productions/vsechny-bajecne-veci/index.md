@@ -66,26 +66,21 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/sznmlat/'
-  -  
-    date: '28.5.2022'
-    time: '16:00'
-    place: 'H2O - bytové divadlo v Košické'
-    available: 0
-  -  
-    date: '28.5.2022'
-    time: '20:00'
-    place: 'H2O - bytové divadlo v Košické'
-    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szlmlat/'
   -
     date: '30.4.2022'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szghnet/'
   -  
-    date: 13.5.2022'
+    date: '13.5.2022'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szhhnet/'
+  -  
+    date: '28.5.2022'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szlmlat/'
   -  
     date: '4.6.2022'
     time: '20:00'
