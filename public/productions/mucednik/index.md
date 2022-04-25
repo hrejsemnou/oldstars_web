@@ -7,5 +7,10 @@ music: 'Wayn3'
 note: 'Musím tady tohle přečíst...'
 actors: 'Ondřej Polák, Klára Fittnerová, Barbora Waschingerová, Josef Bobeš Havelka, Klára Vaňkátová, Kryštof Lepšík / Antonín Brukner, Markéta Zemánková, Vojtěch Zemánek'
 reruns:
+   -  
+    date: '3.5.2022'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+  -  
 ---
 Krutá komedie o dospívání v současném světě, o náboženském fanatismu, terorismu a povrchnosti dnešní společnosti. Co by se stalo, kdyby západoevropský křesťan hlásal svou víru tak naléhavě a radikálně, jako řada podobně uvědomělých stoupenců islámu...?
