@@ -2,6 +2,7 @@
 title: 'Roberto Zucco'
 writer: 'Bernard-Maria Koltés'
 actors: 'Daniel Spiess, Jan Šípal, Václav Šamárek, Michal Hauf, Marek Pilař, Andrea Jeřábková, Eliška Brejchová, Karolína Hartmanová, Martina Tylová, Klára Urbanová, Adela Fejková, Klára Valášková, Marie Rezlerová a další.'
+note: 'Odkud se bere zlo?'
 reruns:
   -
     date: '16.7.2022'
