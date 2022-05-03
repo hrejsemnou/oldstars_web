@@ -11,11 +11,11 @@ Skotská hra o touze a moci tentokrát v minišatech, neprůstřelných vestách
 
 Premiéra a reprízy proběhnou v rámci OLDstars on the ROAD.
 
-10. 7. Kutná Hora
+10.7. Kutná Hora
 
-11. 7. Zruč nad Sázavou
+11.7. Zruč nad Sázavou
 
-12. 7. Kouřim
+12.7. Kouřim
 
 13.7. Osečany
 
