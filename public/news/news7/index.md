@@ -1,7 +1,7 @@
 ---
 title: 'Získali jsme pro festival granty a partnerství!'
 date: '3.5.2022'
-preview: 'Projekt OLDstars on the ROAD 2022 byl podpořen grantem Státního fondu kultury, grantem měst Kutná Hora a Roudnice nad Labem a grantem Středočeského kraje.'
+preview: 'Projekt OLDstars on the ROAD 2022 byl podpořen grantem Státního fondu kultury, grantem měst Kutná Hora a Roudnice nad Labem a grantem Středočeského kraje...'
 ---
 Projekt OLDstars on the ROAD 2022 byl podpořen grantem Státního fondu kultury, grantem měst Kutná Hora a Roudnice nad Labem a grantem Středočeského kraje.
 
