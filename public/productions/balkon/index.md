@@ -6,6 +6,7 @@ actors: 'Adéla Fejková, Dorota Tučková, Lukáš Cenker, Sebastian Vopěnka, 
 director: 'Prokop Košař'
 dramaturgy: 'Prokop Košař'
 scenography: 'Michael Čambor'
+note: 'Kde končí hra a začíná realita?'
 music: 'Jonáš Balcar'
 production: 'Jiří Dejl'
 premiere: '2.4.2022'
