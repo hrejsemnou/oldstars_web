@@ -7,6 +7,7 @@ production: 'Lucie Gabrovská a Elisa Speváková'
 actors: 'Ljuba Krbová'
 premiere: '10.4.2018'
 tag: monodrama
+note: 'nečekaný dárek k narozeninám'
 reruns:
   -
     date: '20.10.2021'
