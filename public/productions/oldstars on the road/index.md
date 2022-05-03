@@ -17,13 +17,5 @@ reruns:
     time: '00:00'
     place: 'Kutná Hora'
     ticket: 'www.oldstarsontheroad.cz'
-  - 
-    date: '16.7.2022'
-    time: '00:00'
-    place: 'Roudnice nad Labem'
-  -  
-    date: '17.7.2022'
-    time: '00:00'
-    place: 'Roudnice nad Labem'
 ---
 Studentská umělecká skupina OLDstars se v létě opět vydá na cesty. Svůj letošní repertoár podělí v červenci mezi několik lokací ve Středočeském kraji.
