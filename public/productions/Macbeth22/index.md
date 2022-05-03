@@ -2,7 +2,6 @@
 title: 'Macbeth'
 writer: 'William Shakespeare'
 translation: 'Martin Hilský'
-director: 'Tomáš Staněk'
 note: 'Mít vše - je nemít nic, když nemáme to bezpečně!'
 actors: 'Prokop Košař/Sebastian Vopěnka, Dorotka Tučková, Anna Mercedes Čtvrtníčková, Vilma Vojtíšková, Anna Maria Jarkovská, Theresia Anna Hakenová, Matěj Zahajský, Lukáš Cenker a Jiří Dejl'
 ---
