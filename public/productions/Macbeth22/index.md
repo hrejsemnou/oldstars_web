@@ -22,4 +22,4 @@ Premiéra a reprízy proběhnou v rámci OLDstars on the ROAD.
 
 15.7. Kladno
 
-16.7. Turnov
+16.7. Turnov 
