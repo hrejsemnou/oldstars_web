@@ -20,7 +20,7 @@ reruns:
 ---
 Studentská umělecká skupina OLDstars se v létě opět vydá na cesty. Svůj letošní repertoár podělí v červenci mezi několik lokací ve Středočeském kraji - na tři dny se usadí v Kutné Hoře, na celý jeden víkend obsadí bývalý klášter v Roudnici nad Labem a během turné navštíví několik dalších středočeských měst!
 
-Vstupenky na třídenní divadelní maraton tří desítek inscenací přímo v srdci UNESCEM chráněného města Kutná Hora můžete zakoupit [ZDE:](https://www.goforboom.com/events/oldstars-on-the-road-kutna-hora)
+Vstupenky na třídenní divadelní maraton tří desítek inscenací přímo v srdci UNESCEM chráněného města Kutná Hora můžete zakoupit [ZDE: GOFORBOOM](https://www.goforboom.com/events/oldstars-on-the-road-kutna-hora)
 
 Projekt OLDstars on the ROAD 2022 byl podpořen grantem Státního fondu kultury, grantem měst Kutná Hora a Roudnice nad Labem a grantem Středočeského kraje. Děkujeme!
 
