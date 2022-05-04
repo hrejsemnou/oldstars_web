@@ -9,4 +9,4 @@ Naše letní aktivity se budou konat v termínu 8. - 17.7. Začínáme v Kutné 
 
 Už teď si však můžete koupit vstupenky do Kutné Hory v předprodeji! - [ZDE: Vstupenky](https://www.goforboom.com/events/oldstars-on-the-road-kutna-hora)
 
-Projekt byl podpořen grantem Státního fondu kultury a grantem Středočeského kraje - děkujeme!
+Projekt byl podpořen grantem Státního fondu kultury a grantem Středočeského kraje, grantem Státního fondu kultury a grantem měst Kutná Hora a Roudnice nad Labem - děkujeme!
