@@ -7,11 +7,28 @@ reruns:
   -
     date: '16.7.2022'
     place: 'klášter Roudnice nad Labem'
-    time: '19:30'
+    time: '10:00'
+    ticket: 'https://goout.net/cs/roberto-zucco/szyuxkt/'
   -  
-    date: '17.7.2022'
+    date: '16.7.2022'
+    place: 'klášter Roudnice nad Labem'
+    time: '11:30'
+    ticket: 'https://goout.net/cs/roberto-zucco/szavxkt/'
+  -
+    date:  '16.7.2022'
+    place: 'klášter Roudnice nad Labem'
+    time: '13:30'
+    ticket: 'https://goout.net/cs/roberto-zucco/szbvxkt/'
+  - 
+    date:  '16.7.2022'
+    place: 'klášter Roudnice nad Labem'
+    time: '15:30'
+    ticket: 'https://goout.net/cs/roberto-zucco/szcvxkt/'
+  - 
+    date:  '16.7.2022'
     place: 'klášter Roudnice nad Labem'
     time: '19:30'
+    ticket: 'https://goout.net/cs/roberto-zucco/szdvxkt/'
 ---
 Režijní vedení: Tomáš Staněk 
 
