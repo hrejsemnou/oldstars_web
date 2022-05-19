@@ -26,10 +26,6 @@ reruns:
     place: 'Točník'
     time: '20:30'
   -
-    date: '15.7.2022'
-    place: 'Kladno'
-    time: '20:30'
-  -
     date: '16.7.2022' 
     place: 'Turnov'
     time: '20:30'
