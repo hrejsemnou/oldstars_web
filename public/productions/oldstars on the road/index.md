@@ -1,6 +1,7 @@
 ---
 title: 'OLDstars on the ROAD'
 writer: 'OLDstars'
+note: 'studentský benefiční festival'
 reruns:
   -
     date: '8.7.2022'
