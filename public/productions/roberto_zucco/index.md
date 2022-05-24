@@ -34,6 +34,7 @@ Režijní vedení: Tomáš Staněk
 
 Dramaturgie: Zuzana Horáková 
 
+Produkce: Adéla Fejková
 
 Odkud se bere zlo?
 
