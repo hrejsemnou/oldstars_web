@@ -4,17 +4,17 @@ writer: 'OLDstars'
 reruns:
   -
     date: '8.7.2022'
-    time: '00:00'
+    time: '15:00'
     place: 'Kutná Hora'
     ticket: 'www.oldstarsontheroad.cz'
   -
     date: '9.7.2022'
-    time: '00:00'
+    time: '10:00'
     place: 'Kutná Hora'
     ticket: 'www.oldstarsontheroad.cz'
   -  
     date: '10.7.2022'
-    time: '00:00'
+    time: '10:00'
     place: 'Kutná Hora'
     ticket: 'www.oldstarsontheroad.cz'
 ---
