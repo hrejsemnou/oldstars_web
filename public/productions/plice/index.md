@@ -34,6 +34,8 @@ reruns:
 ---
 Love story na pozadí globální katastrofy. [calm music playing] Jsme slušní lidé? Ano. Chci říct, no dobře, ale teď vážně, jsme? Ano, jsme. Jak? Co jak? No jakým způsobem? Prostě jsme. Tak jo. Dobře. [information overload]
 
-Autorská práva zastupuje AURAPONT
+Autorská práva zastupuje AURAPONT.
+
+Inscenace byla podpořena grantem Státního fondu kultury - děkujeme!
 
 [Trailer](https://www.youtube.com/watch?v=BIq7L9289kk)
