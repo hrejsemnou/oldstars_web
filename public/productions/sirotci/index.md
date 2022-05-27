@@ -34,3 +34,5 @@ reruns:
     ticket: 'https://goout.net/cs/sirotci/szwvpct/'
 ---
 „Jsme úplně sami. Tam venku už neplatí žádnej zákon.“ Domov. Jediné místo, kam se schovat před osamělostí, chaosem a všudypřítomnou agresivitou vnějšího světa. Co ale dělat, když přes veškerou snahu chránit rodinu, prosakuje zvenčí hrozba? A je to opravdu zvenčí? Jak dobře známe svoje nejbližší? A známe vůbec sami sebe?
+
+Inscenace byla podpořena grantem Státního fondu kultury - děkujeme!
