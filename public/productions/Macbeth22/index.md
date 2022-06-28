@@ -21,9 +21,15 @@ reruns:
     date: '13.7.2022'
     place: 'Osečany'
     time: '20:30'
+    ticket: 'https://goout.net/cs/macbeth/szgmant/'
   -
     date: '14.7.2022'
     place: 'Točník'
+    time: '20:30'
+    ticket: 'https://goout.net/cs/macbeth/szomnpt/'
+  -
+    date: '15.7.2022'
+    place: 'Benešov'
     time: '20:30'
   -
     date: '16.7.2022' 
