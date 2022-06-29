@@ -7,17 +7,17 @@ reruns:
     date: '8.7.2022'
     time: '15:00'
     place: 'Kutná Hora'
-    ticket: 'www.oldstarsontheroad.cz'
+    ticket: 'https://www.oldstarsontheroad.cz/program/'
   -
     date: '9.7.2022'
     time: '10:00'
     place: 'Kutná Hora'
-    ticket: 'www.oldstarsontheroad.cz'
+    ticket: 'https://www.oldstarsontheroad.cz/program/'
   -  
     date: '10.7.2022'
     time: '10:00'
     place: 'Kutná Hora'
-    ticket: 'www.oldstarsontheroad.cz'
+    ticket: 'https://www.oldstarsontheroad.cz/program/'
 ---
 Studentská umělecká skupina OLDstars se v létě opět vydá na cesty. Svůj letošní repertoár podělí v červenci mezi několik lokací ve Středočeském kraji - na tři dny se usadí v Kutné Hoře, na celý jeden víkend obsadí bývalý klášter v Roudnici nad Labem a během turné navštíví několik dalších středočeských měst!
 
