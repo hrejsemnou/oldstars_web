@@ -91,6 +91,16 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szehnet/'
+  -
+    date: '23.7.2022'
+    time: '20:30'
+    place: 'Zámek Osečany'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szflant/'
+  - 
+    date: '14.8.2022'
+    time: '20:30'
+    place: 'Zámek Osečany'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szglant/'
   - 
     date: '14.10.2022'
     time: '19:00'
