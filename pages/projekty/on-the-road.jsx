@@ -3,9 +3,9 @@ import Layout from '../../components/Layout'
 const Home = () => (
   <Layout title="OLDstars > Projekty > OLDstars on the ROAD">
     <h2>OLDstars on the ROAD 2022</h2>
-    <h4>8.- 10.7. 2022 bývalý pivovar Sedlec, Kutná Hora</h4>
-    <h4>11.-15. 7. turné po hradech, zámcích a okolí</h4>
-    <h4>16.-17.7. klášter Roudnice nad Labem</h4>
+    <h4><a href="https://www.oldstarsontheroad.cz/festival/">8.- 10.7. 2022 bývalý pivovar Sedlec, Kutná Hora</a></h4>
+    <h4><a href="https://www.oldstarsontheroad.cz/turne/">11.-15. 7. turné po hradech, zámcích a okolí</a></h4>
+    <h4><a href="https://www.oldstarsontheroad.cz/roudnice/">16.-17.7. klášter Roudnice nad Labem</a></h4>
     <p>
       Studentská umělecká skupina OLDstars se v červenci 2022 opět vydá na cesty. Svůj letošní repertoár podělí mezi několik lokací ve Středočeském kraji. Cestovní léto zahájí víkendovým divadelním festivalem v areálu bývalého pivovaru Sedlec v Kutné hoře. Následně inscenace nabídne pod širým nebem na několika hradech, zámcích a parcích v okolí. Letní turné zakončí v bývalém augustiniánském klášteře v Roudnici nad Labem.
     </p>
