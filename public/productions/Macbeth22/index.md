@@ -29,11 +29,11 @@ reruns:
     ticket: 'https://goout.net/cs/macbeth/szomnpt/'
   -
     date: '15.7.2022'
-    place: 'Benešov'
+    place: 'Adršpach'
     time: '20:30'
   -
     date: '16.7.2022' 
-    place: 'Adršpach'
+    place: 'Benešov'
     time: '21:00'
   -  
     date: '17.7.2022'
