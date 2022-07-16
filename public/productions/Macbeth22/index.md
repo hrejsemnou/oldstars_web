@@ -34,7 +34,7 @@ reruns:
   -
     date: '16.7.2022' 
     place: 'Benešov'
-    time: '21:00'
+    time: '20:30'
   -  
     date: '17.7.2022'
     place: 'hrad Pecka'
