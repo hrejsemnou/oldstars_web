@@ -14,3 +14,5 @@ reruns:
     available: 18
 ---
 Dva manželské páry prožily krásný život. Padesát dva let! Životy naplněné láskou, oporou a vzájemnou důvěrou. Žili spolu šťastně až… do chvíle, kdy musejí všichni postupně odejít. Poděkovat za možnost přijímat i darovat lásku a odejít. Ale, která láska byla skutečně vzájemná a která jednostranná? Kdo žil život v pravdě a kdo v iluzi?
+
+Hudba: Žofie Holečková
