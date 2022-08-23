@@ -105,6 +105,10 @@ reruns:
     date: '14.10.2022'
     time: '19:00'
     place: 'zájezd Chomutov' 
+  -  
+    date: '22.10.2022'
+    time: '19:00'
+    place: 'zájezd Benešov'
 ---
 Hlavní a jedinou postavou hry je chlapec, který má za 80 minut jediný úkol - přesvědčit nejen svou matku, že na světě existuje milion věcí, kvůli kterým stojí za to se nezabíjet…
 Dojemná, vtipná interaktivní inscenace o hledání duvodů proč žít. …aneb hra o tom, jak si vytvořit výstředně povznášející náhled na život.
