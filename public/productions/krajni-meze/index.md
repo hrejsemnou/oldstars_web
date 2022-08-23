@@ -46,7 +46,7 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
   - 
-    date: '9.10.2022'
+    date: '8.10.2022'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
 ---
