@@ -104,7 +104,7 @@ reruns:
   - 
     date: '14.10.2022'
     time: '19:00'
-    place: 'zájezd Chomutov' 
+    place: 'třídenní festival Městské divadlo Chomutov' 
   -  
     date: '22.10.2022'
     time: '19:00'
