@@ -32,7 +32,7 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/balkon/szthybt/'
   -  
-    date: '9.9.2022'
+    date: '8.9.2022'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
   -
