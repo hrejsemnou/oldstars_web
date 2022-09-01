@@ -12,7 +12,7 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     available: 20
   -  
-    date: '29.9.2022'
+    date: '29.10.2022'
     time: '17:00'
     place: 'Festival studnetských divadel v Celetné'
 ---    
