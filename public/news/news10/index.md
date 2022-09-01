@@ -7,7 +7,7 @@ Poslední říjnový víkend tradičně pořádáme v Divadle v Celetné [festiv
 
 ČTVRTEK 27. 10. 
 
-18:00 [DOPISY K PATĚ STROMU](https://www.oldstarsontheroad.cz/dopisy/)
+18:00 [DOPISY K PATĚ STROMU](https://www.oldstars.cz/repertoar/dopisy%20k%20pat%C4%9B/)
 
 20:00 [HABBAT ALEP](https://www.oldstars.cz/repertoar/Habbat%20alep)
 
