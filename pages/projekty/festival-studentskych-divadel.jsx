@@ -23,7 +23,7 @@ const Home = () => (
     <p>
         22:00 <a href="https://www.oldstars.cz/repertoar/balkon">BALKON</a> 
     </p>
-    <h4> PÁTEK 28. 10. – státní svátek <h4>
+    <h4> PÁTEK 28. 10. – státní svátek </h4>
     <p>   
         15:00 <a href="https://www.oldstars.cz/repertoar/Dokonal%C3%BD%20partner">DOKONALÝ PARTNER  - Vanabí, Litoměřice</a>
     </p>
