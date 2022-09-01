@@ -15,7 +15,7 @@ const Home = () => (
     </p>
     <h4>  ČTVRTEK 27. 10. </h4>
     <p>
-        18:00 <a href="https://www.oldstarsontheroad.cz/dopisy/">DOPISY K PATĚ STROMU</a>
+        18:00 <a href="https://www.oldstars.cz/repertoar/dopisy%20k%20pat%C4%9B">DOPISY K PATĚ STROMU</a>
     </p>
     <p>
         20:00 <a href="https://www.oldstars.cz/repertoar/Habbat%20alep">HABBAT ALEP</a>
