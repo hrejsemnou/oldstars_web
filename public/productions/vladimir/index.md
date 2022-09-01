@@ -24,5 +24,9 @@ reruns:
     date: '5.3.2022'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
+  -  
+    date: '28.10.2022'
+    time: '17:00'
+    place: 'Festival studentských divadel v Celetné'
 ---
 Četl jsem, že za určitých okolností se z každého člověka může stát násilník.
