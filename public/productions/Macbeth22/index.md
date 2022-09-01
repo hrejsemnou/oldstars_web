@@ -39,6 +39,10 @@ reruns:
     date: '17.7.2022'
     place: 'hrad Pecka'
     time: '21:00'
+  -  
+    date: '28.10.2022'
+    time: '21:00'
+    place: 'Festival studentských divadel v Celetné'
 ---
 "Mít vše - je nemít nic, když nemáme to bezpečně!"
 Skotská hra o touze a moci tentokrát v minišatech, neprůstřelných vestách a se skleničkou sektu v ruce. V minulosti, současnosti a budoucnosti zároveň. Shakespeare jako generační divadlo sbalené na cesty.
