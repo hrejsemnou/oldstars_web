@@ -37,7 +37,7 @@ const Home = () => (
         21:00 <a href="https://www.oldstars.cz/repertoar/Macbeth22">MACBETH</a>
     </p>
     <p>
-        23:00 <a href="https://www.oldstarsontheroad.cz/za-zrcadlem/">ZA ZRCADLEM</a>
+        23:00 <a href="https://www.oldstars.cz/repertoar/za%20zrcadlem">ZA ZRCADLEM</a>
     </p>  
     <h4> SOBOTA 29. 10. </h4>
     <p>
