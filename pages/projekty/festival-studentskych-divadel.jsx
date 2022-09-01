@@ -45,7 +45,7 @@ const Home = () => (
     </p>
     <p>
         17:00 <a href="https://www.oldstars.cz/repertoar/opil%C3%AD">OPILÍ</a>
-    </pv>
+    </p>
     <p>
         19:00 <a href="https://www.oldstars.cz/repertoar/plice">PLÍCE</a>
     </p>
