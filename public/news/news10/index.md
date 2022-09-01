@@ -3,7 +3,9 @@ title: 'Festival studentského divadla'
 date: '1.9.2022'
 preview: 'Poslední říjnový víkend tradičně pořádáme v Divadle v Celetné Festival studentských divadel. A my pro vás již nyní odkrýváme letošní program!...'
 ---
-Poslední říjnový víkend tradičně pořádáme v Divadle v Celetné festivalovou přehlídku studentského divadla. Letos ve dnech 27.-29. 10. 2022.
+Poslední říjnový víkend tradičně pořádáme v Divadle v Celetné [festivalovou přehlídku studentského divadla](https://www.oldstars.cz/projekty/festival-studentskych-divadel). Letos ve dnech 27.-29. 10. 2022.
+
+ČTVRTEK 27. 10. 
 
 18:00 [DOPISY K PATĚ STROMU](https://www.oldstarsontheroad.cz/dopisy/)
 
