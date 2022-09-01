@@ -25,7 +25,7 @@ PÁTEK 28. 10. – státní svátek
 
 21:00 [MACBETH](https://www.oldstars.cz/repertoar/Macbeth22)
 
-23:00 [ZA ZRCADLEM](https://www.oldstarsontheroad.cz/za-zrcadlem/)
+23:00 [ZA ZRCADLEM](https://www.oldstars.cz/repertoar/za%20zrcadlem)
 
 
 
