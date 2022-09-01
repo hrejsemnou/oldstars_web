@@ -18,17 +18,17 @@ const Home = () => (
     <p>Omlouváme se, na této sekci se pracuje</p>
     <h3>Kontakty</h3>
     <div>
-      koordinátorka festivalu
+      produkce festivalu
     </div>
     <div>
-      Elisa Speváková, +420 736 621 558, <a href="mailto:elisa.spevakova@oldstars.cz">elisa.spevakova@oldstars.cz</a>
+      Jiří Dejl, +420 608 165 789, <a href="mailto:jiri.dejl@oldstars.cz">jiri.dejl@oldstars.cz</a>
     </div>
     <br />
     <div>
       PR a propagace
     </div>
     <div>
-      Klára Vaňkátová, +420 733 665 680, <a href="mailto:klara.vankatova@oldstars.cz">klara.vankatova@oldstars.cz</a>
+      Elisa Speváková, +420 736 621 558, <a href="mailto:elisa.spevakova@oldstars.cz">elisa.spevakova@oldstars.cz</a>
     </div>
     <h3>Články</h3>
     <p>Omlouváme se, na této sekci se pracuje</p>
