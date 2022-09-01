@@ -21,6 +21,10 @@ reruns:
     time: '19:00'
     place: 'H2O - bytové divadlo v Košické'
     available: 20
+  -  
+    date: '29.10.2022'
+    time: '15:00'
+    place: 'Festival studentských divadel v Celetné'
 ---
 Najdi si práci, najdi si manžela, sežeň si byt, seznam se se sousedy, buď hodnej na svoji maminku, věnuj se manželce, zařiď si byt, oprav díru ve stropě, udělej si občas radost, procházej se bos po parku, projdi se po střeše, oprav telefon, uvař večeři.
 A hlavně se nestresuj.
