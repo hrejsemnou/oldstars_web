@@ -36,7 +36,7 @@ const Home = () => (
     </p>
     <p>
       Partnery festivalu OLDstars on the ROAD: Kutná Hora 2022 jsou <a href="https://www.divadlox10.cz/cs/kutna-hora">X10 Kutná Hora</a>, turistická oblast <a href="https://www.kutnohorskokolinsko.cz/">Kutnohorskokolínsko</a>, reklamní agentura <a href="https://lepor.cz/">Lepor</a> a oldservis.cz.
-      Mediálními partnery festivalu jsou servery <a href="https://www.mistnikultura.cz/">Místní kultura</a>, [i-divadlo.cz](https://www.i-divadlo.cz/), <a href="http://www.scena.cz/">Scena.cz</a> a <a href="https://www.kudyznudy.cz/">Kudyznudy.cz</a>.
+      Mediálními partnery festivalu jsou servery <a href="https://www.mistnikultura.cz/">Místní kultura</a>, <a href="https://www.i-divadlo.cz/">i-divadlo.cz</a>, <a href="http://www.scena.cz/">Scena.cz</a> a <a href="https://www.kudyznudy.cz/">Kudyznudy.cz</a>.
     </p>  
   </Layout>
 )
