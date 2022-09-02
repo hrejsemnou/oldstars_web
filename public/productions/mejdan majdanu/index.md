@@ -3,7 +3,7 @@ title: 'Mejdan Majdanu'
 writer: 'kolektiv'
 actors: 'Karolína Hartmanová, Eliška Brejchová, Adéla Fejková, Klára Urbanová, Klára Valášková, Marie Rezlerová, Michal Hauf, Marek Pilař a další...'
 director: 'Tomáš Staněk'
-premiere: '2.4.2022'
+premiere: '9.7.2022'
 reruns:
   -
     date: '29.10.2022'
