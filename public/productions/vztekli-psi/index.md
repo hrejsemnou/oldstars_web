@@ -41,5 +41,9 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     available: '4'
----
+  -  
+    date: '29.10.2022'
+    time: '23:00'
+    place: 'Festival studentských divadel v Celetné'
+ ---
 V dobách, kdy ulicím L. A. vládl zločin, a zrada číhala za každým rohem, jeden starý muž naplánoval loupež, která změnila všechno. Vašek Šamárek, Jirka Maršál a Kryštof Lepšík jsou... Vzteklí psi.
