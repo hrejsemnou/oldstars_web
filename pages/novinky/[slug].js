@@ -3,9 +3,11 @@ import ReactMarkdown from 'react-markdown'
 
 import { getNews, getNewsContentBySlug } from '../../lib/markdown'
 import Layout from '../../components/Layout'
+import ImageGallery from '../../components/ImageGallery';
 
 const Snippet = ({ news }) => {
   const router = new useRouter()
+  console.log(news.images);
   return router.isFallback ? (
     <Layout title = "OLDstars > Novinky">
       <div>Loading...</div>
@@ -15,6 +17,7 @@ const Snippet = ({ news }) => {
       <React.Fragment key={news.title}>
         <h2 className="text-bold">{news.title}</h2>
         <p>{news.date}</p>
+        <ImageGallery images={news.images?.sort().map(image => `/news/${news.slug}/images/${image}`)} />
         <div>
           <ReactMarkdown
             source={news.content}
@@ -34,7 +37,8 @@ export async function getStaticProps({ params }) {
     'slug',
     'date',
     'title',
-    'content'
+    'content',
+    'images',
   ])
 
   return {
