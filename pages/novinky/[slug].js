@@ -17,12 +17,12 @@ const Snippet = ({ news }) => {
       <React.Fragment key={news.title}>
         <h2 className="text-bold">{news.title}</h2>
         <p>{news.date}</p>
-        <ImageGallery images={news.images?.sort().map(image => `/news/${news.slug}/images/${image}`)} />
         <div>
           <ReactMarkdown
             source={news.content}
           />
         </div>
+        <ImageGallery images={news.images?.sort().map(image => `/news/${news.slug}/images/${image}`)} />
         <hr />
       </React.Fragment>
     </Layout>
