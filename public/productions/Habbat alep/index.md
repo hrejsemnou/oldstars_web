@@ -3,6 +3,7 @@ title: 'Habbat Alep'
 writer: 'Gustave Akakpo'
 translation: 'Matylda a Michal Lázňovských'
 director: 'Zuzana Horáková'
+note: 'Nemůžeš tušit, co pro tebe Bůh chystá.'
 actors: 'Sára Pospíšilová/Kateřina Michalíková, Rút Charvátová/Rozálie Matulová, Ema Zelená, Prokop Košař, Matěj Podlešák, Danny Spiess, Michael Rádl a Jakub Brunclík'
 reruns:
   -  
