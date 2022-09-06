@@ -8,7 +8,7 @@ note: 'Smysl života je v lásce...'
 premiere: '9.7.2022'
 reruns:
   -
-    date: '6.9.2022'
+    date: '20.9.2022'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     available: 20
