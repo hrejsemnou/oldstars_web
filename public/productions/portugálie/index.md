@@ -2,7 +2,6 @@
 title: 'Portugálie'
 writer: 'Zoltán Egressy' 
 translation: 'Taťána Dimitrová'
-note: rekviem
 director: 'Zuzana Horáková'
 actors: 'Jiří Dejl, Matěj Podlešák, Jakub Brunclík, Daniel Rádl, Prokop Košař, Rozálie Matulová, Rebecca Chudobová, Ema Zelená, Anna Jerhotová'
 reruns:
