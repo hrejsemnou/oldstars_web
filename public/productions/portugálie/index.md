@@ -3,7 +3,7 @@ title: 'Portugálie'
 writer: 'Zoltán Egressy' 
 translation: 'Taťána Dimitrová'
 director: 'Zuzana Horáková'
-actors: 'Jiří Dejl, Matěj Podlešák, Jakub Brunclík, Daniel Rádl, Prokop Košař, Rozálie Matulová, Rebecca Chudobová, Ema Zelená, Anna Jerhotová'
+actors: 'Jiří Dejl, Matěj Podlešák, Jakub Brunclík, Daniel Rádl, Prokop Košař, Rozálie Matulová, Rebecca Chudobová, Ema Zelená, Anna Jerhotová/Rút Charvátová'
 reruns:
   -  
     date: '22.9.2022'
