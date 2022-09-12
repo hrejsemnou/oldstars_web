@@ -1,7 +1,7 @@
 ---
 title: 'Bytové divadlo žije! 🎭'
 date: '10.9.2022'
-preview: 'Jsme rádi, že můžeme pokračovat v tradici, kterou započala už Vlasta Chramostová. My se před nikým skrývat nemusíme, ale rádi využíváme možnosti intimního kontaktu s divákem, který na velké scéně nazažijete'
+preview: 'Jsme rádi, že můžeme pokračovat v tradici, kterou započala už Vlasta Chramostová. My se před nikým skrývat nemusíme, ale rádi využíváme možnosti intimního kontaktu s divákem, který na velké scéně nazažijete...'
 ---
 Česká televize u nás na jaře natáčela dokument o fenoménu bytového divadla. Ten večer se konala jubilejní repríza představení Všechny báječné věci s hercem Danielem Krejčíkem, které už hrajeme čtvrtým rokem.
 V pořadu vystoupil také tvůrčí tým představení Bosé nohy v parku a produkční tým umělecké skupiny OLDstars v čele s Tomášem Staňkem.
