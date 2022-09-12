@@ -8,4 +8,5 @@ Letošní ročník mění kvůli situaci způsobené ruskou agresí svůj formá
 
 Hlavní myšlenkou festivalu je popularizace divadla, zvýšení jeho autority, výměna zkušeností mezi tvůrčími organizacemi, seznámení s divadelními premiéry a nejzajímavějšími tvůrčími problémy různých částí Ukrajiny. Melpomene of Tavria se letos koná od 10. do 19. června 2022. 
 
-Více informací zjistíte například zde: https://mediacenter.org.ua/ nebo zde: https://www.facebook.com/groups/melpomenatavrii
+Více informací zjistíte například zde: [https://mediacenter.org.ua/](https://mediacenter.org.ua/) nebo zde: [https://www.facebook.com/groups/melpomenatavrii](https://www.facebook.com/groups/melpomenatavrii)
+
