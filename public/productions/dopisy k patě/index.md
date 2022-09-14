@@ -5,6 +5,12 @@ translation: 'Stanislav Škoda'
 director: 'Zuzana Horáková'
 actors: 'Anna Dostálová, Anna Dickmannová, Františka Hanzíková, Tereza Koulová, Lucie Bláhová, Kristýna Froňková, Julie Soukopová, Matouš Košař, Robert Volák, Marko Prole'
 premiere: '9.7.2022'
+reruns:
+  -  
+    date: '27.10.2022'
+    time: '18:00'
+    place: 'Festival studentských divadel v Celetné'
+    ticket: 'https://www.divadlovceletne.cz/program/dopisy-k-pate-stromu/'
 ---
 Co čekáš? Něco mezi nebem, zemí, USA a Mexikem. Odvezu tě na bezpečný místo.
 
