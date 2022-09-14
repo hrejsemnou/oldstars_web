@@ -21,7 +21,7 @@ PÁTEK 28. 10. – státní svátek
 
 17:00 [VLADIMÍR](https://www.oldstars.cz/repertoar/vladimir)
 
-19:00 JEN PRO TVÉ DOBRO - DDM  Prahy 3
+19:00 [JEN PRO TVÉ DOBRO - DDM  Prahy 3](https://www.divadlovceletne.cz/program/jen-pro-tve-dobro/)
 
 21:00 [MACBETH](https://www.oldstars.cz/repertoar/Macbeth22)
 
