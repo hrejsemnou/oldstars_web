@@ -44,7 +44,7 @@ reruns:
   -  
     date: '8.10.2022'
     time: '13:00'
-    place: 'hrad Točník'
+    place: 'Hrad Točník'
   -  
     date: '29.10.2022'
     time: '23:00'
