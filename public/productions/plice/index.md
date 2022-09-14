@@ -32,9 +32,10 @@ reruns:
     place: 'zrušeno'
     ticket: 'https://goout.net/cs/plice/szwhybt/'
   -  
-    date: '29.10. 2022'
+    date: '29.10.2022'
     time: '19:00'
     place: 'Festival studentských divadel v Celetné'
+    ticket: 'https://www.divadlovceletne.cz/program/plice/'
 ---
 Love story na pozadí globální katastrofy. [calm music playing] Jsme slušní lidé? Ano. Chci říct, no dobře, ale teď vážně, jsme? Ano, jsme. Jak? Co jak? No jakým způsobem? Prostě jsme. Tak jo. Dobře. [information overload]
 
