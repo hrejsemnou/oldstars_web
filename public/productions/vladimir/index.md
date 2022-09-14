@@ -28,5 +28,6 @@ reruns:
     date: '28.10.2022'
     time: '17:00'
     place: 'Festival studentských divadel v Celetné'
+    ticket: 'https://www.divadlovceletne.cz/program/vladimir/'
 ---
 Četl jsem, že za určitých okolností se z každého člověka může stát násilník.
