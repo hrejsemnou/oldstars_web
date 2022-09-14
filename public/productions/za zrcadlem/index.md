@@ -9,6 +9,7 @@ reruns:
     date: '28.10.2022'
     time: '23:00'
     place: 'Festival studentských divadel v Celetné'
+    ticket: 'https://www.divadlovceletne.cz/program/za-zrcadlem/'
 ---
 Kostýmy & scéna: Dominika Lippertová
 
