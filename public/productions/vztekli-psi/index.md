@@ -42,6 +42,10 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     available: '4'
   -  
+    date: '8.10.2022'
+    time: '13:00'
+    place: 'hrad Točník'
+  -  
     date: '29.10.2022'
     time: '23:00'
     place: 'Festival studentských divadel v Celetné'
