@@ -50,6 +50,7 @@ reruns:
     date: '27.10.2022'
     time: '22:00'
     place: 'Festival studentských divadel v Celetné'
+    ticket: 'https://www.divadlovceletne.cz/program/balkon/'
 ---    
 Ozvěny střelby. Umírají stovky nevinných lidí. A jako maják naděje svítí v centru toho zvěrstva dům s červenou lucernou. Kde končí hra a začíná realita? Kdo řídí Boha? A kdo královnu? Kolik masek člověk sundá, než se odhalí skutečná tvář?
 
