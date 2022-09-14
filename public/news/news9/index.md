@@ -9,7 +9,7 @@ Program:
 
 [13:00 VZTEKLÍ PSI](https://www.oldstars.cz/repertoar/vztekli-psi)
 
-[17:30 JEDNU VYBER](https://www.oldstarsontheroad.cz/jednu-vyber/)
+[17:30 JEDNU VYBER](https://www.oldstars.cz/repertoar/jednu%20vyber)
 
 [18:00 MEJDAN MAJDANU](https://www.oldstars.cz/repertoar/mejdan%20majdanu)
 
