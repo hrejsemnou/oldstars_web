@@ -43,6 +43,11 @@ reruns:
     date: '28.10.2022'
     time: '21:00'
     place: 'Festival studentských divadel v Celetné'
+    ticket: 'https://www.divadlovceletne.cz/program/macbeth-2/'
+  -  
+    date: '8.10.2022'
+    time: '20:00'
+    place: 'Hrad Točník'
 ---
 "Mít vše - je nemít nic, když nemáme to bezpečně!"
 Skotská hra o touze a moci tentokrát v minišatech, neprůstřelných vestách a se skleničkou sektu v ruce. V minulosti, současnosti a budoucnosti zároveň. Shakespeare jako generační divadlo sbalené na cesty.
