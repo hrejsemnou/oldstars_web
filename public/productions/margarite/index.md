@@ -56,6 +56,7 @@ reruns:
     date: '30.11.2022'
     time: '19:30'
     place: 'Werichova vila'
+    ticket: 'https://goout.net/cs/margarite/szclrhu/'
   -  
     date: '8.12.2022'
     time: '20:00'
