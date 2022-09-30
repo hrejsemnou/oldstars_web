@@ -13,6 +13,11 @@ reruns:
     available: '20'
     ticket: 'https://goout.net/cs/habbat-alep/szwmaqt/'
   -  
+    date: '13.10.2022'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    available: '20'
+  -  
     date: '27.10.2022'
     time: '20:00'
     place: 'Festival studentských divadel v Celetné'
