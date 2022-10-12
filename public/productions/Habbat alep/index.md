@@ -16,7 +16,7 @@ reruns:
     date: '13.10.2022'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: '17'
+    available: 17
   -  
     date: '27.10.2022'
     time: '20:00'
