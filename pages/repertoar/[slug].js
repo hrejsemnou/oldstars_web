@@ -1,3 +1,4 @@
+import React from 'react';
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/router'
 import ReactMarkdown from 'react-markdown'
@@ -112,7 +113,7 @@ const Snippet = ({ page }) => {
             <strong><em>{page.note}</em></strong>
             <div>
               <ReactMarkdown
-                source={page.content}
+                children={page.content}
               />
             </div>
             <div>

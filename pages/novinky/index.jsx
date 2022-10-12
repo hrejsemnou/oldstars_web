@@ -1,3 +1,4 @@
+import React from 'react';
 import Layout from '../../components/Layout'
 import { getNews } from '../../lib/markdown';
 import { parseDate } from '../../lib/utils';
@@ -17,7 +18,7 @@ const Home = ({ news }) => (
         <p>{item.date}</p>
         <div>
           <ReactMarkdown
-            source={item.content}
+            children={item.content}
           />
         </div>
         <hr />

@@ -10,13 +10,13 @@ reruns:
     date: '23.6.2022'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické - PŘEDPREMIÉRA'
-    available: '20'
+    available: 20
     ticket: 'https://goout.net/cs/habbat-alep/szwmaqt/'
   -  
     date: '13.10.2022'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: '16'
+    available: 16
   -  
     date: '27.10.2022'
     time: '20:00'

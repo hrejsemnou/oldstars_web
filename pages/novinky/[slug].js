@@ -1,3 +1,4 @@
+import React from 'react';
 import { useRouter } from 'next/router'
 import ReactMarkdown from 'react-markdown'
 
@@ -19,7 +20,7 @@ const Snippet = ({ news }) => {
         <p>{news.date}</p>
         <div>
           <ReactMarkdown
-            source={news.content}
+            children={news.content}
           />
         </div>
         <ImageGallery images={news.images?.sort().map(image => `/news/${news.slug}/images/${image}`)} />

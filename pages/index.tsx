@@ -71,7 +71,7 @@ const Home = ({ program, news } : { program: ProgramInterface[], news: News[] })
                 <p>{item.date}</p>
                 <div>
                   <ReactMarkdown
-                    source={item.preview ? item.preview : (item.content.substring(0, 200) + "...")}
+                    children={item.preview ? item.preview : (item.content.substring(0, 200) + "...")}
                   />
                 </div>
                 <hr />
