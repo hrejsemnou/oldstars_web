@@ -1,4 +1,4 @@
-import React from 'react';
+import { Fragment } from 'react';
 import Image from 'next/image';
 
 import Layout from '../../components/Layout'
@@ -11,16 +11,25 @@ const Members = ({ members }) => (
     <h2>Členové</h2>
     <p>Omlouváme se, na této sekci se pracuje.</p>
     {members.map(member => (
-      <React.Fragment key={member.name}>
+      <Fragment key={member.name}>
         <h3>{member.name}</h3>
         <div className={styles.soubor}>
+          <div>
+            <Image
+              src={`/members/${member.slug}/images/index.jpg`}
+              alt={`${member.slug}-profil`}
+              objectFit="cover"
+              height={135}
+              width={240}
+            />
+          </div>
           <div className={styles.souborInfo}>
             <span>
               {member.content}
             </span>
           </div>
         </div>
-      </React.Fragment>
+      </Fragment>
     ))}
   </Layout>
 )

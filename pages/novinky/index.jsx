@@ -1,4 +1,4 @@
-import React from 'react';
+import { Fragment } from 'react';
 import Layout from '../../components/Layout'
 import { getNews } from '../../lib/markdown';
 import { parseDate } from '../../lib/utils';
@@ -11,7 +11,7 @@ const Home = ({ news }) => (
     <h2>Novinky</h2>
     {news.sort((a, b) => parseDate(b.date) - parseDate(a.date) 
     ).map(item => (
-      <React.Fragment key={item.title}>
+      <Fragment key={item.title}>
         <Link href={`/novinky/${item.slug}`}>
           <a><h3 className="text-bold">{item.title}</h3></a>
         </Link>
@@ -22,7 +22,7 @@ const Home = ({ news }) => (
           />
         </div>
         <hr />
-      </React.Fragment>
+      </Fragment>
     ))
     }
   </Layout>

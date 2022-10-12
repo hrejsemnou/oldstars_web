@@ -1,4 +1,4 @@
-import React from 'react';
+import { Fragment } from 'react';
 import { useRouter } from 'next/router'
 import ReactMarkdown from 'react-markdown'
 
@@ -15,7 +15,7 @@ const Snippet = ({ news }) => {
     </Layout>
   ) : (
     <Layout title = {`OLDstars > Novinky > ${news.date}`}>
-      <React.Fragment key={news.title}>
+      <Fragment key={news.title}>
         <h2 className="text-bold">{news.title}</h2>
         <p>{news.date}</p>
         <div>
@@ -25,7 +25,7 @@ const Snippet = ({ news }) => {
         </div>
         <ImageGallery images={news.images?.sort().map(image => `/news/${news.slug}/images/${image}`)} />
         <hr />
-      </React.Fragment>
+      </Fragment>
     </Layout>
   )
 }

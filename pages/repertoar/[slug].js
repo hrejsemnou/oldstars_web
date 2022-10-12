@@ -1,4 +1,4 @@
-import React from 'react';
+import { Fragment } from 'react';
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/router'
 import ReactMarkdown from 'react-markdown'
@@ -192,7 +192,7 @@ const Snippet = ({ page }) => {
             <h2>Kdy hrajeme</h2>
             {reruns.length > 0 ? (
               reruns.map((rerun, index) => (
-                <React.Fragment key={`${rerun.date} ${rerun.time}`}>
+                <Fragment key={`${rerun.date} ${rerun.time}`}>
                   <div className={`text-bold ${styles.reruns}`}>
                     <div className={styles.datetime}>
                       <div>{`${rerun.date} ${rerun.time}`}</div>
@@ -218,7 +218,7 @@ const Snippet = ({ page }) => {
                     </div>
                   </div>
                   <ReservationForm show={showRerunForm === index} title={page.title} rerun={rerun} />
-                </React.Fragment>
+                </Fragment>
                 )
               )) : (
                 <p>Momentálně není naplánovaná žádná repríza.</p>
