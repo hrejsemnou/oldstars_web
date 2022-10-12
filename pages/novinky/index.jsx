@@ -38,3 +38,7 @@ export async function getStaticProps() {
     }
   };
 }
+
+export const config = {
+  unstable_excludeFiles: ['public/**/*'],
+}

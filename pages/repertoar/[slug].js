@@ -285,3 +285,7 @@ export async function getStaticPaths() {
     fallback: false, // False for production, true for testing on local
   }
 }
+
+export const config = {
+  unstable_excludeFiles: ['public/**/*'],
+}
