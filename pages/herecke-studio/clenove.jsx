@@ -14,15 +14,6 @@ const Members = ({ members }) => (
       <React.Fragment key={member.name}>
         <h3>{member.name}</h3>
         <div className={styles.soubor}>
-          <div>
-            <Image
-              src={`/members/${member.slug}/images/index.jpg`}
-              alt={`${member.slug}-profil`}
-              objectFit="cover"
-              height={135}
-              width={240}
-            />
-          </div>
           <div className={styles.souborInfo}>
             <span>
               {member.content}
