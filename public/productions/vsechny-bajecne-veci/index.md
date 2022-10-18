@@ -112,7 +112,7 @@ reruns:
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szmwmcu/'
   -  
     date: '22.10.2022'
-    time: '19:00'
+    time: '20:00'
     place: 'zájezd Benešov'
   -
     date: '5.11.2022'
