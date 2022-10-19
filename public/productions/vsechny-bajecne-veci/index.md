@@ -114,6 +114,7 @@ reruns:
     date: '22.10.2022'
     time: '20:00'
     place: 'zájezd Benešov'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szfsodu/'
   -
     date: '5.11.2022'
     time: '20:00'
