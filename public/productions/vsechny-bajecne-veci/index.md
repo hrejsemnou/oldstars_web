@@ -125,6 +125,11 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szowmcu/'
+  - 
+    date: '19.11.2022'
+    time: '20:00'
+    place: 'Noc divadel, H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szdwslu/'
   -  
     date: '26.11.2022'
     time: '20:00'
