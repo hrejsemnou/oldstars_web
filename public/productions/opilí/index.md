@@ -17,5 +17,10 @@ reruns:
     time: '17:00'
     place: 'Festival studnetských divadel v Celetné'
     ticket: 'https://www.divadlovceletne.cz/program/opili-3/'
+  - 
+    date: '29.11.2022'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    available: 20
 ---    
 Současná ruská hra o generaci, která se opila možnostmi natolik, že zapomněla na to, že po každé opilosti přichází vystřízlivění.
