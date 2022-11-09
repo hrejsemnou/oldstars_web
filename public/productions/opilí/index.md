@@ -3,7 +3,7 @@ title: 'Opilí'
 writer: 'Ivan Vyrypajev'
 translation: 'Tereza Krčálová'
 actors: 'Tomáš Jerry Reml, Kryštof Lepšík, Ondřej Polák, Vojta Zemánek, Klára Fittnerová, Tereza Střihavková/Barbora Waschingerová, Klára Vaňkátová, Ondřej Kulhavý a Václav Šamárek'
-director: 'Tomáš Staněk'
+režijní vedení: 'Tomáš Staněk'
 note: 'Smysl života je v lásce...'
 premiere: '9.7.2022'
 reruns:
