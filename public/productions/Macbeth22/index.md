@@ -3,7 +3,7 @@ title: 'Macbeth'
 writer: 'William Shakespeare'
 translation: 'Martin Hilský'
 note: 'Mít vše - je nemít nic, když nemáme to bezpečně!'
-actors: 'Prokop Košař/Sebastian Vopěnka, Dorotka Tučková, Anna Mercedes Čtvrtníčková, Vilma Vojtíšková, Anna Maria Jarkovská, Theresia Anna Hakenová, Matěj Zahajský, Lukáš Cenker a Jiří Dejl'
+actors: 'Prokop Košař/Sebastian Vopěnka, Dorotka Tučková, Anna Mercedes Čtvrtníčková, Vilma Vojtíšková, Anna Maria Jarkovská, Theresia Anna Hakenová, Eliška Brejchová, Matěj Zahajský, Lukáš Cenker a Jiří Dejl/Vojtěch Zemánek'
 reruns:
   -
     date: '6.7.2022'
@@ -53,4 +53,4 @@ reruns:
 "Mít vše - je nemít nic, když nemáme to bezpečně!"
 Skotská hra o touze a moci tentokrát v minišatech, neprůstřelných vestách a se skleničkou sektu v ruce. V minulosti, současnosti a budoucnosti zároveň. Shakespeare jako generační divadlo sbalené na cesty.
 
-Premiéra a reprízy proběhnou v rámci OLDstars on the ROAD.
+Premiéra a reprízy v rámci OLDstars on the ROAD - hráli jsme v Kutné Hoře, na hradě Točník, hradě Pecka, na zámku ve Zruči nad Sázavou, na zámku v Osečanech, v Adršpachu, Kouřimi nebo Benešově...
