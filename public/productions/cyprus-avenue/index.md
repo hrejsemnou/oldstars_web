@@ -2,7 +2,7 @@
 title: 'Cyprus Avenue'
 writer: 'David Ireland'
 translation: 'Hana Pavelková'
-director: 'Tomáš Staněk'
+režijní vedení: 'Tomáš Staněk'
 actors: 'Ondřej Polák, Vojta Zemánek/Kryštof Lepšík, Klára Vaňkátová/Bára Waschingerová, Klára Fittnerová/Tereza Střihavková a Markéta Zemánková'
 premiere: '04.08.2020'
 reruns:
