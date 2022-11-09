@@ -65,3 +65,5 @@ Je tu ticho jak v hrobě, všichni se klidně procházejí. Ty vidíš někoho, 
 Cesta vede horem. Není třeba hledat, jak se dostat přes zdi, proto­že za nimi jsou další a další, pořád je to vězení. Musí se utíkat po střechách, k slunci. Mezi slunce a zem nikdy žádnou zeď nepostaví.
 
 V rámci tradičního festivalového léta chystají OLDstars v červenci původní divadelní zážitek v bývalém augustiniánském klášteře v Roudnici nad Labem. V minulých letech se divadelníci soustředili na ožívání klášterního okolí -  zahrady, klubu, zvonice, dřevníku, nedalekého školního dvora nebo kina, letos studentským divadlem zahltí interiéry a to zejména ty, které jsou návštěvníkům běžně nepřístupné. V originálním konceptu divadelní procházky budou diváky ve skupinách provádět jednotlivými lokacemi dramatické postavy. Na každé zastávce se pak odehraje část příběhu, který se bude divákům postupně jako mozaika doplňovat. Interiér reprezentačních prostor i klášterního zázemí bude silnou kulisou pro napínavý příběh. 
+
+Inscenace byla podpořena grantem Města Roudnice nad Labem v rámci projektu OLDstars on the road 2022. 
