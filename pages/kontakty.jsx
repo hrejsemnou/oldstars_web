@@ -52,15 +52,15 @@ const Home = () => (
       <strong>Bytové divadlo v Košické: </strong>Adéla Fejková a Daniel Spiess Rádl, <a href="mailto:kosicka@oldstars.cz">kosicka@oldstars.cz</a>
     </p>
     <p>
-      <strong>Produkce projektů: </strong>Elisa Speváková, <a href="mailto:elisa.spevakova@oldstars.cz">elisa.spevakova@oldstars.cz</a>Jiří Dejl, <a href="mailto:jiri.dejl@oldstars.cz">jiri.dejl@oldstars.cz</a>
-    Matěj Zahajský, <a href="mailto: matej.zahajsky@oldstars.cz">matej.zahajsky@oldstars.cz</a>Anna Mercedes Čtvrtníčková, <a href="mailto:mercedes@oldstars.cz">mercedes@oldstars.cz</a>,</p>
+      <strong>Produkce projektů: </strong>Elisa Speváková, <a href="mailto:elisa.spevakova@oldstars.cz">elisa.spevakova@oldstars.cz</a>, Jiří Dejl, <a href="mailto:jiri.dejl@oldstars.cz">jiri.dejl@oldstars.cz</a>, Matěj Zahajský, <a href="mailto: matej.zahajsky@oldstars.cz">matej.zahajsky@oldstars.cz</a>, Anna Mercedes Čtvrtníčková, <a href="mailto:mercedes@oldstars.cz">mercedes@oldstars.cz</a>
+    </p>
     <p>
       <strong>PR projektů: </strong>Klára Vaňkátová, <a href="mailto:klara.vankatova@oldstars.cz">klara.vankatova@oldstars.cz</a>, +420 733 665 680
     </p>
     <p>
       <strong>Marketing, PR OLDstars: </strong>Nicol Hrabovská, <a href="mailto:nicol@oldstars.cz">nicol@oldstars.cz</a>, +420 773 695 561
     </p>
-  <p>
+    <p>
       <strong>Agentura: </strong><a href="mailto:stanislava.lojkova@oldstars.cz">stanislava.lojkova@oldstars.cz</a>, +420 739 339 367
     </p>
     <p>
