@@ -52,7 +52,7 @@ const Home = () => (
       <strong>Bytové divadlo v Košické: </strong>Adéla Fejková a Daniel Spiess Rádl, <a href="mailto:kosicka@oldstars.cz">kosicka@oldstars.cz</a>
     </p>
     <p>
-      <strong>Produkce projektů: </strong>Elisa Speváková, <a href="mailto:elisa.spevakova@oldstars.cz">elisa.spevakova@oldstars.cz</a>, Jiří Dejl, <a href="mailto:jiri.dejl@oldstars.cz">jiri.dejl@oldstars.cz</a>
+      <strong>Produkce projektů: </strong>Elisa Speváková, <a href="mailto:elisa.spevakova@oldstars.cz">elisa.spevakova@oldstars.cz</a>Jiří Dejl, <a href="mailto:jiri.dejl@oldstars.cz">jiri.dejl@oldstars.cz</a>
     Matěj Zahajský, <a href="mailto: matej.zahajsky@oldstars.cz">matej.zahajsky@oldstars.cz</a>Anna Mercedes Čtvrtníčková, <a href="mailto:mercedes@oldstars.cz">mercedes@oldstars.cz</a>,</p>
     <p>
       <strong>PR projektů: </strong>Klára Vaňkátová, <a href="mailto:klara.vankatova@oldstars.cz">klara.vankatova@oldstars.cz</a>, +420 733 665 680
