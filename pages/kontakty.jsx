@@ -46,7 +46,7 @@ const Home = () => (
       <strong>Herecké studio OLDstars: </strong><a href="mailto:zuzana.horakova@oldstars.cz">zuzana.horakova@oldstars.cz</a>, +420 723 607 104
     </p>
     <p>
-      <strong>Dětské studio OLDstars: </strong><a href="mailto:daniela.ouhrabkova@oldstars.cz">daniela.ouhrabkova@oldstars.cz</a></a>
+      <strong>Dětské studio OLDstars: </strong><a href="mailto:daniela.ouhrabkova@oldstars.cz">daniela.ouhrabkova@oldstars.cz</a>
     </p>
     <p>
       <strong>Bytové divadlo v Košické: </strong>Adéla Fejková a Daniel Spiess Rádl, <a href="mailto:kosicka@oldstars.cz">kosicka@oldstars.cz</a>
