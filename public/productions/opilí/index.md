@@ -21,7 +21,7 @@ reruns:
     date: '29.11.2022'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 8
+    available: 6
 ---    
 režijní vedení: Tomáš Staněk
 
