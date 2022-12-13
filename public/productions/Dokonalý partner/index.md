@@ -24,4 +24,5 @@ reruns:
     available: 6
 ---
 Milé ženy, určitě se ptáte, co a kdo je ,,dokonalý partner". Existuje vůbec ,,dokonalý partner"? Dnes, v jednadvacátém století není lehké býti ženou. Konkurence je silná a nabídka mužských partnerů je slabá. Přišel okamžik, abyste řekly dost! Milé ženy, vy už nemusíte souhlasit s průměrností! Vy si zasloužíte od života to nejlepší! Potom, co jste zažily dosud, si vy, ženy, zasloužíte dokonalost!
+
 Autorská práva k dramatickému textu a překladu v České republice zastupuje Aura - Pont s.r.o.
