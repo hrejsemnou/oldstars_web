@@ -6,7 +6,7 @@ reruns:
   -
     date: '3.1.2022'
     time: '17:00'
-    place: 'H2O - bytové divadlo v Košické pro uzavřenou společnost'
+    place: 'zadáno (H2O - bytové divadlo v Košické)'
     available: 0
 ---
 Soubor tvořený rodiči členů a absolventů OLDstars připravil do dětského koutku pro svá vnoučata inscenované čtení známé pohádky. #souborkdemuzehratitvojemama
