@@ -25,9 +25,13 @@ Jednotlivá komorní dramata divadelního pásma spojují severské reálie, sam
 **Zinková běloba**
 
 Nikdy jsi nebyl, ačkoli jsi byl. Neexistuješ. Ale dnes tu máš být. Tak jako nikdy!
+
 Režie: Emma Žežulová
+
 Dramaturgie: Vojtěch Honig
+
 Hrají: Alžběta Malá, Jiří Chadraba
+
 Kontrabas: Theodor Ditrich
 
 
@@ -35,8 +39,11 @@ Kontrabas: Theodor Ditrich
 **Bezkyslíkatí**
 
 Jako bys tady ani nebyl. Necítím, že bys tu vůbec byl...
+
 Režie: Anna Marie Jarkovská
+
 Hrají: Anna Klusáková, Lukáš Cenker a Daniel Dvorský
+
 Scénografie: Anna Klusáková a Ella Ozunová
 
 
@@ -44,7 +51,9 @@ Scénografie: Anna Klusáková a Ella Ozunová
 **Ohne Titel**
 
 Usneš, a já tě budu celou, celičkou dobu držet za ruku. A pak se najednou probudíš...
+
 Režie: Prokop Košař
+
 Hrají: Jan Šípal, Jana Matějková
 
 
@@ -53,8 +62,11 @@ Hrají: Jan Šípal, Jana Matějková
 
 Vím o všem, co mi chceš říct. Stěna. Ani o krok dál. Jestli chceš nebo ne, vždycky dojdeš na molo.
 Režie: Anastázie Landová
+
 Hrají: Marie Machová, František Špaček, Jana Vaculíková a Richard Dobiáš
+
 Hudba: Tomáš Černý
+
 Scénografie a kostýmy: Anežka Karasová
 
 
@@ -62,7 +74,9 @@ Scénografie a kostýmy: Anežka Karasová
 **Kostka sádla se sušeným ovocem**
 
 Kdy se zase vrátíš s tím svým zuřivým pohledem?
+
 Režie: Ondřej Kulhavý
+
 Hrají: Zuzana Pitterová, Petra Mošovská
 
 
@@ -70,7 +84,11 @@ Hrají: Zuzana Pitterová, Petra Mošovská
 **Epilog: Lemuři**
 
 Nikdy jsi nebyl, ačkoli jsi byl. Neexistuješ. Ale dnes tu máš být. Tak jako nikdy!
+
 Režie: Emma Žežulová
+
 Dramaturgie: Vojtěch Honig
+
 Hrají: Alžběta Malá, Jiří Chadraba
+
 Kontrabas: Theodor Ditrich
