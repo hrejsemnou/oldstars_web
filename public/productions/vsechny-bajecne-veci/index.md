@@ -185,22 +185,22 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/sziwslu/'
-   -
+  -
     date: '25.2.2023'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szawslu/'
-   -
+  -
     date: '3.3.2023'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szgwslu/' 
-   -
+  -
     date: '10.3.2023'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szfwslu/'
-   -
+  -
     date: '24.3.2023'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
