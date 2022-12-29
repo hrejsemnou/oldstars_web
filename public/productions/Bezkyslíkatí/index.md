@@ -19,7 +19,7 @@ reruns:
 ---
 Pásmo 6 jednoaktových her od současného polského dramatika Ingmara Vilquista, jejichž režie se ujalo 5 studentských režisérů a každý z nich přichází se svým vlastním osobitým přístupem.
 
-Jednotlivá komorní dramata divadelního pásma spojují severské reálie, samotu, pokřivené vztahy, křehkost a zranitelnost. Postavy se v intimních dialozích uzavřeni v tísnivých prostorech vyrovnávají se svou minulostí, autor však postavy nepodrobuje morálním soudům. Umožňuje člověku nahlédnout do tíživých situací, aniž by jednoznačně zodpověděl otázky, které si postavy kladou.
+Jednotlivá komorní dramata divadelního pásma spojují severské reálie, samotu, pokřivené vztahy, křehkost a zranitelnost. Postavy se v intimních dialozích uzavřeni v tísnivých prostorech vyrovnávají se svou minulostí, autor však postavy nepodrobuje morálním soudům. Umožňuje člověku nahlédnout do tíživých situací, aniž by jednoznačně zodpověděl otázky, které si postavy kladou. Dialogy Vilquistových postav jsou syrové a úsečné, hrdinové „aktovek“ jsou často sobečtí a krutí, přesto však zůstávají velmi křehcí a citliví.
 
 
 **Zinková běloba**
