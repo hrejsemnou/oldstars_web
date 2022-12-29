@@ -155,6 +155,56 @@ reruns:
     time: '19:30'
     place: 'jubilejní 100. repríza! v Činoherním klubu'
     ticket: 'https://online.colosseum.eu/cinoherni-klub/standard/Hall/Index/1623944/qMWN3NURE8t_plu_FI2PlctvEQ_rov__rov__xcodex_AGA1gFbU4wikABHIfWYvdyKaAx58odltv7uO4Q__?'
+  -  
+    date: '6.1.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szjwslu/'
+  -   
+    date: '13.1.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szcwslu/'
+  -
+    date: '20.1.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szbwslu/'
+  -
+    date: '22.1.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szhwslu/'
+  -
+    date: '3.2.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szewslu/'
+  -
+    date: '10.2.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/sziwslu/'
+   -
+    date: '25.2.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szawslu/'
+   -
+    date: '3.3.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szgwslu/' 
+   -
+    date: '10.3.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szfwslu/'
+   -
+    date: '24.3.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szkwslu/'
 ---
 Hlavní a jedinou postavou hry je chlapec, který má za 80 minut jediný úkol - přesvědčit nejen svou matku, že na světě existuje milion věcí, kvůli kterým stojí za to se nezabíjet…
 Dojemná, vtipná interaktivní inscenace o hledání duvodů proč žít. …aneb hra o tom, jak si vytvořit výstředně povznášející náhled na život.
