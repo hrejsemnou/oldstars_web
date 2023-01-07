@@ -1,6 +1,12 @@
 ---
 title: 'Oblaka'
 writer: 'Aristofanes'
+director: 'Anna Marie Němečková'
+dramaturgy: 'Anna Marie Němečková'
+actors: 'Gabriela Ines Almargni, Miloslava Macková, Kateřina Guthová, Natálie Stančáková, Anastázie Šedivá, Barbora Humlová'
+scenography: 'Anna Marie Němečková, Tereza Landsperská'
+music: 'Radek Šlangal'
+edit: 'Anna Marie Němečková'
 reruns:
   -
     date: '9.1.2023'
