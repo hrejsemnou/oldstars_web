@@ -12,12 +12,12 @@ reruns:
     date: '9.1.2023'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 15
+    available: 13
   -  
     date: '10.1.2023'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 19
+    available: 17
 ---
 Bezbožná chvála bláznovství oděna v háv růžový. 
 
