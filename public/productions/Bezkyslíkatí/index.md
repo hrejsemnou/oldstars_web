@@ -10,7 +10,7 @@ reruns:
     date: '13.1.2023'
     time: '18:00'
     place: 'Venuše ve Švehlovce'
-    available: 'https://goout.net/cs/bezkyslikati/szgdexu/'
+    ticket: 'https://goout.net/cs/bezkyslikati/szgdexu/'
   -  
     date: '14.1.2023'
     time: '18:00'
