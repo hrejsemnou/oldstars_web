@@ -217,6 +217,8 @@ Hit festivalu v Edinburghu, nedávno s velkým úspěchem uváděný na off-Broa
 
 V OLDstars se jediné a hlavní role zhostí talentovaný Daniel Krejčík. V působivém intimním textu testuje hranice mezi jevištěm a hledištěm. Osobní zpověď je umocňována nezbytnou blízkostí diváků,kteří se stávají aktivním spoluhráčem vyprávěného příběhu.
 
+Autorkou fotografií k inscenaci je Michaela Škvrňáková.
+
 Ohlasy z médií:
 
 „Dojemné, křehké, intimní, niterní... Nevím, jaké pocity bude mít každý konkrétní divák, ale rozhodně jsem přesvědčen, že nikdo nezůstane stranou. A to nejen velmi citlivým a překvapivě přirozeným zapojením do hry, ale především díky síle společného příběhu, v němž se celý sál ocitne od první chvíle.“ Lukáš Holubec , I-divadlo.cz, 22. 3. 2018
