@@ -51,6 +51,11 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/krajni-meze/szhtqcu/'
+  -  
+    date: '11.3.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/krajni-meze/szxqkbv/'
 ---
 Už jste někdy přišli domů, našli chlapa v krbu a poblíž svou kamarádku, která se chová poměrně zvláštně? Hra o spravedlnosti, touze po pomstě a relativitě pravdy. #MeToo
 
