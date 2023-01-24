@@ -189,7 +189,12 @@ reruns:
     date: '25.2.2023'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szawslu/'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szawslu/' 
+  -
+    date: '27.2.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické - zadáno'
+    available: 0
   -
     date: '3.3.2023'
     time: '20:00'
@@ -205,6 +210,51 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szkwslu/'
+  - 
+    date: '7.4.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szddnav/'
+  -
+    date: '8.4.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szcdnav/'
+  -
+    date: '28.4.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szbdnav/'
+  - 
+    date: '5.5.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szadnav/'
+  -  
+    date: '6.5.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szycnav/'
+  - 
+    date: '26.5.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szxcnav/'
+  -  
+    date: '2.6.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szfdnav/'
+  -  
+    date: '3.6.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szednav/'
+  -  
+    date: '9.6.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szwcnav/'
 ---
 Hlavní a jedinou postavou hry je chlapec, který má za 80 minut jediný úkol - přesvědčit nejen svou matku, že na světě existuje milion věcí, kvůli kterým stojí za to se nezabíjet…
 Dojemná, vtipná interaktivní inscenace o hledání duvodů proč žít. …aneb hra o tom, jak si vytvořit výstředně povznášející náhled na život.
