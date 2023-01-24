@@ -42,11 +42,6 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/sztqgrs/'
   -  
-    date: '18.2.2022'
-    time: '20:00'
-    place: 'H2O - bytové divadlo v Košické'
-    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szuqgrs/'
-  -
     date: '16.3.2022'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
@@ -185,6 +180,30 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/sziwslu/'
+  -  
+       date: '11.2.2023'
+    time: '19:00'
+    place: 'zámek Osečany'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci+nocni-prohlidka/szryovu/'
+  -  
+    date: '12.2.2023'
+    time: '19:00'
+    place: 'zámek Osečany'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci%2Bnocni-prohlidka/szqyovu/'
+  -  
+    date: '18.2.2023'
+    time: '19:00'
+    place: 'zámek Osečany'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci+nocni-prohlidka/szsyovu/'
+  -
+    date: '19.2.2023'
+    time: '19:00'
+    place: 'zámek Osečany'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci+nocni-prohlidka/szpyovu/'
+  -
+    date: '7.3.2023'
+    time: '19:00'
+    place: 'České Budějovice' 
   -
     date: '25.2.2023'
     time: '20:00'
@@ -200,6 +219,10 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szgwslu/' 
+  -  
+    date: '4.3.2023'
+    time: '20:00'
+    place: 'Činoherní klub'
   -
     date: '10.3.2023'
     time: '20:00'
@@ -210,6 +233,10 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szkwslu/'
+  -  
+    date: '28.3.2023'
+    time: '20:00'
+    place: 'Činoherní klub'
   - 
     date: '7.4.2023'
     time: '20:00'
@@ -220,6 +247,10 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szcdnav/'
+  -  
+    date: '22.4.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
   -
     date: '28.4.2023'
     time: '20:00'
@@ -241,6 +272,10 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szxcnav/'
   -  
+    date: '12.5.2023'
+    time: '19:00'
+    place: 'Nymburk'
+  - 
     date: '2.6.2023'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
