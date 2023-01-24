@@ -181,7 +181,7 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/sziwslu/'
   -  
-       date: '11.2.2023'
+    date: '11.2.2023'
     time: '19:00'
     place: 'zámek Osečany'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci+nocni-prohlidka/szryovu/'
