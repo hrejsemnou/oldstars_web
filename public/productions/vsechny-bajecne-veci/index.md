@@ -223,6 +223,7 @@ reruns:
     date: '4.3.2023'
     time: '20:00'
     place: 'Činoherní klub'
+    ticket: 'https://online.colosseum.eu/cinoherni-klub/standard/Hall/Index/1787419/YSdAKhJTQbKM2YAAS5rDzw_rov__rov__xcodex_AGA1gFbU4wjXNkthwbz2O-NMAvcQkOO4JXQYOw__?'
   -
     date: '10.3.2023'
     time: '20:00'
@@ -237,6 +238,7 @@ reruns:
     date: '28.3.2023'
     time: '20:00'
     place: 'Činoherní klub'
+    ticket: 'https://online.colosseum.eu/cinoherni-klub/standard/Hall/Index/1787423/YAdPpHWGXBcW0po3biS9mw_rov__rov__xcodex_AGA1gFbU4wh4iV-MpNBHZR08XnX7s4u9mtBYqA__?'
   - 
     date: '7.4.2023'
     time: '20:00'
