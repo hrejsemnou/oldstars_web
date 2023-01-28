@@ -32,7 +32,7 @@ const Home = () => (
       <a href="https://www.instagram.com/dstudio_oldstars/">D Studio Instagram</a>
     </div>
     <div>
-      <a href="https://www.facebook.com/oldstarsontheroud">OLDstars on the ROUD Facebook</a>
+      <a href="https://www.facebook.com/oldstarsontheroad">OLDstars on the ROAD Facebook</a>
     </div>
     <div>
       <a href="https://www.facebook.com/oldstarsontheroud">Festival studentských divadel v Celetné Facebook</a>
