@@ -3,8 +3,6 @@ title: 'Caligula'
 writer: 'Albert Camus'
 translation: 'Ivan Zmatlík'
 actors: 'Karolína Hartmanová, Eliška Brejchová, Adéla Hromasová, Adéla Fejková, Klára Valášková, Klára Urbanová, Jana Rumlová, Tomáš Hart, Cyril Janeček, Michal Hauf, Marek Pilař'
-reruns:
-  -
 ---
 režijní vedení: Zuzana Horáková
 
