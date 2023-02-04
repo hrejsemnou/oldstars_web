@@ -252,7 +252,7 @@ reruns:
   -  
     date: '22.4.2023'
     time: '20:00'
-    place: 'H2O - bytové divadlo v Košické'
+    place: 'Klášterec nad Ohří'
   -
     date: '28.4.2023'
     time: '20:00'
