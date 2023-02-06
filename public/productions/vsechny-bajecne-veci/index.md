@@ -204,6 +204,7 @@ reruns:
     date: '7.3.2023'
     time: '19:00'
     place: 'České Budějovice' 
+    ticket: 'https://vymenik1.cz/udalost/vsechny-bajecne-veci/edate/2023-03-07/?fbclid=IwAR2B7FtZsfmlMFusiyw-vS2umUqbkzNqxbiXZwJSqzKTHinpPq6P_lWBr4w'
   -
     date: '25.2.2023'
     time: '20:00'
