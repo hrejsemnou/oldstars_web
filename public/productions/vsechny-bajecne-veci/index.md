@@ -254,6 +254,7 @@ reruns:
     date: '22.4.2023'
     time: '20:00'
     place: 'Klášterec nad Ohří'
+    ticket: 'https://system.cinemaware.eu/wstep1.php?id=9ba5e403afaf2ba9f25afa3fecdbe67f50184199b18bd4a4ef41c132'
   -
     date: '28.4.2023'
     time: '20:00'
@@ -278,6 +279,7 @@ reruns:
     date: '12.5.2023'
     time: '19:00'
     place: 'Nymburk'
+    ticket: 'https://system.cinemaware.eu/wstep1.php?id=60056281b3501caa3651cc095ca6d63779b49ce19971018cd97b0774'
   - 
     date: '2.6.2023'
     time: '20:00'
