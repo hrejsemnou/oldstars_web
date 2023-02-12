@@ -26,7 +26,7 @@ reruns:
     date: '12.2.2023'
     time: '18:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 11
+    available: 9
 ---    
 režijní vedení: Tomáš Staněk
 
