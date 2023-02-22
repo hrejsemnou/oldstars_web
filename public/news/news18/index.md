@@ -12,4 +12,4 @@ Další úspěch našich absolventů patří Tereze Gsöllhoferové, která byla
 Oběma vřele držíme palce a gratulujeme! ❤️
 
 
-Ceny divadelní kritiky jsou ocenění za umělecké výkony v prostředí českého divadla udělované na základě hlasování divadelních kritiků. V roce 2014 nahradila tato cena tradiční Cenu Alfréda Radoka. 
+_Ceny divadelní kritiky jsou ocenění za umělecké výkony v prostředí českého divadla udělované na základě hlasování divadelních kritiků. V roce 2014 nahradila tato cena tradiční Cenu Alfréda Radoka. _
