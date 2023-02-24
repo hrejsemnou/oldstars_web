@@ -4,12 +4,6 @@ writer: 'William Shakespeare'
 translation: 'Martin Hilský'
 note: Slavné drama cti a touhy v generační zkratce.
 actors: 'Sebastian Vopěnka, Matěj Zahajský, Lukáš Cenker, Jan Šípal, Matouš Košař a Cyril Janeček'
-reruns:
-  -
-    date: '13.1.2023'
-    time: '18:00'
-    place: 'Venuše ve Švehlovce'
-    ticket: 'https://goout.net/cs/bezkyslikati/szgdexu/'
 ---
 "Proč tvorové jako já se mají plazit mezi nebem a zemí?"
 "Není hřích nechat tu rakovinu lidskosti tak bujet?"
