@@ -11,7 +11,7 @@ reruns:
      date: '12.3.2023'
      time: '20:00'
      place: 'H2O - bytové divadlo v Košické'
-     available: 16
+     available: 13
 ---
 „Die Tauben, podstatné jméno: Holubi / Neslyšící. Chci vypadnout. Holger Voss, zaměstnanec, jste mobbován. Nemyslíš, že to s tím mobbingem už trochu přeháníš? V čem je problém, Gerlindo Bertrandová? Robert zmizel. Mobbing je selekce na jiné úrovni. Tím, že vytěsňuji jeden subjekt, posiluji kolektivního ducha nevytěsňovaných. Kde jsou dveře?! Jo AHA. Holubi jsou skvělí právě proto, že se vrací. Letí někam jenom proto, aby mohli letět nazpátek. Cílem je cesta nazpět.“
 
