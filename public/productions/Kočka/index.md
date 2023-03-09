@@ -5,7 +5,6 @@ translation: 'Martina Černá'
 director: 'Jan Šípal'
 scenography: 'William Miguel Pichardo'
 actors: 'Ilona Smolová, Klára Jurečková'
-premiere: '10.4.2023'
 ---
 Usadit se
 
