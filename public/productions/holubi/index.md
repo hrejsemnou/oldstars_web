@@ -9,6 +9,11 @@ premiere: '11.07.2020'
 reruns:
    -
      date: '12.3.2023'
+     time: '18:00'
+     place: 'H2O - bytové divadlo v Košické'
+     available: 20
+   -
+     date: '12.3.2023'
      time: '20:00'
      place: 'H2O - bytové divadlo v Košické'
      available: 0
