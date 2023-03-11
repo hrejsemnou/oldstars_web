@@ -11,7 +11,7 @@ reruns:
      date: '12.3.2023'
      time: '18:00'
      place: 'H2O - bytové divadlo v Košické'
-     available: 15
+     available: 12
    -
      date: '12.3.2023'
      time: '20:00'
