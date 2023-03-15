@@ -5,6 +5,13 @@ translation: 'Martina Černá'
 director: 'Jan Šípal'
 scenography: 'William Miguel Pichardo'
 actors: 'Ilona Smolová, Klára Jurečková'
+reruns:
+  -  
+    date: '29.10.2022'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    available: 20
+    
 ---
 Usadit se
 
