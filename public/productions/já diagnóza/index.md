@@ -1,7 +1,6 @@
 ---
 title: 'Já, diagnóza'
 tag: guests
-tag: monodrama
 actors: 'Lumíra Přichystalová'
 reruns:
   -
