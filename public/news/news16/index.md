@@ -1,5 +1,5 @@
 ---
-title: '0LDstars on the ROAD 2023 ✨'
+title: 'OLDstars on the ROAD 2023 ✨'
 date: '15.2.2023'
 preview: 'Letošní ročník tradičního putovního benefičního léta se studentským divadlem získává obrysy. Připravte si diáře! A co vás čeká?'
 --- 
