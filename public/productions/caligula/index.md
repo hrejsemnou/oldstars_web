@@ -12,12 +12,12 @@ reruns:
   -  
     date: '14.7.2023'
     time: '17:30'
-    place: 'Solná věž'
+    place: 'Solná věž - Praha'
     ticket: 'https://goout.net/cs/listky/caligula/cjes/'
   -  
     date: '15.7.2023'
     time: '20:30'
-    place: 'Solná věž'
+    place: 'Solná věž - Praha'
     ticket: 'https://goout.net/cs/listky/caligula/djes/' 
 ---
 režijní vedení: Zuzana Horáková
