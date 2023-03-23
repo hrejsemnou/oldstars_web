@@ -4,6 +4,27 @@ writer: 'William Shakespeare'
 translation: 'Martin Hilský'
 note: Slavné drama cti a touhy v generační zkratce.
 actors: 'Sebastian Vopěnka, Matěj Zahajský, Lukáš Cenker, Jan Šípal, Matouš Košař a Cyril Janeček'
+reruns:
+  -
+    date: '16.7.2023'
+    time: '17:30'
+    place: 'Solná věž - Praha'
+    ticket: 'https://goout.net/cs/hamlet/sznidlv/'
+  -  
+    date: '16.7.2023'
+    time: '20:30'
+    place: 'Solná věž - Praha'
+    ticket: 'https://goout.net/cs/hamlet/szoidlv/'
+  -  
+    date: '22.7.2023'
+    time: '19:00'
+    place: 'Roudnice nad Labem - Augustiniánský klášter'
+    ticket: 'https://goout.net/cs/hamlet/szridlv/?fetchFresh=true'
+  -  
+    date: '27.7.2023'
+    time: '20:00'
+    place: 'Hrad Točník'
+    ticket: 'https://goout.net/cs/hamlet/szeidlv/'
 ---
 "Proč tvorové jako já se mají plazit mezi nebem a zemí?"
 "Není hřích nechat tu rakovinu lidskosti tak bujet?"
