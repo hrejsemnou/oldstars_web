@@ -4,9 +4,15 @@ tag: guests
 actors: 'Lumíra Přichystalová'
 reruns:
   -
+    date: '12.5.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/ja-diagnoza/szufymv/'
+  -  
     date: '13.5.2023'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/ja-diagnoza/sztfymv/'
 ---
 “Letím a dopadám na prdel, lehám si na záda, držkou do bláta. Málokdo tenhle manévr umí” 
 
