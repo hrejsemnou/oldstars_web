@@ -1,7 +1,9 @@
 ---
 title: 'Já, diagnóza'
+writer: 'Lumíra Přichystalová'
 tag: guests
 actors: 'Lumíra Přichystalová'
+director: 'Jan Večeřa'
 reruns:
   -
     date: '12.5.2023'
