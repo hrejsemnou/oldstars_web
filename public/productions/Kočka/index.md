@@ -5,7 +5,7 @@ translation: 'Martina Černá'
 director: 'Jan Šípal'
 scenography: 'William Miguel Pichardo'
 actors: 'Ilona Smolová, Klára Jurečková'
-tag: 'Budu tvým stínem'
+note: 'Budu tvým stínem'
 reruns:
   -  
     date: '21.4.2023'
