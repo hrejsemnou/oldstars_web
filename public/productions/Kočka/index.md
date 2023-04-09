@@ -11,7 +11,7 @@ reruns:
     date: '21.4.2023'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 1
+    available: 0
     
 ---
 Usadit se
