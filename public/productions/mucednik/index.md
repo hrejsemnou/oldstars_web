@@ -13,7 +13,7 @@ reruns:
     place: 'H2O - bytové divadlo v Košické' 
     available: 15
    - 
-    date: '11.4.2023'
+    date: '18.4.2023'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické' 
     ticket: 'https://goout.net/cs/mucednik/szpdicv/'
