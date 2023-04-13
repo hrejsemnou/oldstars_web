@@ -35,7 +35,7 @@ reruns:
     date: '7.5.2023'
     time: '19:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 20
+    available: 16
 ---
 Najdi si práci, najdi si manžela, sežeň si byt, seznam se se sousedy, buď hodnej na svoji maminku, věnuj se manželce, zařiď si byt, oprav díru ve stropě, udělej si občas radost, procházej se bos po parku, projdi se po střeše, oprav telefon, uvař večeři.
 A hlavně se nestresuj.
