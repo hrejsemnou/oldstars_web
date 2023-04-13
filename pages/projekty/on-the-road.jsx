@@ -8,7 +8,10 @@ const Home = () => (
     </p>
     <p>
       V pondělí 10. a v úterý 11. 7. budeme divadelní přehlídkou okupovat hrad Točník. Prodloužený víkend 13.-16. 7. otestujeme novou nečekanou lokaci v Praze, kde uvedeme několik původních premiér. Následovat do konce července bude turné po hradech, zámcích, klášterech, zahradách a parcích - zejména Středočeského kraje.
-    </p>  
+    </p> 
+    <p>
+        Projekt byl podpořen grantem Města Kutná Hora a grantem Státního fondu kultury - děkujeme! Záštitu nad projektem převzal radní města Kutná Hora Tomáš Morawski. Na projektu spolupracuje dobrovolnické centrum Univerzity Karlovy.
+    </p>    
   </Layout>
 )
 
