@@ -16,6 +16,34 @@ reruns:
     place: 'Solná věž - Praha'
     ticket: 'https://goout.net/cs/hamlet/szoidlv/'
   -  
+    date: '17.7.2023'
+    time: '20:00'
+    place: 'Kutná Hora'
+  -
+    date: '18.7.2023'
+    time: '20:00'
+    place: 'Zámek Zruč nad Sázavou' 
+  -
+    date: '19.7.2023'
+    time: '20:00'
+    place: 'Vrdy u Čáslavi'
+  -
+    date: '20.7.2023'
+    time: '20:00'
+    place: 'MUD Benešov'
+  -
+    date: '21.7.2023'
+    time: '20:00'
+    place: 'tvrz Malešov'
+  -
+    date: '23.7.2023'
+    time: '20:00'
+    place: 'zámek Libochovice'
+  -
+    date: '25.7.2023'
+    time: '20:00'
+    place: 'Litoměřice'
+  -
     date: '22.7.2023'
     time: '19:00'
     place: 'Roudnice nad Labem - Augustiniánský klášter'
