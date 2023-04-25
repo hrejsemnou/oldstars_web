@@ -12,3 +12,5 @@ Další ročník tradičního putovního benefičního léta se studentským div
 
 
 Více informací brzy!
+
+Projekt byl podpořen grantem Města Kutná Hora a grantem Státního fondu kultury - děkujeme! Záštitu nad projektem převzal radní města Kutná Hora Tomáš Morawski a rektor JAMU pan MgA. Petr Michálek. Na projektu spolupracuje dobrovolnické centrum Univerzity Karlovy. Za podporu dále děkujeme firmám: Stagelab, Magnetic, Lepor, Vektra, RC Europe a Technickým službám města Kutná Hora. Autorská práva zastupují Dilia a Aurapont. Oficiální  předprodejcem vstupenek je Goout.
