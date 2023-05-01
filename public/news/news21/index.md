@@ -1,5 +1,5 @@
 ---
-title: 'Kdy, kde a jak můžete vidět OLDstars on the road?!'
+title: 'Kdy a kde se můžete těšit na OLDstars on the road?'
 date: '1.5.2023'
 preview: 'Představujeme další ročník putovního benefičního letního studentského projektu. Co, kde a kdy vás vlastně letos čeká?...'
 ---
