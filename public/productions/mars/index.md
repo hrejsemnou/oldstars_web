@@ -4,6 +4,13 @@ writer: 'Marius von Mayenburg'
 translation: 'Tomáš Dimter'
 director: 'Martin Modrý a Karolína Vaňková'
 dramaturgy: 'Martin Modrý a Karolína Vaňková'
+actors: 'Samuel Toman, Kanwar Šulc, Eliška Vocelová, Dorota Tučková a další'
+reruns:
+  -  
+    date: '8.7.2023'
+    time: '20:30'
+    place: 'Bývalá vodní nádrž Sukov u Kutné Hory'
+    ticket: 'https://goout.net/cs/mars/sztvbrv/'
 ---
 _## Skupina přeživších stojí a zírá._
 
