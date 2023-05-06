@@ -7,17 +7,17 @@ reruns:
     date: '9.7.2023'
     time: '18:00'
     place: 'Hrad Točník'
-    ticket: 'https://www.oldstarsontheroad.cz/'
+    ticket: 'https://goout.net/cs/oldstars-on-the-road-2023-na-hrade-tocnik/szdtlrv/'
   -
     date: '10.7.2023'
     time: '10:00'
     place: 'Hrad Točník'
-    ticket: 'https://www.oldstarsontheroad.cz/'
+    ticket: 'https://goout.net/cs/oldstars-on-the-road-2023-na-hrade-tocnik/szdtlrv/'
   -  
     date: '11.7.2023'
     time: '10:00'
     place: 'Hrad Točník'
-    ticket: 'https://www.oldstarsontheroad.cz/'
+    ticket: 'https://goout.net/cs/oldstars-on-the-road-2023-na-hrade-tocnik/szdtlrv/'
 ---
 OLDstars on the ROAD na hradě Točník
 
