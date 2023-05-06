@@ -5,7 +5,7 @@ note: 'studentský benefiční festival'
 reruns:
   -
     date: '9.7.2023'
-    time: '15:00'
+    time: '18:00'
     place: 'Hrad Točník'
     ticket: 'https://www.oldstarsontheroad.cz/'
   -
