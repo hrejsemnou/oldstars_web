@@ -45,6 +45,7 @@ To co se roztahuje tam kde
 Máš díru v hlavě.
 
 
+<p>
 O útěku,
 
 ženách,
@@ -54,3 +55,4 @@ reinkarnaci,
 sebepřijetí
 
 a dírách v hlavě
+</p>  
