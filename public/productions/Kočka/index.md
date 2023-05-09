@@ -26,13 +26,13 @@ Neznám tě.
 Proč odtud utíkáš.
 </p>
 Pokud budu moci chodit po svých nohách, budu utíkat.  
-
+<p>
 Ale ne rychleji než já.
-
+</p>
 Jakto.
-
+<p>
 Protože jsem cesta,
-
+</p>
 Jsem kámen, o nějž
 
 Si rozdíráš nohy do krve,
