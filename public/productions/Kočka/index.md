@@ -20,15 +20,15 @@ reruns:
 ---
 <p>
 Á, už jsi zase tady.
-</p>  
+<p>  
 Neznám tě.
 <p>
 Proč odtud utíkáš.
-</p>
+<p>
 Pokud budu moci chodit po svých nohách, budu utíkat.  
 <p>
 Ale ne rychleji než já.
-</p>
+<p>
 Jakto.
 <p>
 Protože jsem cesta,
