@@ -18,14 +18,13 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     available: 20
 ---
-<r>Á, už jsi zase tady.
-</r>  
-<r>Neznám tě.
-</r>
-<r>Proč odtud utíkáš
-</r>
-<r>Pokud budu moci chodit po svých nohách, budu utíkat.
-</r>
+Á, už jsi zase tady.
+  
+Neznám tě.
+
+Proč odtud utíkáš
+
+Pokud budu moci chodit po svých nohách, budu utíkat.
 
 Ale ne rychleji než já.
 
@@ -44,9 +43,11 @@ A když na mne zapomeneš, jsem
 To co se roztahuje tam kde
 
 Máš díru v hlavě.
-</p>
 
-<p>
+
+
+
+...
 O útěku,
 
 ženách,
