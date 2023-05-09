@@ -18,11 +18,11 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     available: 20
 ---
-'Á, už jsi zase tady.'
-'Neznám tě.'
-'Proč odtud utíkáš.'
-</n>
-Pokud budu moci chodit po svých nohách, budu utíkat.  
+<r>Á, už jsi zase tady.
+</r>  
+<r>Neznám tě.</r>
+<p>Proč odtud utíkáš</p>
+<p>Pokud budu moci chodit po svých nohách, budu utíkat.</p>
 
 Ale ne rychleji než já.
 
