@@ -21,8 +21,8 @@ reruns:
 <r>Á, už jsi zase tady.
 </r>  
 <r>Neznám tě.</r>
-<p>Proč odtud utíkáš</p>
-<p>Pokud budu moci chodit po svých nohách, budu utíkat.</p>
+<r>Proč odtud utíkáš</r>
+<r>Pokud budu moci chodit po svých nohách, budu utíkat.</r>
 
 Ale ne rychleji než já.
 
