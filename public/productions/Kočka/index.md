@@ -18,12 +18,13 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     available: 20
 ---
+<p>
 Á, už jsi zase tady.
-
+</p>
 Neznám tě.
-
+<p>
 Proč odtud utíkáš.
-
+</p>
 Pokud budu moci chodit po svých nohách, budu utíkat.  
 
 Ale ne rychleji než já.
@@ -44,8 +45,14 @@ To co se roztahuje tam kde
 
 Máš díru v hlavě.
 
+
+
 O útěku,
+
 ženách,
+
 reinkarnaci,
+
 sebepřijetí
+
 a dírách v hlavě
