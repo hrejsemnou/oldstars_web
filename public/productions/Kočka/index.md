@@ -20,7 +20,9 @@ reruns:
 ---
 <p>
 Á, už jsi zase tady.
+<p>  
 Neznám tě.
+<p>
 Proč odtud utíkáš.
 Pokud budu moci chodit po svých nohách, budu utíkat.  
 Ale ne rychleji než já.
