@@ -24,31 +24,17 @@ Proč odtud utíkáš
 Pokud budu moci chodit po svých nohách, budu utíkat.  
 Ale ne rychleji než já.  
 Jakto.  
-Protože jsem cesta,
-
-Jsem kámen, o nějž
-
-Si rozdíráš nohy do krve,
-
-A když plaveš, jsem voda
-
-A když na mne zapomeneš, jsem
-
-To co se roztahuje tam kde
-
-Máš díru v hlavě.
+Protože jsem cesta,  
+Jsem kámen, o nějž  
+Si rozdíráš nohy do krve,  
+A když plaveš, jsem voda  
+A když na mne zapomeneš, jsem  
+To co se roztahuje tam kde  
+Máš díru v hlavě.  
 
 
-
-
-...
-O útěku,
-
-ženách,
-
-reinkarnaci,
-
-sebepřijetí
-
+O útěku,  
+ženách,  
+reinkarnaci,  
+sebepřijetí  
 a dírách v hlavě
-</p>  
