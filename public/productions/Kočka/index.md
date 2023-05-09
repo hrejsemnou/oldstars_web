@@ -18,12 +18,26 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     available: 20
 ---
-Usadit se
+Á, už jsi zase tady.
 
-v šílenství a
+Neznám tě.
 
-být jedním
+Proč odtud utíkáš.
 
-nebo dvěma, už se v tom také
+Pokud budu moci chodit po svých nohách, budu utíkat.  
 
-nevyznám
+Ale ne rychleji než já.
+Jakto.
+Protože jsem cesta,
+Jsem kámen, o nějž
+Si rozdíráš nohy do krve,
+A když plaveš, jsem voda
+A když na mne zapomeneš, jsem
+To co se roztahuje tam kde
+Máš díru v hlavě.
+
+O útěku,
+ženách,
+reinkarnaci,
+sebepřijetí
+a dírách v hlavě
