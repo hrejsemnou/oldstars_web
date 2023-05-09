@@ -21,7 +21,9 @@ reruns:
 <p>
 Á, už jsi zase tady.
 </p>
+<p>
 Neznám tě.
+</p>
 <p>
 Proč odtud utíkáš.
 </p>
