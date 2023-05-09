@@ -18,6 +18,7 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     available: 20
 ---
+<p>
 Á, už jsi zase tady.
   
 Neznám tě.
@@ -43,7 +44,7 @@ A když na mne zapomeneš, jsem
 To co se roztahuje tam kde
 
 Máš díru v hlavě.
-
+</p>
 
 <p>
 O útěku,
