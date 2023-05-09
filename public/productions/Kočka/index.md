@@ -18,27 +18,31 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     available: 20
 ---
-<p>
 Á, už jsi zase tady.
-<p>  
+  
 Neznám tě.
-<p>
+
 Proč odtud utíkáš.
-<p>
+
 Pokud budu moci chodit po svých nohách, budu utíkat.  
-<p>
+
 Ale ne rychleji než já.
-<p>
+
 Jakto.
-<p>
+
 Protože jsem cesta,
+
 Jsem kámen, o nějž
+
 Si rozdíráš nohy do krve,
+
 A když plaveš, jsem voda
+
 A když na mne zapomeneš, jsem
+
 To co se roztahuje tam kde
+
 Máš díru v hlavě.
-</p>
 
 
 O útěku,
