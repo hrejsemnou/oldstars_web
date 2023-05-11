@@ -43,6 +43,7 @@ reruns:
     date: '25.7.2023'
     time: '20:00'
     place: 'Litoměřice'
+    ticket: 'https://www.mkz-ltm.cz/divadlo/program/hamlet--divadlo-oldstars-5425.html?rez=17842'
   -
     date: '22.7.2023'
     time: '19:00'
