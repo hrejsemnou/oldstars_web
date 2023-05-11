@@ -16,7 +16,7 @@ reruns:
     date: '25.6.2023'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 20
+    available: 19
 ---
 Á, už jsi zase tady.  
 Neznám tě.  
