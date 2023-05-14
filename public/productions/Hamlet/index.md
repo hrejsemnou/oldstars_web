@@ -40,6 +40,10 @@ reruns:
     time: '20:00'
     place: 'zámek Libochovice'
   -
+    date: '24.7.2023'
+    time: '21:00'
+    place: 'hrad Pecka'  
+  -
     date: '25.7.2023'
     time: '20:00'
     place: 'Litoměřice'
@@ -54,6 +58,14 @@ reruns:
     time: '20:00'
     place: 'Hrad Točník'
     ticket: 'https://goout.net/cs/hamlet/szeidlv/'
+  -
+    date: '26.7.2023'
+    time: '20:00'
+    place: 'Terešov'
+  -
+    date: '29.7.2023'
+    time: '19:00'
+    place: 'Nymburk'  
 ---
 "Proč tvorové jako já se mají plazit mezi nebem a zemí?"
 "Není hřích nechat tu rakovinu lidskosti tak bujet?"
