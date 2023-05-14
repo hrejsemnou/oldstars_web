@@ -61,7 +61,7 @@ reruns:
   -
     date: '26.7.2023'
     time: '20:00'
-    place: 'Terešov'
+    place: 'Brandýs nad Labem'
   -
     date: '29.7.2023'
     time: '19:00'
