@@ -1,10 +1,15 @@
 ---
-title: 'Produkt'
+title: 'Product'
 writer: 'Mark Ravenhill'
 tag: 'guests'
 director: 'Petr Akimov'
 actors: 'Tomáš Weber'
 reruns:
+  -  
+    date: '19.5.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/h2o-bytove-divadlo/vzlsxc/'
   -  
     date: '17.6.2023'
     time: '20:00'
