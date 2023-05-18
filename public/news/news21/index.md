@@ -17,4 +17,4 @@ Následovat do konce července bude turné s openair inscenací HAMLET po hradec
 
 [www.oldstarsontheroad.cz](https://www.oldstarsontheroad.cz/)
 
-Projekt byl podpořen grantem Města Kutná Hora a grantem Státního fondu kultury - děkujeme! Záštitu nad projektem převzal radní města Kutná Hora Tomáš Morawski a rektor JAMU pan MgA. Petr Michálek. Na projektu spolupracuje dobrovolnické centrum Univerzity Karlovy. Za podporu dále děkujeme firmám: Stagelab, Magnetic, Lepor, Vektra a RC Europe. Autorská práva zastupují Dilia a Aurapont. Oficiální předprodejcem vstupenek je Goout.
+Projekt byl podpořen grantem Města Kutná Hora a grantem Státního fondu kultury - děkujeme! Záštitu nad projektem převzala hejtmanka Středočeského kraje Mgr. Petra Pecková, radní města Kutná Hora Tomáš Morawski a rektor JAMU  MgA. Petr Michálek. Na projektu spolupracuje dobrovolnické centrum Univerzity Karlovy. Za podporu dále děkujeme firmám: Stagelab, Magnetic, Lepor, Vektra a RC Europe. Autorská práva zastupují Dilia a Aurapont. Oficiální předprodejcem vstupenek je Goout.
