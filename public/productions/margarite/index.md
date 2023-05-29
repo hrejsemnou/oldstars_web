@@ -86,6 +86,11 @@ reruns:
     time: '18:00'
     place: 'Kutná Hora - Církevní gymnázium'
     ticket: 'https://goout.net/cs/listky/margarite/ejes/'
+  - 
+    date: '2.6.2023'
+    time: '20:00'
+    place: 'České Budějovice - Výměník1'
+    ticket: 'https://vymenik1.cz/udalost/margarite/edate/2023-06-02/?fbclid=IwAR1O-vTJqgjsPRKAzzUt11Q0uhwcYNh5C8XZObAK4LmWqe5Dx_9rjmPOrbk'
 ---
 Jak bojovat s nepřízní osudu? Nejlépe s humorem, nevadí, že je občas drsný. A hlavně se nenechat v průšvihu utopit.Nadechnout se lze i jednou nosní dírkou. Margarita má dnes narozeniny a nikdo z jejích dětí, natož bývalý manžel si na ni ani nevzpomněl. Jen od svého lékaře dostává nečekaný dárek. Monolog pro jednu herečku je jakýmsi deníkovým průletem 180 dny. Dojemná i silná hra se dostala mezi finálové texty španělské soutěže tvůrčího psaní Premi Born de Teatre 2013. V rámci letošního ročníku Měsíce autorského čtení, který byl věnován španělským autorům, absolvoval Carlos Be s touto hrou velmi úspěšná a divácky hojně navštívená scénická čtení v Brně, Ostravě, Košicích, polské Vratislavi a Lvově.
 
