@@ -4,6 +4,8 @@ writer: 'Mark Ravenhill'
 tag: 'guests'
 director: 'Petr Akimov'
 actors: 'Tomáš Weber'
+production: 'Anna Zelíková'
+photography: 'Jan Fuchs'
 reruns:
   -  
     date: '19.5.2023'
@@ -21,8 +23,9 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/produkt/szkltpv/'
 ---
-Casting. Ty a režisér. „Let’s make a movie together, shall we?“ vítá tě ve své kanceláři a začne ti vypravovat scénář filmu…
-
-Imerzivní, interaktivní divadelní inscenace Product z pera Marka Ravenhilla divákovi poodstinuje zákulisí castingu klasického amerického blockbusteru, z éry dávno před me too. Z diváka se v představení stává aktivní účastník situací, jimiž jej herec provádí. Na hodinu herečkou nebo hercem hollywoodského showbusinessu. A cesta ke slávě je trnitá…
-
-Upozornění: Ve velmi interaktivní, imerzivní inscenaci Productse objevuje hrubý jazyk, sexuální a vulgární scény a scény zobrazující násilí. Proto není vhodné pro děti a každý divák by se měl rozhodnout, zda je pro něj toto představení vhodné. Imerzivní podstata představení implikuje přímou fyzickou nebo slovní interakci mezi hercem a divákem. Představení je hrané v angličtině bez titulků.
+Imerzivní interaktivní divadelní inscenace Product na motivy stejnojmenné hry Marka Ravenhilla předvádí casting klasického amerického blockbusteru. Z diváka se v představení stává aktivní účastník situací, jimiž jej herec provádí. 
+ 
+V inscenaci se objevuje hrubý jazyk, sexuální a vulgární scény a také scény zobrazující násilí. Imerzivní podstata představení implikuje přímou fyzickou nebo slovní interakci mezi hercem a divákem. 
+ 
+Představení je hrané v angličtině bez titulků. 60. minut. 
+“Let’s make a movie together, shall we?”
