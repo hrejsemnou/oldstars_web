@@ -6,6 +6,7 @@ director: 'Petr Akimov'
 actors: 'Tomáš Weber'
 production: 'Anna Zelíková'
 photography: 'Jan Fuchs'
+note: 'Let’s make a movie together...'
 reruns:
   -  
     date: '19.5.2023'
