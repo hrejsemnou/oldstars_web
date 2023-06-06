@@ -1,7 +1,6 @@
 ---
 title: 'Divadelní komedie'
 actors: 'Lenka Mazlová, Hana Košťálová, Jan Hausenblas, Jiří Luhan, Nataša Frías/Ivana Helebrantová, Ondřej Hausenblas, Markéta Luhanová/ Martina Tylová, Tomáš Gsöllhofer/Táňa Gsöllhoferová a Václav Flegl'
-note: 'Nikdo z nás nebyl tak silný, aby ji přinutil žít'
 premiere: '20.6.2023'
 reruns:
   -  
