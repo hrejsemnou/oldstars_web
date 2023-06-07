@@ -18,7 +18,7 @@ reruns:
   -  
     date: '17.7.2023'
     time: '20:00'
-    place: 'Kutná Hora'
+    place: 'Kutná Hora - Breyerovy sady pod Vlašským dvorem'
   -
     date: '18.7.2023'
     time: '20:00'
@@ -31,6 +31,7 @@ reruns:
     date: '20.7.2023'
     time: '20:00'
     place: 'MUD Benešov'
+    ticket: 'https://goout.net/cs/hamlet/szmfwwv/'
   -
     date: '21.7.2023'
     time: '20:00'
@@ -65,7 +66,11 @@ reruns:
   -
     date: '29.7.2023'
     time: '19:00'
-    place: 'Nymburk'  
+    place: 'Nymburk'    
+  -
+    date: '30.7.2023'
+    time: '20:00'
+    place: 'Praha - OC Cíl, Zahradní město'
 ---
 "Proč tvorové jako já se mají plazit mezi nebem a zemí?"
 "Není hřích nechat tu rakovinu lidskosti tak bujet?"
