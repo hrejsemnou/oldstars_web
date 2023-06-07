@@ -21,3 +21,5 @@ se vážně potkáme
 
 
 Jedenáct konverzací jedenácti párů odehrávající se krátce po sexu. Co si počít se vztahem, když ani nevíme, co si počít sami se sebou.
+
+Režijní vedení: Tomáš Staněk
