@@ -5,6 +5,7 @@ translation: 'Tomáš Dimter'
 director: 'Martin Modrý a Karolína Vaňková'
 dramaturgy: 'Martin Modrý a Karolína Vaňková'
 actors: 'Samuel Toman, Kanwar Šulc, Eliška Vocelová, Dorota Tučková a další'
+note: 'postapokalypsa v unikátní lokaci'
 reruns:
   -  
     date: '8.7.2023'
