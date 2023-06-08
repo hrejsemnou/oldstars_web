@@ -4,7 +4,7 @@ writer: 'Marius von Mayenburg'
 translation: 'Tomáš Dimter'
 director: 'Martin Modrý a Karolína Vaňková'
 dramaturgy: 'Martin Modrý a Karolína Vaňková'
-actors: 'Samuel Toman, Kanwar Šulc, Eliška Vocelová, Dorota Tučková a další'
+actors: 'Samuel Toman, Kanwar Šulc, Eliška Vocelová, Dorota Tučková, Marian Škorvaga a další'
 note: 'postapokalypsa v unikátní lokaci'
 reruns:
   -  
