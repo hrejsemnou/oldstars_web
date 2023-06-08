@@ -1,6 +1,6 @@
 ---
 title: 'Divadelní komedie'
-actors: 'Lenka Mazlová, Hana Košťálová, Jan Hausenblas, Jiří Luhan, Nataša Frías/Ivana Helebrantová, Ondřej Hausenblas, Markéta Luhanová/ Martina Tylová, Tomáš Gsöllhofer/Táňa Gsöllhoferová a Václav Flegl'
+actors: 'Lenka Mazlová, Hana Košťálová, Jan Hausenblas, Jiří Luhan/Jiří Turek, Nataša Frías/Ivana Helebrantová, Ondřej Hausenblas, Markéta Luhanová/ Martina Tylová, Tomáš Gsöllhofer/Táňa Gsöllhoferová a Václav Flegl'
 note: 'divadelníci o divadle divadlem...'
 premiere: '20.6.2023'
 reruns:
