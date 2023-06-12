@@ -37,6 +37,11 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/sirotci/szpnkcv/'
+  -  
+    date: '16.6.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/sirotci/szrqfxv/'
 ---
 „Jsme úplně sami. Tam venku už neplatí žádnej zákon.“ Domov. Jediné místo, kam se schovat před osamělostí, chaosem a všudypřítomnou agresivitou vnějšího světa. Co ale dělat, když přes veškerou snahu chránit rodinu, prosakuje zvenčí hrozba? A je to opravdu zvenčí? Jak dobře známe svoje nejbližší? A známe vůbec sami sebe?
 
