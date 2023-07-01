@@ -71,6 +71,13 @@ reruns:
     date: '30.7.2023'
     time: '20:00'
     place: 'Praha - OC Cíl, Zahradní město'
+  -
+    date: '2.8.2023'
+    time: '19:00'
+    place: 'Děčín'
+  -
+    date: '3.8.2023'
+    place: 'Povaleč'
 ---
 "Proč tvorové jako já se mají plazit mezi nebem a zemí?"
 "Není hřích nechat tu rakovinu lidskosti tak bujet?"
