@@ -77,6 +77,7 @@ reruns:
     place: 'Děčín'
   -
     date: '3.8.2023'
+    time: '19:00'
     place: 'Povaleč'
 ---
 "Proč tvorové jako já se mají plazit mezi nebem a zemí?"
