@@ -10,7 +10,7 @@ reruns:
   -  
     date: '8.7.2023'
     time: '20:30'
-    place: 'Bývalá vodní nádrž Sukov u Kutné Hory'
+    place: 'Zimní stadion Kutná Hora'
     ticket: 'https://goout.net/cs/mars/sztvbrv/'
 ---
 _## Skupina přeživších stojí a zírá._
