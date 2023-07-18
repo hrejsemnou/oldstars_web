@@ -22,7 +22,8 @@ reruns:
   -
     date: '18.7.2023'
     time: '20:00'
-    place: 'Zámek Zruč nad Sázavou' 
+    place: 'Zámek Zruč nad Sázavou'
+    ticket: 'https://www.zamek-zruc.cz/udalosti/divadelni-predstaveni-hamlet-1872023'
   -
     date: '19.7.2023'
     time: '20:00'
