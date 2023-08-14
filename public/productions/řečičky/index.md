@@ -2,6 +2,17 @@
 title: 'Řečičky'
 writer: 'Zuzana Ferencová'
 actors: 'Adéla Kelbichová, Anna Kulhavá, Kristýna Hrdličková, Marie Měkotová, Jonáš Pavlatovský a Ondřej Vlachý'
+reruns:
+  -
+    date: '1.9.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/recicky/szrdxgw/'
+  -
+    date: '2.9.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/recicky/szsdxgw/'
 ---
 „seš strašně fajn” - „běž do píči”
 
