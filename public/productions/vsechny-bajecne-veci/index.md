@@ -305,27 +305,27 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szftrfw/'
--  
+  -  
     date: '23.9.2023'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szetrfw/'
--  
+  -  
     date: '29.9.2023'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szhtrfw/'
--  
+  -  
     date: '20.10.2023'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szgtrfw/'
--  
+  -  
     date: '24.11.2023'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szdtrfw/'
--  
+  -  
     date: '25.11.2023'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
