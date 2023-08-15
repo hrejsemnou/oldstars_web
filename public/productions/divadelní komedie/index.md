@@ -14,6 +14,16 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/divadelni-komedie/szucnwv/'
+  -  
+    date: '12.9.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/divadelni-komedie/szxbxgw/'
+  -  
+    date: '13.9.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/divadelni-komedie/szwbxgw/'
 ---
 Co předchází tomu, než usednete do hlediště a zhlédnete představení?
 "Divadlo se člověk naučí tím, že hraje divadlo!"
