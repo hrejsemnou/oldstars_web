@@ -29,5 +29,15 @@ reruns:
     time: '17:00'
     place: 'Festival studentských divadel v Celetné'
     ticket: 'https://www.divadlovceletne.cz/program/vladimir/'
+  -
+    date: '2.12.2023'
+    time: '17:00'
+    place: 'H2O - bytové divadlo v Košické'
+    available: 20
+  -
+    date: '2.12.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    available: 20
 ---
 Četl jsem, že za určitých okolností se z každého člověka může stát násilník.
