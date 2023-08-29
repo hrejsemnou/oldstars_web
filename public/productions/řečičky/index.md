@@ -6,12 +6,12 @@ reruns:
   -
     date: '1.9.2023'
     time: '20:00'
-    place: 'H2O - bytové divadlo v Košické'
+    place: 'H2O - bytové divadlo v Košické - ze zdravotních důvodů zrušeno'
     ticket: 'https://goout.net/cs/recicky/szrdxgw/'
   -
     date: '2.9.2023'
     time: '20:00'
-    place: 'H2O - bytové divadlo v Košické'
+    place: 'H2O - bytové divadlo v Košické - ze zdravotních důvodů zrušeno'
     ticket: 'https://goout.net/cs/recicky/szsdxgw/'
 ---
 „seš strašně fajn” - „běž do píči”
