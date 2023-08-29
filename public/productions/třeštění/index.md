@@ -22,7 +22,11 @@ reruns:
     date: '20.5.2023'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    ticket: 'https://goout.net/cs/tresteni-ve-dvou/szlpenv/' 
+    ticket: 'https://goout.net/cs/tresteni-ve-dvou/szlpenv/'
+  -  
+    date: '6.10.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
 ---
 Příběh dvou lidí, kteří v konfrontaci s vnějším světem podléhají svým úzkostem a strachu, přičemž válečný stav je jen jednou z variant toho, čím může postavy hry, ale i nás samotné vnější svět děsit.
 
