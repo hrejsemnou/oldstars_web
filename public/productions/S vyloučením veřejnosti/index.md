@@ -10,6 +10,11 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/s-vyloucenim-verejnosti/szavwhw/'
+  -
+    date: '13.10.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/s-vyloucenim-verejnosti/szdutmw/'
 ---
 Mezi čtyřmi stěnami se ocitají tři zcela odlišní lidé. Každý má svůj příběh, každý má svá přání. Každý vidí svět svýma očima. Tři zcela odlišné povahy, jimž je souzeno strávit spolu věčnost a pomalu ztrácet sami sebe v pohledu zbylých dvou. Neb nakolik může být člověk opravdu sám sebou, když se každý jeho krok jako v pokřiveném zrcadle odráží v očích druhého? 
 
