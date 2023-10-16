@@ -38,6 +38,6 @@ reruns:
     date: '2.12.2023'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 20
+    ticket: 'https://goout.net/cs/vladimir/szxpnqw/'
 ---
 Četl jsem, že za určitých okolností se z každého člověka může stát násilník.
