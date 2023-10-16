@@ -29,6 +29,7 @@ reruns:
     date: '15.12.2023'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/ja-diagnoza/szcfnqw/'
 ---
 “Letím a dopadám na prdel, lehám si na záda, držkou do bláta. Málokdo tenhle manévr umí” 
 
