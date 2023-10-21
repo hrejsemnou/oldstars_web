@@ -18,7 +18,25 @@ reruns:
     date: '15.7.2023'
     time: '20:30'
     place: 'Solná věž - Praha'
-    ticket: 'https://goout.net/cs/listky/caligula/djes/' 
+    ticket: 'https://goout.net/cs/listky/caligula/djes/'
+  -
+    date: '14.10.2023'
+    time: '20:00'
+    place: 'Solná věž - Praha'
+  -
+    date: '15.10.2023'
+    time: '20.00'
+    place: 'Solná věž - Praha'
+  - 
+    date: '27.10.2023'
+    time: '22:30'
+    place: 'Solná věž - Praha'
+    ticket: 'https://goout.net/cs/caligula/szlcxgw/'
+  -
+    date: '28.10.2023'
+    time: '18:00'
+    place: 'Solná věž - Praha'
+    ticket: 'https://goout.net/cs/caligula/szncxgw/'
 ---
 režijní vedení: Zuzana Horáková
 
