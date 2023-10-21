@@ -18,6 +18,21 @@ reruns:
     time: '17:30'
     place: 'Solná věž - Praha'
     ticket: 'https://goout.net/cs/vojcek/szqecqv/'
+  -
+    date: '27.10.2023'
+    time: '18:30'
+    place: 'Solná věž - Praha'
+    ticket: 'https://goout.net/cs/vojcek/szocxgw/'
+  -
+    date: '29.10.2023'
+    time: '19:00'
+    place: 'Solná věž - Praha'
+    ticket: 'https://goout.net/cs/vojcek/szgtlow/'
+  -    
+    date: '2.11.2023'
+    time: '20:00'
+    place: 'Solná věž - Praha'
+    ticket: 'https://goout.net/cs/vojcek/szhtlow/'
 ---
 Voják, cirkusák, halucinace, chudoba. Člověk je taky jen z masa a krve, skvostnej exemplář, jsem chlap. Jsme chudáci, hrách, vrah. Vlastně se nic neděje, neděle. Krásná krajina, čekání na válku. Bláznivej svět, krásnej svět. Za městem muzika, ticho, jako by celej svět umřel. Tento člověk nejí už čtvrt roku nic jiného než hrách. Kuráž Vojcku, ještě pár dnů a pokus je u konce.
 
