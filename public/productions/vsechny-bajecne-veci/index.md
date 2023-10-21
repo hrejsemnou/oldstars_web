@@ -330,6 +330,11 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szctrfw/'
+  -
+    date: '7.11.2023'
+    time: '19:30'
+    place: 'Činoherní klub'
+    ticket: 'https://online.colosseum.eu/cinoherni-klub/standard/Hall/Index/2212610/nVQ7goa6K6vgQZNvG7sw4A_rov__rov__xcodex_AGA1gFbU4wiEn1pMjJRhbmgyb5yHGkGkEu2NFA__?'
 ---
 Hlavní a jedinou postavou hry je chlapec, který má za 80 minut jediný úkol - přesvědčit nejen svou matku, že na světě existuje milion věcí, kvůli kterým stojí za to se nezabíjet…
 Dojemná, vtipná interaktivní inscenace o hledání duvodů proč žít. …aneb hra o tom, jak si vytvořit výstředně povznášející náhled na život.
