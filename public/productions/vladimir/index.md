@@ -39,5 +39,10 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vladimir/szxpnqw/'
+  -
+    date: '28.10.2023'
+    time: '22:00'
+    place: 'Solná věž - Praha'
+    ticket: 'https://goout.net/cs/vladimir/szqdhnw/'
 ---
 Četl jsem, že za určitých okolností se z každého člověka může stát násilník.
