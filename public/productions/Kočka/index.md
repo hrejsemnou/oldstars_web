@@ -23,23 +23,21 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     available: 6
 ---
-Á, už jsi zase tady.  
-Neznám tě.  
-Proč odtud utíkáš  
-Pokud budu moci chodit po svých nohách, budu utíkat.  
-Ale ne rychleji než já.  
-Jakto.  
-Protože jsem cesta,  
-Jsem kámen, o nějž  
-Si rozdíráš nohy do krve,  
-A když plaveš, jsem voda  
-A když na mne zapomeneš, jsem  
-To co se roztahuje tam kde  
-Máš díru v hlavě.  
 
+Budu tvým stínem
+Á, už jsi zase tady.
+Neznám tě.
+Proč odtud utíkáš
+Pokud budu moci chodit po svých nohách, budu utíkat.
+Ale ne rychleji než já.
+Jakto.
+Protože jsem cesta,
+Jsem kámen, o nějž
+Si rozdíráš nohy do krve,
+A když plaveš, jsem voda
+A když na mne zapomeneš, jsem
+To co se roztahuje tam kde
+Máš díru v hlavě.
 
-O útěku,  
-ženách,  
-reinkarnaci,  
-sebepřijetí  
-a dírách v hlavě
+Inscenace o dvou polovinách jednoho bytí, o devíti setkáních, v nových životech, rolích, žánrech, o dvou ženách, o křivdách a útěcích
+
