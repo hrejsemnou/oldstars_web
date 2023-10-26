@@ -23,83 +23,96 @@ export interface ParsedProgram {
 export function getMonthName(month: number) {
   switch (month) {
     case 0:
-      return 'Leden';
+      return "Leden";
     case 1:
-      return 'Únor';
+      return "Únor";
     case 2:
-      return 'Březen';
+      return "Březen";
     case 3:
-      return 'Duben';
+      return "Duben";
     case 4:
-      return 'Květen';
+      return "Květen";
     case 5:
-      return 'Červen';
+      return "Červen";
     case 6:
-      return 'Červenec';
+      return "Červenec";
     case 7:
-      return 'Srpen';
+      return "Srpen";
     case 8:
-      return 'Září';
+      return "Září";
     case 9:
-      return 'Říjen';
+      return "Říjen";
     case 10:
-      return 'Listopad';
+      return "Listopad";
     case 11:
-      return 'Prosinec';
+      return "Prosinec";
     default:
-      return 'Neznámý měsíc';
+      return "Neznámý měsíc";
   }
 }
 
 function getDayName(day: number) {
   switch (day) {
     case 0:
-      return 'Neděle';
+      return "Neděle";
     case 1:
-      return 'Pondělí';
+      return "Pondělí";
     case 2:
-      return 'Úterý';
+      return "Úterý";
     case 3:
-      return 'Středa';
+      return "Středa";
     case 4:
-      return 'Čtvrtek';
+      return "Čtvrtek";
     case 5:
-      return 'Pátek';
+      return "Pátek";
     case 6:
-      return 'Sobota';
+      return "Sobota";
     default:
-      return 'Špatné datum v repertoáru';
-  };
+      return "Špatné datum v repertoáru";
+  }
 }
 
-export const createDateObject = (rerun: { date: string, time: string }) => {
-  const dateParts = rerun.date.split('.');
-  const timeParts = rerun.time.split(':');
-  const dateObject = new Date(new Date(+dateParts[2], +dateParts[1] - 1, +dateParts[0], +timeParts[0], +timeParts[1]));
+export const createDateObject = (rerun: { date: string; time: string }) => {
+  const dateParts = rerun.date.split(".");
+  const timeParts = rerun.time.split(":");
+  const dateObject = new Date(
+    new Date(
+      +dateParts[2],
+      +dateParts[1] - 1,
+      +dateParts[0],
+      +timeParts[0],
+      +timeParts[1]
+    )
+  );
   return dateObject;
-}
+};
 
 export const parseProgram = (program: Program[]) => {
   const parsedProgram: ParsedProgram[] = [];
   const dateObjects: Date[] = [];
   program.forEach((p) => {
-    p.reruns ? p.reruns.forEach(rerun => {
-      const dateObject = createDateObject(rerun);
-      const dayName = getDayName(dateObject.getDay());
-      dateObjects.push(dateObject);
-      parsedProgram.push({
-        day: dayName,
-        slug: p.slug,
-        date: rerun.date,
-        title: p.title,
-        note: p.note,
-        time: rerun.time,
-        place: rerun.place,
-        dateObject: dateObject,
-      });
-    }) : [];
+    p.reruns
+      ? p.reruns.forEach((rerun) => {
+          const dateObject = createDateObject(rerun);
+          const dayName = getDayName(dateObject.getDay());
+          dateObjects.push(dateObject);
+          parsedProgram.push({
+            day: dayName,
+            slug: p.slug,
+            date: rerun.date,
+            title: p.title,
+            note: p.note,
+            time: rerun.time,
+            place: rerun.place,
+            dateObject: dateObject,
+          });
+        })
+      : [];
   });
-  const sortedProgram = parsedProgram.sort((dateA, dateB) => {
+  const filteredProgram = parsedProgram.filter(
+    (item) => item.dateObject >= new Date()
+  );
+  const sortedProgram = filteredProgram.sort((dateA, dateB) => {
     if (dateA.dateObject > dateB.dateObject) {
       return 1;
     }
@@ -111,23 +124,28 @@ export const parseProgram = (program: Program[]) => {
   return sortedProgram;
 };
 
-export const filterByMonth = (program: ParsedProgram[], month: number | null) => {
+export const filterByMonth = (
+  program: ParsedProgram[],
+  month: number | null
+) => {
   if (month === null) {
     return program;
   }
   const today = new Date();
-  return program.filter(item => item.dateObject.getMonth() === month - 1).filter(item => {
-    if (item.dateObject.getMonth() < today.getMonth()) {
-      return item.dateObject.getFullYear() > today.getFullYear();
-    } else {
-      return item.dateObject.getFullYear() === today.getFullYear(); 
-    }
-  }).filter(item => item.dateObject.getFullYear() <= today.getFullYear() + 1)
-  .filter(item => item.dateObject >= today);
-}
+  return program
+    .filter((item) => item.dateObject.getMonth() === month - 1)
+    .filter((item) => {
+      if (item.dateObject.getMonth() < today.getMonth()) {
+        return item.dateObject.getFullYear() > today.getFullYear();
+      } else {
+        return item.dateObject.getFullYear() === today.getFullYear();
+      }
+    })
+    .filter((item) => item.dateObject.getFullYear() <= today.getFullYear() + 1)
+    .filter((item) => item.dateObject >= today);
+};
 
 export const getNextPlays = (program: Program[]) => {
-  const today = new Date();
   const parsedProgram = parseProgram(program);
-  return parsedProgram.filter(item => item.dateObject > today).slice(0, 5);
+  return parsedProgram.slice(0, 5);
 };
