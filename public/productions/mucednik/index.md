@@ -17,5 +17,10 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické' 
     ticket: 'https://goout.net/cs/mucednik/szpdicv/'
+   - 
+    date: '19.12.2023'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické' 
+    ticket: 'https://goout.net/cs/mucednik/szgprsw/'
 ---
 Krutá komedie o dospívání v současném světě, o náboženském fanatismu, terorismu a povrchnosti dnešní společnosti. Co by se stalo, kdyby západoevropský křesťan hlásal svou víru tak naléhavě a radikálně, jako řada podobně uvědomělých stoupenců islámu...?
