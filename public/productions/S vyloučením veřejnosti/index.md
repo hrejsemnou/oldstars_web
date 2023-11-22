@@ -16,7 +16,7 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/s-vyloucenim-verejnosti/szdutmw/'
   -
-    date: '19.1.2023'
+    date: '19.1.2024'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/s-vyloucenim-verejnosti/szjprsw/'
