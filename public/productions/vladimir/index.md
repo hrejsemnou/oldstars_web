@@ -33,7 +33,7 @@ reruns:
     date: '2.12.2023'
     time: '17:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 20
+    available: 'https://goout.net/cs/vladimir/szwpnqw/'
   -
     date: '2.12.2023'
     time: '20:00'
