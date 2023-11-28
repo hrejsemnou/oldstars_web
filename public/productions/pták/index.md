@@ -2,7 +2,7 @@
 title: 'Pták'
 writer: 'Mike Bartlet'
 translation: 'Pavel Dominik'
-actors: 'Sebastián Vopěnka, Dorota Tučková, Ondřej Kulhavý a další'
+actors: 'Sebastián Vopěnka, Dorota Tučková, Ondřej Kulhavý, Marian Škorvaga a další'
 premiere: '20.3.2023'
 reruns:
   -
