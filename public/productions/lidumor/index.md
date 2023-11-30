@@ -5,6 +5,7 @@ translation: 'Tomáš Kafka'
 actors: 'Andrea Jeřábková, Jonáš Pavlatovský, Jana Matějková, Štěpán Krafka, Rozálie Matulová'
 director: 'Sebastián Vopěnka'
 scenography: 'Teodor Sticzay'
+dramaturgy: 'Lukáš Cenker'
 premiere: '6.12.2023'
 reruns:
   -
@@ -42,3 +43,5 @@ reruns:
 *„Mučíš svá játra jen kvůli snesitelnosti. Vpíjíš své já do pochopení.“*  
 
 Obydlený dům. Přátelské setkání na narozeninové oslavě. Touha, zášť, sny. V prostorách tří bytů se nese vůně cigaret a pach nedorozumění. Vyřeší sklenička koňaku sousedské nesrovnalosti? Dokáže se osobní hrdost udržet bez použití násilí? Lidumilství nebo lidumorství?
+
+Kostýmy: 'Olivie Dorušková'
