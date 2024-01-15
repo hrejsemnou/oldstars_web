@@ -37,6 +37,11 @@ reruns:
     time: '18:00'
     place: 'Solná věž - Praha'
     ticket: 'https://goout.net/cs/caligula/szncxgw/'
+  -
+    date: '15.2.2023'
+    time: '20:00'
+    place: 'Solná věž - Praha'
+    ticket: 'https://goout.net/cs/caligula/szdevvw/'
 ---
 režijní vedení: Zuzana Horáková
 
