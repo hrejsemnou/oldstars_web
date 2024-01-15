@@ -11,6 +11,16 @@ reruns:
     time: '18:00'
     place: 'Festival studentských divadel v Celetné'
     ticket: 'https://www.divadlovceletne.cz/program/dopisy-k-pate-stromu/'
+  -  
+    date: '25.1.2024'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/dopisy-k-pate-stromu/szfevvw/'
+  -  
+    date: '16.2.2024'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/dopisy-k-pate-stromu/szeevvw/'
 ---
 Co čekáš? Něco mezi nebem, zemí, USA a Mexikem. Odvezu tě na bezpečný místo.
 
