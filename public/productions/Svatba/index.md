@@ -11,7 +11,17 @@ art: 'Sebastian Vopěnka'
 premiere: '3.3.2024'
 reruns:
   -
-    date: '3. 3. 2024'
+    date: '3.3.2024'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    available: 20
+  -
+    date: '4.3.2024'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    available: 20
+  -
+    date: '5.3.2024'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     available: 20
