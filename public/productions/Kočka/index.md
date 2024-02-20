@@ -22,6 +22,11 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     available: 6
+  -
+    date: '18.5.2024'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    available: 20
 ---
 
 Budu tvým stínem
