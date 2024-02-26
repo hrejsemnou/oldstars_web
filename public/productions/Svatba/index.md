@@ -14,17 +14,17 @@ reruns:
     date: '3.3.2024'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    tickets: 'https://goout.net/cs/svatba/szvvgyw/'
+    ticket: 'https://goout.net/cs/svatba/szvvgyw/'
   -
     date: '4.3.2024'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 20
+    ticket: 'https://goout.net/cs/svatba/szuvgyw/'
   -
     date: '5.3.2024'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 20
+    ticket: 'https://goout.net/cs/svatba/sztvgyw/'
 ---
 ,,I tehdy, když jsi sám, předstíráš pouze sebe samotného, dokonce i před sebou samým…“
 
