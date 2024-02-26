@@ -14,7 +14,7 @@ reruns:
     date: '3.3.2024'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 20
+    tickets: 'https://goout.net/cs/svatba/szvvgyw/'
   -
     date: '4.3.2024'
     time: '20:00'
