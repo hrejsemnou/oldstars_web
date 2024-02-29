@@ -345,6 +345,51 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szjsjjw/'
+  -
+    date: '15.3.2024'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szybgtw/'
+  -
+    date: '16.3.2024'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szsbgtw/'
+  -
+    date: '5.4.2024'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szbcgtw/'
+  -
+    date: '6.4.2024'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/sztbgtw/'
+  -
+    date: '12.4.2024'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szwbgtw/'
+  -
+    date: '3.5.2024'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szvbgtw/'
+  - 
+    date: '4.5.2024'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szqbgtw/'
+  - 
+    date: '11.5.2024'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szxbgtw/'
+  - 
+    date: '20.6.2024'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szacgtw/'
 ---
 Hlavní a jedinou postavou hry je chlapec, který má za 80 minut jediný úkol - přesvědčit nejen svou matku, že na světě existuje milion věcí, kvůli kterým stojí za to se nezabíjet…
 Dojemná, vtipná interaktivní inscenace o hledání duvodů proč žít. …aneb hra o tom, jak si vytvořit výstředně povznášející náhled na život.
