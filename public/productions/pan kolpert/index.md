@@ -15,6 +15,11 @@ reruns:
     time: '20:00'
     place: 'bytové divadlo Košická'
     ticket: 'https://goout.net/cs/pan-kolpert/szcbusw/'
+  -
+    date: '5.4.2024'
+    time: '11:30'
+    place: 'představení pro školy - zadáno'
+    available: 0
 ---
 “Oba jsme zatoužili něco cítit. Že jsme lidé. Pak nás to napadlo: vražda.”
 
