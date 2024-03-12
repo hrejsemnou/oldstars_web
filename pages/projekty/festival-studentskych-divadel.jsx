@@ -2,7 +2,7 @@ import Layout from '../../components/Layout'
 
 const Home = () => (
   <Layout title="OLDstars > Projekty > Festival studentských divadel">
-    <h2>Festival studentských divadel</h2>
+    <h2>Program minulého ročníku 2023 k nahlédnutí zde:</h2>
     <p>
       Podzimní Festival studentských divadel pořádáme již 10 let. Třídenní maraton soudobé tvorby na pražské prestižní adrese v Divadle Celetná je vyhledávanou platformou studentského divadla. Prostor dostávají i spřátelené studentské divadelní soubory - v minulosti to byly například Dismanův rozhlasový dětský soubor, DDM Praha 3, Vanabí Litoměřice, Divadelní spolek JAK, spolek Nepřijatelní, Divadelní studio gymnázia Jaroslava Heyrovského, Divadelní ateliér Ulita a mnoho dalších. 
     </p>
@@ -69,9 +69,6 @@ const Home = () => (
     <br />
     <div>
       PR a propagace
-    </div>
-    <div>
-      Elisa Speváková, +420 736 621 558, <a href="mailto:elisa.spevakova@oldstars.cz">elisa.spevakova@oldstars.cz</a>
     </div>
     </p>
     <h3>Proběhlé ročníky</h3>
