@@ -7,7 +7,7 @@ actors: 'David Šrejma, Kateřina Guthová, Daniel Spiess, Sára Jančaříková
 premiere: '27.3.2024'
 reruns:
   -  
-    date: '27.3.2024'
+    date: '27.3.2024 - zrušeno pro nemoc'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/nosorozec/szaaibx/'
