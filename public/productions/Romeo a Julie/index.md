@@ -3,7 +3,6 @@ title: 'Romeo a Julie'
 writer: 'William Shakespeare'
 translation: 'Martin Hilský'
 actors: 'Matouš Košař/Petr Šimoníček, Vendula Smižanská, Karolína Hartmanová, David Šrejma, Tomáš Hart, Klára Urbanová/ Terezie Hakenova a Štěpán Krafka'
-premiere: '10.4.2024'
 reruns:
   -  
     date: '18.7.2024'
