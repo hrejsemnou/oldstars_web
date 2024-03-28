@@ -35,6 +35,11 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/svatba/szmhpyw/'
+  -  
+    date: '14.6.2024'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/svatba/sznuubx/'
 ---
 ,,I tehdy, když jsi sám, předstíráš pouze sebe samotného, dokonce i před sebou samým…“
 
