@@ -4,7 +4,7 @@ writer: 'Michal Walczak'
 translation: 'Jiří Vondráček'
 actors: 'Prokop Košař a Marie Myšičková (studenti DAMU)'
 note: 'Anatomie vztahu.'
-premiere: '27.7.2023'
+premiere: '27.7.2024'
 reruns:
   -
     date: '27.7.2024'
