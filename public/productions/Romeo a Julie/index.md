@@ -22,7 +22,7 @@ Přijďte se zamilovat!
 Dva rody - vznešené a mocné stejně  
 v překrásné Veroně, kam vás teď zvem´,  
 krev krví smáčí beznadějně,  
-starou zášť živý novým plamenem.   
+starou zášť živí novým plamenem.   
 
 
 Projekt OLDstars on the ROAD 2024 byl podpořen grantem Středočeského kraje a města Kutná Hora - děkujeme!
