@@ -3,7 +3,6 @@ title: 'Romeo a Julie'
 writer: 'William Shakespeare'
 translation: 'Martin Hilský'
 actors: 'Matouš Košař/Petr Šimoníček, Vendula Smižanská, Karolína Hartmanová, David Šrejma, Tomáš Hart, Klára Urbanová/ Terezie Hakenova a Štěpán Krafka'
-note: 'Nikdo z nás nebyl tak silný, aby ji přinutil žít'
 premiere: '10.4.2023'
 reruns:
   -  
@@ -16,13 +15,14 @@ reruns:
     place: 'hrad Točník'
 ---
 Letní dávka lásky sbalená na cesty.
+
 Divadelní turné na skejtech a kolečkových bruslích.
 Přijďte se zamilovat!
 
-Dva rody - vznešené a mocné stejně 
-v překrásné Veroně, kam vás teď zvem´, 
-krev krví smáčí beznadějně, 
-starou zášť živý novým plamenem. 
+Dva rody - vznešené a mocné stejně  
+v překrásné Veroně, kam vás teď zvem´,  
+krev krví smáčí beznadějně,  
+starou zášť živý novým plamenem.   
 
 
 Projekt OLDstars on the ROAD 2024 byl podpořen grantem Středočeského kraje a města Kutná Hora - děkujeme!
