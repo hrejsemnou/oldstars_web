@@ -30,6 +30,6 @@ reruns:
     date: '26. 4. 2024'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 20
+    available: 11
 ---
 Chtěla zemřít. Nikdo z nás nebyl tak silný, aby ji přinutil žít. Teď tomu rozumím. Antigona byla stvořena k tomu, aby zemřela. Sama to snad ani nevěděla, ale Polyneikes byl jen záminka. Když se jí musela vzdát, hned si našla jinou. Pro ni bylo důležité, jen aby řekla své „ne“ a zemřela.
