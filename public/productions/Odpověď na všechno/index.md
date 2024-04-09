@@ -3,7 +3,7 @@ title: 'Odpověď na všechno'
 writer: 'Neil LaBute'
 translation: 'Martin Preiss'
 director: 'Zdeněk Zajíček, Tomáš Hart'
-actors: 'Eliška Vytrhlíková / Tereza Rozmarová, Rozálie Vraná / Tereza Vodseďálková, Markéta Husarová / Klára Hávová'
+actors: 'Tereza Rozmarová, Rozálie Vraná, Markéta Husarová'
 tag: 'guests'
 premiere: '22.10.2023'
 reruns:
@@ -11,7 +11,7 @@ reruns:
     date: '19.4.2024'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 20
+    available: 17
 ---
 Hotelový pokoj, tři ublížené ženy a plán na pomstu. “On tě znásilnil, copak to nechápeš?”. Carmen pro Paige, Paige pro Cindy a Cindy pro Carmen. Alespoň taková byla dohoda.
 
