@@ -4,7 +4,7 @@ writer: 'Friedrich Schiller'
 translation: 'Jaroslav Bílý'
 director: 'Prokop Košař'
 scenography: 'Michael Čambor'
-premiere: '19. září 2024'
+premiere: '19.9.2024'
 reruns:
   -
     date: '19.9.2024'
