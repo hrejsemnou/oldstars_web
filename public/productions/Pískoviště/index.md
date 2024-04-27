@@ -10,6 +10,10 @@ reruns:
     date: '27.7.2024'
     time: '20:00'
     place: 'Roudnice nad Labem'
+  -
+    date: '29.7.2024'
+    time: '20:00'
+    place: 'Roudnice nad Labem'    
 ---
 Anatomie vztahu.
 Příběh citů, které se rodí mezi nedozrálou dvojicí hrdinů, napůl dětí, napůl dospělých, hrajících si na pískovišti.
