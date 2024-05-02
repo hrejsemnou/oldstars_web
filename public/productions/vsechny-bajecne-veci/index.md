@@ -386,6 +386,11 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szxbgtw/'
   - 
+    date: '8.5.2024'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szluubx/'    
+  - 
     date: '20.6.2024'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
