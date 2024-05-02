@@ -27,6 +27,11 @@ reruns:
     time: '18:00'
     place: 'H2O - bytové divadlo v Košické'
     available: 9
+  -  
+    date: '28.5.2024'
+    time: '18:00'
+    place: 'H2O - bytové divadlo v Košické'
+    available: 20
 ---    
 režijní vedení: Tomáš Staněk
 
