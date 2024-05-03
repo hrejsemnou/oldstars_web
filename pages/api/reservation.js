@@ -22,8 +22,8 @@ export default async function (req, res) {
   });
   const mailData = {
     from: 'demo.odesilatel@gmail.com',
-    to: 'klara.vankatova.kv@seznam.cz',
-    subject: `Rezervace`,
+    to: 'klara.vankatova@oldstars.cz',
+    subject: `Rezervace ${req.body.title} ${req.body.rerun.date}`,
     text: `Rezervace na představení ${req.body.title} ${req.body.rerun.date} ${req.body.rerun.time} ${req.body.rerun.place}. Jméno: ${req.body.name}, e-mail: ${req.body.email}, počet lístků: ${req.body.amount}`,
   }
 
