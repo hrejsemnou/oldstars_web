@@ -395,6 +395,11 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szacgtw/'
+  - 
+    date: '24.5.2024'
+    time: '20:00'
+    place: 'Komunitní centrum Pacov'
+    ticket: 'https://xticket.cz/divadla-kina/1568-vsechny-bajecne-veci-kc-pacov?fbclid=IwZXh0bgNhZW0CMTAAAR3S4DAuHXG6a-2ZrcX6kESC0Jxn-ataiV5pRXgUptCvsZMU8sp_jI8nIvU_aem_AaTe-Ltstxovjo1gcEIdswHN7yNQUq8LcriUkiWZBa38EY59pfK0L0CSXEOIwDCAGyhljPLNEeexk_5Fx93hYfPe'
 ---
 Hlavní a jedinou postavou hry je chlapec, který má za 80 minut jediný úkol - přesvědčit nejen svou matku, že na světě existuje milion věcí, kvůli kterým stojí za to se nezabíjet…
 Dojemná, vtipná interaktivní inscenace o hledání duvodů proč žít. …aneb hra o tom, jak si vytvořit výstředně povznášející náhled na život.
