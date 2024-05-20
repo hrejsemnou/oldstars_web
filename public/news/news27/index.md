@@ -1,9 +1,8 @@
 ---
-title: 'Poslední volná místa v hereckém kurzu!'
-date: '19.3.2024'
-preview: 'Chceš být hercem? Začni se připravovat včas!'
+title: 'OPENCALL pro vstup do OLDstars od příští sezony!'
+date: '20.4.2024'
+preview: 'Chcete být součástí studentské umělecké skupiny? Zkuste si zažít divadlo!'
 --- 
-Poslední dvě volná místa v intenzivním hereckém kurzu OLDstars! 
-Začínáme v sobotu 23/3.
-Začni se připravovat na talentový přijímačky včas!
-📩 Herectvi@oldstars.cz
+Láká Vás studentské divadlo? Máte rádi netradiční projekty umělecké skupiny OLDstars? Máte v příští divadelní sezoně od září 2024 dost volného času?
+Zkuste štěstí. Nezávazný kontakt na 
+📩 opencall@oldstars.cz
