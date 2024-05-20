@@ -28,7 +28,7 @@ Pondělí 29/7 20:00 [PÍSKOVIŠTĚ](https://www.oldstars.cz/repertoar/P%C3%ADsk
 Čtvrtek 19/9 cca 21:00 [MARIE STUARTOVNA](https://www.oldstars.cz/repertoar/Marie%20Stuartovna) - premiéra původního divadelního projektu pro park pod Vlašským dvorem v Kutné Hoře v rámci Divadelního festivalu divadla X10.
 
 
-https://oldstarsontheroad.cz/
+[www.OLDstarsontheROAD.cz](https://oldstarsontheroad.cz/) 
 
 Projekt OLDstars on the ROAD 2024 byl podpořen grantem města Kutná Hora a Středočeským krajem - děkujeme.
 
