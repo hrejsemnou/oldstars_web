@@ -47,12 +47,12 @@ reruns:
     time: '19:00'
     place: 'komorní scéna Vinohradského divadla'
     ticket: 'https://vstupenky.divadlonavinohradech.com/affil-index.php?pg=objednavka&prog=288007'
-   -
+  -
     date: '30.5.2024'
     time: '19:00'
     place: 'komorní scéna Vinohradského divadla'
     ticket: 'https://www.divadlonavinohradech.com/vstupenky-na-predstaveni/SIROTCI'
-   -
+  -
     date: '3.6.2024'
     time: '19:00'
     place: 'komorní scéna Vinohradského divadla'
