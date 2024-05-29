@@ -19,7 +19,7 @@ reruns:
     ticket: 'https://goout.net/cs/experiment/sznjpfx/'
   -
     date: '23.6.2024'
-    time: '20:00'
+    time: '18:00'
     place: 'Solná věž - Jalovcová 2, Praha 1'
     ticket: 'https://goout.net/cs/experiment/szmjpfx/'
 ---
