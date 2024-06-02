@@ -10,6 +10,7 @@ reruns:
     date: '19.9.2024'
     time: '21:00'
     place: 'park pod Vlašským dvorem v Kutné Hoře'
+    ticket: 'https://www.divadlox10.cz/cs/dfkh/program/marie-stuartovna'
 ---
 Dvě královny. Dva propletené osudy. Žít může jen jedna. Jak těžké je převzít odpovědnost za život své sokyně? K čemu mohou vést zákulisní intriky? Slavná historická freska v novém kabátě..
 
