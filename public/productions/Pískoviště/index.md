@@ -9,7 +9,7 @@ reruns:
   -
     date: '27.7.2024'
     time: '20:00'
-    place: 'Roudnice nad Labem'
+    place: 'Klášter Roudnice nad Labem'
     ticket: 'https://goout.net/cs/piskoviste/szgtbgx/'
   -
     date: '29.7.2024'
