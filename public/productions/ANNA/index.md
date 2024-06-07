@@ -10,6 +10,7 @@ reruns:
     date: '6.7.2024'
     time: '20:00'
     place: 'Klášter Roudnice nad Labem'
+    ticket: 'https://goout.net/cs/an-na/szsxbgx/'
 ---
 Absence.  
 Nekompromisnost.  
