@@ -2,7 +2,7 @@ import Layout from '../../components/Layout'
 
 const Home = () => (
   <Layout title="OLDstars > Projekty > OLDstars on the ROAD">
-    <h2>OLDstars on the ROAD 2023</h2>
+    <h2>OLDstars on the ROAD 2024</h2>
     <p>
       Další ročník putovního benefičního letního studentského projektu.
     </p>
