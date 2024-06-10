@@ -4,10 +4,10 @@ const Home = () => (
   <Layout title="OLDstars > Projekty > Festival studentských divadel">
     <h2>Program minulého ročníku 2023 k nahlédnutí zde:</h2>
     <p>
-      Podzimní Festival studentských divadel pořádáme již 10 let. Třídenní maraton soudobé tvorby na pražské prestižní adrese v Divadle Celetná je vyhledávanou platformou studentského divadla. Prostor dostávají i spřátelené studentské divadelní soubory - v minulosti to byly například Dismanův rozhlasový dětský soubor, DDM Praha 3, Vanabí Litoměřice, Divadelní spolek JAK, spolek Nepřijatelní, Divadelní studio gymnázia Jaroslava Heyrovského, Divadelní ateliér Ulita a mnoho dalších. 
+      Podzimní Festival studentských divadel pořádáme již více než 10 let. Třídenní maraton soudobé tvorby na pražské prestižní adrese v Divadle Celetná je vyhledávanou platformou studentského divadla. Prostor dostávají i spřátelené studentské divadelní soubory - v minulosti to byly například Dismanův rozhlasový dětský soubor, DDM Praha 3, Vanabí Litoměřice, Divadelní spolek JAK, spolek Nepřijatelní, Divadelní studio gymnázia Jaroslava Heyrovského, Divadelní ateliér Ulita a mnoho dalších. 
     </p>
     <p>
-      Festival je nízkorozpočtový a tradičně je podporován městskou částí Prahy 1. 
+      Festival je nízkorozpočtový a tradičně je podporován grantem Městské části Prahy 1 a Státním fondem kultury - děkujeme. 
     </p>
     <h3>Letošní ročník 2022</h3>
     <p>
