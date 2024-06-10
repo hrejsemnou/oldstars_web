@@ -19,7 +19,7 @@ const Home = () => (
     <div>
       Jiří Dejl, +420 608 165 789, <a href="mailto:jiri.dejl@oldstars.cz">jiri.dejl@oldstars.cz</a>
     </div>
-    </Layout>
+  </Layout>
 )
 
 export default Home
