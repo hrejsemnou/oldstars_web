@@ -10,18 +10,15 @@ const Home = () => (
       Festival je nízkorozpočtový a tradičně je podporován grantem Městské části Prahy 1 a Státním fondem kultury - děkujeme. 
     </p>
     <h3>Letošní ročník 2024 proběhne v termínu 26.-28. října 2024. Program bude zveřejněn posledního srpna a v předprodeji na webu Divadla v Celetné a Goout. </h3>
-    <p>
-     
-    </p>
+    <div>
     <h3>Kontakty</h3>
     <p>
-    <div>
       koordinátor festivalu
+    </p> 
     </div>
     <div>
       Jiří Dejl, +420 608 165 789, <a href="mailto:jiri.dejl@oldstars.cz">jiri.dejl@oldstars.cz</a>
     </div>
-    <br />
 )
 
 export default Home
