@@ -7,29 +7,33 @@ const Home = () => (
       Další ročník putovního benefičního letního studentského projektu.
     </p>
     <p>
-      V sobotu 8. července 20:00 v jediném provedení představíme v unikátní lokaci bývalé vodní nádrže Sukov u Kutné Hory původní openair inscenaci textu hvězdy evropského divadla Maria Von Mayenburga MARS. 
-    </p>
-    <p>
-      Oblíbené monodrama MARGARITĚ s Ljubou Krbovou uvedeme pohostinsky  v aule bývalého kláštera svaté Voršily (dnes Církevní gymnázium) v Kutné Hoře v neděli 9. 7. 18:00. 
-    </p>
-    <p>
-      Veřejná prostranství historického centra Kutné Hory o víkendu 7. - 9. 7. naplníme sérií repríz inscenace dochovalého torza středověké hry MASTIČKÁŘ.
-    </p>
-    <p>
-      Od nedělního večera 9. 7. do úterního večera 11. 7. budeme marathonem studentského divadla okupovat hrad Točník. 
-    </p>
-    <p>
-      Prodloužený víkend 13. - 16. 7. otestujeme divadlem novou nečekanou lokaci v centru Prahy –podkroví bývalé solné věže, kde uvedeme původní premiéry slavných her: VOJCEK a CALIGULA. 
-    </p>
-    <p>
-      Následovat do konce července bude turné s openair inscenací HAMLET po hradech, zámcích, klášterech, zahradách a parcích - zejména Středočeského kraje.
+      Letošní ročník našeho putovního divadelního léta podělíme mezi Kutnou Horu, hrad Točník, Klášter Roudnice nad Labem a desítku dalších lokací ve Středočeském kraji.
+
+Do svých diářů můžete rezervovat první termíny:
+
+Sobota 6/7 AN/NA - jednorázové uvedení původního divadelního projektu v Klášteře v Roudnici nad Labem
+
+Pátek 12/7 20:00 ROMEO A JULIE v Kutné Hoře, premiéra openair cestovní divadelní inscenace, start turné pro Středočeském kraji
+
+Čtvrtek 18/7 20:00 ROMEO A JULIE v klášteře v Roudnici nad Labem
+
+Pátek 19/7 20:00 ROMEO A JULIE na hradě Točník
+
+Sobota 27/7 20:00 PÍSKOVIŠTĚ v klášteře v Roudnici nad Labem
+
+Neděle 28/7 18:00 PÍSKOVIŠTĚ v Benešově
+
+Pondělí 29/7 20:00 PÍSKOVIŠTĚ v Kutné Hoře
+
+Čtvrtek 19/9 cca 21:00 MARIE STUARTOVNA - premiéra původního divadelního projektu pro park pod Vlašským dvorem v Kutné Hoře v rámci Divadelního festivalu divadla X10.
     </p>
     <p>
       <a href="https://www.oldstarsontheroad.cz/">www.oldstarsontheroad.cz</a>
     </p>
     <p>
-      Projekt byl podpořen grantem Města Kutná Hora a grantem Státního fondu kultury - děkujeme! Záštitu nad projektem převzala hejtmanka Středočeského kraje Mgr. Petra Pecková, radní města Kutná Hora Tomáš Morawski a rektor JAMU  MgA. Petr Michálek. Na projektu spolupracuje dobrovolnické centrum Univerzity Karlovy. Za podporu dále děkujeme firmám: Stagelab, Magnetic, Lepor, Vektra a RC Europe. Autorská práva zastupují Dilia a Aurapont. Oficiální předprodejcem vstupenek je Goout.
-    </p>  
+      Projekt OLDstars on the ROAD 2024 byl podpořen grantem města Kutná Hora a Středočeským krajem - děkujeme.
+
+Mediálními partnery jsou: Kudyznudy.cz, Horažije.cz, KutnohorskoKolínsko.cz, Scéna.cz a Kutnohorské léto.</p>  
   </Layout>
 )
 
