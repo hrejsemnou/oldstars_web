@@ -4,7 +4,7 @@ writer: 'kolektiv'
 dramaturgy: 'Cyril Janeček'
 director: 'Zuzana Horáková'
 actors: 'Eliška Brejchová, Klára Valášková, Klára Urbanová, Jana Rumlová, Adéla Fejková, Adéla Hromasová, Karolína Hartmanová, Sára Pospíšilová a Michal Hauf'
-premiere: '10.4.2023'
+premiere: '21.6.2024'
 reruns:
   -  
     date: '21.6.2024'
