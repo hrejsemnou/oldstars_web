@@ -1,15 +1,19 @@
 ---
 title: 'Osm žen'
 writer: 'Jean Anouilh'
-director: 'Jan Šípal'
-actors: 'Matouš Košař, Sára Pospíšilová, Jana Soukupová, Petr Šimoníček, Marek Kryška, Martina Tylová, Lenka Mazlová, Jakub Brunclík, Lukáš Sahula, Michael Rádl'
-note: 'Nikdo z nás nebyl tak silný, aby ji přinutil žít'
-premiere: '10.6.2024'
+director: 'Prokop Košař'
+actors: 'Berenika Fabienne Novotná, Tereza Hladíková, Magdaléna Saifrtová, Vendula Smižanská, Lucie Kosařová, Viktorie Kozderová, Josefina Rajnišová, Marie Míková'
+note: '„Ženská může bejt taky dost schopná.“'
+premiere: '23.6.2024'
 reruns:
   -  
-    date: '10.4.2023'
-    time: '20:00'
+    date: '23.6.2024'
+    time: '18:00'
     place: 'H2O - bytové divadlo v Košické'
     tickets: 0
 ---
-Chtěla zemřít. Nikdo z nás nebyl tak silný, aby ji přinutil žít. Teď tomu rozumím. Antigona byla stvořena k tomu, aby zemřela. Sama to snad ani nevěděla, ale Polyneikes byl jen záminka. Když se jí musela vzdát, hned si našla jinou. Pro ni bylo důležité, jen aby řekla své „ne“ a zemřela.
+Jedna rodina. Jeden dům. Jedna rodinná oslava. Jedna mrtvola. A 8 žen.
+
+8 podezřelých. 8 verzí příběhu. 8 různých tajemství a lží. A 8 motivů k vraždě?
+
+„Ženská může bejt taky dost schopná.“
