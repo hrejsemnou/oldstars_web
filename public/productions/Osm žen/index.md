@@ -9,7 +9,7 @@ reruns:
     date: '23.6.2024'
     time: '18:00'
     place: 'H2O - bytové divadlo v Košické'
-    tickets: 'https://goout.net/cs/osm-zen/szcimgx/'
+    ticket: 'https://goout.net/cs/osm-zen/szcimgx/'
 ---
 Jedna rodina. Jeden dům. Jedna rodinná oslava. Jedna mrtvola. A 8 žen.
 
