@@ -8,10 +8,12 @@ reruns:
     date: '18.7.2024'
     time: '20:00'
     place: 'Roudnice nad Labem'
+    ticket: 'https://goout.net/cs/romeo-a-julie/szvjpex/'
   -  
     date: '19.7.2024'
     time: '20:00'
     place: 'hrad Točník'
+    ticket: 'https://goout.net/cs/romeo-a-julie/szwjpex/'
 ---
 Letní dávka lásky sbalená na cesty.
 
