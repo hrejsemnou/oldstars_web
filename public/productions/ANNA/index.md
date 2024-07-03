@@ -35,3 +35,6 @@ Původní projekt OLDstars on the ROAD 2024.
 "Říkej lež dostatečně hlasitě a dostatečně dlouho a lidé tomu uvěřím." Adolf Hitler
 
 produkce projektu: Marek Švenda
+
+https://youtube.com/source/_kKgRVZBq0A/shorts?si=8YHoU2PS-YpapWVD
+
