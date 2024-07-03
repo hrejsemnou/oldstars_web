@@ -17,3 +17,5 @@ Dvě královny. Dva propletené osudy. Žít může jen jedna. Jak těžké je p
 Premiéra projektu proběhne v rámci festivalu Divadla X10 v parku pod Vlašským dvorem v Kutné Hoře ve čtvrtek 19. září 2024.
 
 Projekt OLDstars on the Road 2024 byl podpořen grantem města Kutná Hora.
+
+vedoucí produkce projektu: Anežka Sieberová
