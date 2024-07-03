@@ -33,3 +33,5 @@ Původní projekt OLDstars on the ROAD 2024.
 "Co je lidský věk? K jaké nicotě jsi stvořil všechny lidské syny?" Bible
 "Dokud se postava nestane osobností, nelze jí věřit." Walt Disney
 "Říkej lež dostatečně hlasitě a dostatečně dlouho a lidé tomu uvěřím." Adolf Hitler
+
+produkce projektu: Marek Švenda
