@@ -2,7 +2,7 @@
 title: 'Romeo a Julie'
 writer: 'William Shakespeare'
 translation: 'Martin Hilský'
-actors: 'Matouš Košař/Petr Šimoníček, Vendula Smižanská, Karolína Hartmanová, David Šrejma, Tomáš Hart, Klára Urbanová/ Terezie Hakenova a Štěpán Krafka'
+actors: 'Matouš Košař/Petr Šimoníček, Vendula Smižanská, Karolína Hartmanová, David Šrejma, Tomáš Hart, Theresia Anna Hakenova a Štěpán Krafka'
 reruns:
   -  
     date: '18.7.2024'
@@ -27,3 +27,5 @@ starou zášť živí novým plamenem.
 
 
 Projekt OLDstars on the ROAD 2024 byl podpořen grantem Středočeského kraje a města Kutná Hora - děkujeme!
+
+V inscenaci se používají střelné zbraně a cigarety jako rekvizity.
