@@ -36,7 +36,7 @@ Původní projekt OLDstars on the ROAD 2024.
 
 produkce projektu: Marek Švenda
 
-https://youtube.com/source/_kKgRVZBq0A/shorts?si=8YHoU2PS-YpapWVD
+[Teaser](https://www.youtube.com/shorts/_kKgRVZBq0A)
 
 Inscenace je určena pro diváky od 16ti let.
 
