@@ -2,7 +2,7 @@
 title: 'Pískoviště'
 writer: 'Michal Walczak'
 translation: 'Jiří Vondráček'
-actors: 'Prokop Košař a Marie Myšičková (studenti DAMU)'
+actors: 'Prokop Košař a Marie Anna Myšičková (studenti DAMU)'
 note: 'Anatomie vztahu.'
 premiere: '27.7.2024'
 reruns:
