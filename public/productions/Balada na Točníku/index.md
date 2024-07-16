@@ -4,7 +4,7 @@ reruns:
   -  
     date: '19.7.2024'
     time: '20:00'
-    place: 'město Zdice - nedaleko hradu Točník'
+    place: 'hrad Točník'
     ticket: 'https://goout.net/cs/romeo-a-julie/szwjpex/'
 ---
 Divadelní zážitek na hradě Točník.
