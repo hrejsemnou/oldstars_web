@@ -20,3 +20,5 @@ Anatomie vztahu.
 Příběh citů, které se rodí mezi nedozrálou dvojicí hrdinů, napůl dětí, napůl dospělých, hrajících si na pískovišti.
 
 Inscenace byla podpořena grantem Nadace Život umělce - děkujeme! Uvádíme v rámci projektu OLDstars on the ROAD 2024 s podporou Středočeského kraje a města Kutná Hora. 
+
+Inscenace vhodná pro diváky od 15ti let.
