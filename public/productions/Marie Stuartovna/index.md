@@ -21,4 +21,5 @@ V hlavních rolích se představí Alžběta Malá, Jindřiška Hanušová, Mar
 Projekt OLDstars on the Road 2024 byl podpořen grantem města Kutná Hora.
 
 vedoucí produkce projektu: Anežka Sieberová
-hudba: Václav Borůvka Valtr
+hudba: Václav Borůvka Valtr kostýmy:  Viktorie Drobná lightdesign: Zdeněk Charvát
+pohybová spolupráce: Karolína Gilová
