@@ -1,10 +1,10 @@
 ---
 title: 'Všechny báječné věci'
-writer: 'Duncan Macmillan'
-translation: 'Magdaléna Zelenková'
+writer: 'Duncan Macmillan, Jonny Donahoe'
+translation: 'Magdaléna Horáková Zelenková'
 note: 'pro mého otce...'
 director: 'Tomáš Staněk'
-production: 'Nicol Hrabovská a Jakub Brunclík'
+production: 'Karolína Hartmanová, Mariana Holubová, Nicol Hrabovská a Jakub Brunclík'
 scenography: 'Eva Justichová'
 edit: 'Daniel Krejčík, Tomáš Staněk'
 actors: 'Daniel Krejčík'
