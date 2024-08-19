@@ -414,7 +414,7 @@ reruns:
     date: '9.11.2024'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    ticket: 'https://goout.net/cs/listky/vsechny-bajecne-veci/hsbab/'         - 
+    ticket: 'https://goout.net/cs/listky/vsechny-bajecne-veci/hsbab/'
   -
     date: '5.12.2024'
     time: '20:00'
