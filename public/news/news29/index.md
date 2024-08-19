@@ -1,7 +1,7 @@
 ---
 title: 'OLDstars on the ROAD 2024'
 date: '17.8.2024'
-preview: 'Letošní cestovní léto vyvrcholí ve čtvrtek 1í. září v Kutné Hoře, kde na divadelním festivalu X10 uvedeme projekt MARIE STUARTOVNA'
+preview: 'Letošní cestovní léto vyvrcholí ve čtvrtek 19. září 21:00 v Kutné Hoře, kde na divadelním festivalu X10 uvedeme projekt MARIE STUARTOVNA v režii Prokopa Košaře'
 --- 
 Letošní ročník našeho putovního divadelního léta jsme podělili mezi Kutnou Horu, hrad Točník, Klášter Roudnice nad Labem a desítku dalších lokací ve Středočeském kraji.
 
