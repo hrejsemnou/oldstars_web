@@ -1,31 +1,15 @@
 ---
 title: 'OLDstars on the ROAD 2024'
-date: '27.4.2024'
-preview: 'Jaké termíny si rezervovat v diářích, abyste neprošvihli žádný z našich letních divadelních projektů?'
+date: '17.8.2024'
+preview: 'Letošní cestovní léto vyvrcholí ve čtvrtek 1í. září v Kutné Hoře, kde na divadelním festivalu X10 uvedeme projekt MARIE STUARTOVNA'
 --- 
-Letošní ročník našeho putovního divadelního léta podělíme mezi Kutnou Horu, hrad Točník, Klášter Roudnice nad Labem a desítku dalších lokací ve Středočeském kraji.
+Letošní ročník našeho putovního divadelního léta jsme podělili mezi Kutnou Horu, hrad Točník, Klášter Roudnice nad Labem a desítku dalších lokací ve Středočeském kraji.
 
+Hráli jsme ve Vrdech, Zruči nad Sázavou, Nymburku, Benešově, na hradě Pecka nebo na festivalu POVALEČ. 
 
-Do svých diářů můžete rezervovat první termíny:
+Už nás čeká poslední pilíř: 
 
-
-Sobota 6/7 AN/NA - jednorázové uvedení původního divadelního projektu v Klášteře v Roudnici nad Labem
-
-
-Pátek 12/7 20:00 [ROMEO A JULIE](https://www.oldstars.cz/repertoar/Romeo%20a%20Julie) v Kutné Hoře, premiéra openair cestovní divadelní inscenace, start turné pro Středočeském kraji 
-
-Čtvrtek 18/7 20:00 [ROMEO A JULIE](https://www.oldstars.cz/repertoar/Romeo%20a%20Julie) v klášteře v Roudnici nad Labem
-
-Pátek 19/7 20:00 [ROMEO A JULIE](https://www.oldstars.cz/repertoar/Romeo%20a%20Julie) na hradě Točník
-
-Sobota 27/7 20:00 [PÍSKOVIŠTĚ](https://www.oldstars.cz/repertoar/P%C3%ADskovi%C5%A1t%C4%9B) v klášteře v Roudnici nad Labem
-
-Neděle 28/7 18:00 [PÍSKOVIŠTĚ](https://www.oldstars.cz/repertoar/P%C3%ADskovi%C5%A1t%C4%9B) v Benešově
-
-Pondělí 29/7 20:00 [PÍSKOVIŠTĚ](https://www.oldstars.cz/repertoar/P%C3%ADskovi%C5%A1t%C4%9B) v Kutné Hoře
-
-
-Čtvrtek 19/9 cca 21:00 [MARIE STUARTOVNA](https://www.oldstars.cz/repertoar/Marie%20Stuartovna) - premiéra původního divadelního projektu pro park pod Vlašským dvorem v Kutné Hoře v rámci Divadelního festivalu divadla X10.
+Čtvrtek 19/9 21:00 [MARIE STUARTOVNA](https://www.oldstars.cz/repertoar/Marie%20Stuartovna) - premiéra původního divadelního projektu pro park pod Vlašským dvorem v Kutné Hoře v rámci Divadelního festivalu divadla X10.
 
 
 [www.OLDstarsontheROAD.cz](https://oldstarsontheroad.cz/) 
