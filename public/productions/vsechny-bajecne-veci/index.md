@@ -400,6 +400,35 @@ reruns:
     time: '20:00'
     place: 'Komunitní centrum Pacov'
     ticket: 'https://xticket.cz/divadla-kina/1568-vsechny-bajecne-veci-kc-pacov?fbclid=IwZXh0bgNhZW0CMTAAAR3S4DAuHXG6a-2ZrcX6kESC0Jxn-ataiV5pRXgUptCvsZMU8sp_jI8nIvU_aem_AaTe-Ltstxovjo1gcEIdswHN7yNQUq8LcriUkiWZBa38EY59pfK0L0CSXEOIwDCAGyhljPLNEeexk_5Fx93hYfPe'
+  - 
+    date: '4.10.2024'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/listky/vsechny-bajecne-veci/dsbab/'
+  - 
+    date: '5.10.2024'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/listky/vsechny-bajecne-veci/esbab/'
+  - 
+    date: '2.11.2024'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/listky/vsechny-bajecne-veci/fsbab/'
+  - 
+    date: '3.11.2024'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/listky/vsechny-bajecne-veci/gsbab/'
+  - 
+    date: '9.11.2024'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/listky/vsechny-bajecne-veci/hsbab/'         - 
+    date: '5.12.2024'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/listky/vsechny-bajecne-veci/isbab/'   
 ---
 Hlavní a jedinou postavou hry je chlapec, který má za 80 minut jediný úkol - přesvědčit nejen svou matku, že na světě existuje milion věcí, kvůli kterým stojí za to se nezabíjet…
 Dojemná, vtipná interaktivní inscenace o hledání duvodů proč žít. …aneb hra o tom, jak si vytvořit výstředně povznášející náhled na život.
