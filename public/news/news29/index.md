@@ -5,7 +5,7 @@ preview: 'Letošní cestovní léto vyvrcholí ve čtvrtek 1í. září v Kutné
 --- 
 Letošní ročník našeho putovního divadelního léta jsme podělili mezi Kutnou Horu, hrad Točník, Klášter Roudnice nad Labem a desítku dalších lokací ve Středočeském kraji.
 
-Hráli jsme ve Vrdech, Zruči nad Sázavou, Nymburku, Benešově, na hradě Pecka nebo na festivalu POVALEČ. 
+Hráli jsme dále například ve Vrdech, na zámku ve Zruči nad Sázavou, Nymburku, Benešově, na hradě Pecka nebo na festivalu POVALEČ u Karlových Varů. 
 
 Už nás čeká poslední pilíř: 
 
