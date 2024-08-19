@@ -1,12 +1,13 @@
 ---
-title: 'Festival studentského divadla 2023!'
-date: '5.10.2023'
-preview: 'Letošní ročník tradičního festivalu studentského divadla bude probíhat od 27. do 29. října. Letos však festival rozšiřujeme o novou lokaci...'
+title: 'Festival studentského divadla 2024!'
+date: '5.7.2024'
+preview: 'Letošní ročník tradičního přehlídky studentského divadla bude probíhat od 26. do 28. října. Divadlo v Celetné rozšíří nedaleká podkrovní Solnice. '
 --- 
 
-Festival studentského divadla v Celetné 2023! 
+Festival studentského divadla v Celetné 2024! 
 
-Od 27. do 29. října 2023 bude v Divadle v Celetné probíhat 12. ročník podzimní divadelní slavnosti studentského divadla pod záštitou umělecké skupiny OLDstars. 
-Tradiční lokace na prestižní divadelní adrese Divadla v Celetné  bude letos rozšířena o nově vzniklý kulturní prostor v podkroví Solné věže, která je součástí nedalekého Dominikánského kláštera.
-Diváky během víkendu podzimních prázdnin čekají dvě desítky studentských inscenací. Repertoár OLDstars doplní hostující soubory - namátkou Divadelní ateliér Ulita, Li-Di Litoměřice, Gen D nebo  ZUŠ Sedlčany.
-Projekt je podpořen Státním fondem kultury - děkujeme!
+Od 26. do 28. října 2024 bude v Divadle v Celetné probíhat 13. ročník podzimní divadelní slavnosti studentského divadla pod záštitou umělecké skupiny OLDstars. 
+Tradiční lokace na prestižní divadelní adrese Divadla v Celetné bude již podruhé rozšířena o kulturní prostor v podkroví Solné věže, která je součástí nedalekého Dominikánského kláštera.
+Diváky během prodlouženého víkendu podzimních prázdnin čekají dvě desítky studentských inscenací. Repertoár OLDstars doplní hostující soubory - namátkou Divadelní ateliér Ulita, Li-Di Litoměřice nebo studenti DAMU.
+
+Projekt je podpořen grantem Městské části Praha 1 a Státním fondem kultury - děkujeme!
