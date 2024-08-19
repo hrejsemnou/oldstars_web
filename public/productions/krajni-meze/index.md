@@ -76,6 +76,16 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/krajni-meze/szjuubx/'
+  -  
+    date: '26.10.2024'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/listky/krajni-meze/jsbab/'
+  -
+    date: '21.12.2024'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/listky/krajni-meze/ksbab/' 
 ---
 Už jste někdy přišli domů, našli chlapa v krbu a poblíž svou kamarádku, která se chová poměrně zvláštně? Hra o spravedlnosti, touze po pomstě a relativitě pravdy. #MeToo
 
