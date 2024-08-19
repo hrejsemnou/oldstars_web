@@ -12,16 +12,6 @@ premiere: '16.3.2018'
 tag: monodrama
 reruns:
   -
-    date: '29.10.2021'
-    time: '20:00'
-    place: 'bytové divadlo Košická'
-    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/sznusvr/'
-  -
-    date: '06.11.2021'
-    time: '20:00'
-    place: 'bytové divadlo Košická'
-    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szkusvr/'
-  -
     date: '20.11.2021'
     time: '20:00'
     place: 'bytové divadlo Košická'
