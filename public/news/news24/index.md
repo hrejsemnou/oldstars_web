@@ -1,6 +1,6 @@
 ---
 title: 'Festival studentského divadla 2024!'
-date: '5.7.2024'
+date: '21.7.2024'
 preview: 'Letošní ročník tradičního přehlídky studentského divadla bude probíhat od 26. do 28. října. Divadlo v Celetné rozšíří nedaleká podkrovní Solnice. '
 --- 
 
