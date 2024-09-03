@@ -18,7 +18,7 @@ Premiéra projektu proběhne v rámci festivalu Divadla X10 v parku pod Vlašsk�
 
 V hlavních rolích se představí Alžběta Malá, Jindřiška Hanušová, Marie Anna Myšičková, Tomáš Weber, Tomáš Krutina, Antonín Brukner nebo Marek Nágl.
 
-Projekt OLDstars on the Road 2024 byl podpořen grantem města Kutná Hora.
+Projekt OLDstars on the Road 2024 byl podpořen grantem města Kutná Hora. Za vstřícnou spolupráci děkujeme Městské části Praha 3 a dodavateli lešení Enigma L§T s.r.o..
 
 produkce: Anežka Sieberová, Mariana Holubová, Julie Soukopová, Barbora Nováková  a Jiří Dejl
 hudba: Václav Borůvka Valtr kostýmy:  Viktorie Drobná lightdesign: Zdeněk Charvát
