@@ -1,6 +1,7 @@
 ---
 title: 'Na Greifswaldské ulici'
 writer: 'Roland Schimmelpfennig'
+director: 'Julie Soukopová'
 actors: 'Anna Dickmann, Anna Dostálová, Jolana Pulpánová, Lucie Bláhová, Tereza Koulová, Matouš Košař, Petr Šimoníček'
 note: 'Divnosti v dennosti'
 premiere: '11.10.2024'
