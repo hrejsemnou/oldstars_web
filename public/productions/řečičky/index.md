@@ -2,6 +2,7 @@
 title: 'Řečičky'
 writer: 'Zuzana Ferencová'
 actors: 'Adéla Kelbichová, Anna Kulhavá, Kristýna Hrdličková, Marie Měkotová, Jonáš Pavlatovský a Ondřej Vlachý'
+tag: archive
 reruns:
   -
     date: '1.9.2023'
