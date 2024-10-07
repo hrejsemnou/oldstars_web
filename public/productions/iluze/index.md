@@ -6,6 +6,7 @@ actors: 'Kateřina Hrdinová, Maria Bláhová, Martin Leták, Daniel Toman'
 director: 'Ondřej Kulhavý'
 music: 'Žofie Holečková'
 premiere: '26.2.2019'
+tag: archive
 reruns:
   -
     date: '29.8.2022'
