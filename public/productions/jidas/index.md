@@ -1,11 +1,10 @@
 ---
-title: 'Jidáš'
-writer: 'Lot Vekemans'
-translation: 'Jitka Jílková'
-director: 'Matyáš Řezníček'
-actors: 'Petr Jeřábek'
-premiere: '1.9.2019 20:00'
-tag: monodrama
+title: "Jidáš"
+writer: "Lot Vekemans"
+translation: "Jitka Jílková"
+director: "Matyáš Řezníček"
+actors: "Petr Jeřábek"
+premiere: "1.9.2019 20:00"
 tag: archive
 ---
 

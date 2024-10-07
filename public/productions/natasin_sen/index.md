@@ -1,17 +1,17 @@
 ---
-title: 'Natašin sen'
-writer: 'Jaroslava Pulinovič'
-translation: 'Marcela Magdová'
-note: 'monodrama o zdánlivých maličkostech'
-actors: 'Elizaveta Shvachko Maximová'
-director: 'Tomáš Staněk'
-production: 'Nicol Hrabovská'
-dramaturgy: 'Marcela Magdová'
-photography: 'Marie Tučková'
-premiere: '6. 3. 2016'
-tag: monodrama
+title: "Natašin sen"
+writer: "Jaroslava Pulinovič"
+translation: "Marcela Magdová"
+note: "monodrama o zdánlivých maličkostech"
+actors: "Elizaveta Shvachko Maximová"
+director: "Tomáš Staněk"
+production: "Nicol Hrabovská"
+dramaturgy: "Marcela Magdová"
+photography: "Marie Tučková"
+premiere: "6. 3. 2016"
 tag: archive
 ---
+
 Příběh dospívající Nataši, která netouží po ničem jiném než po lásce. Zoufalý výkřik duše neschopné smířit se se světem, v němž neexistují stejné možnosti pro všechny. Hlas osamělého člověka vracejícího Bohu vstupenku. "mojí mamce to nevyšlo, protože ji nikdo kromě mě nepotřeboval. Mě teď někdo potřebuje..."
 
 Ohlasy z médií:
