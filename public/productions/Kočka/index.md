@@ -6,6 +6,7 @@ director: 'Jan Šípal'
 scenography: 'William Miguel Pichardo'
 actors: 'Ilona Smolová, Klára Jurečková'
 note: 'Budu tvým stínem'
+tag: archive
 reruns:
   -  
     date: '21.4.2023'
