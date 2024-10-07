@@ -5,6 +5,7 @@ translation: 'Ivan Zmatlík'
 director: 'Anna Marie Němečková'
 actors: 'David Šrejma, Kateřina Guthová, Daniel Spiess, Sára Jančaříková, Štěpán Krafka, Taťána Felix Tschorn, Eliška Brejchová'
 premiere: '27.3.2024'
+tag: archive
 reruns:
   -  
     date: '27.3.2024'
