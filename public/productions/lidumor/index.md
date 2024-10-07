@@ -7,6 +7,7 @@ director: 'Sebastián Vopěnka'
 scenography: 'Teodor Sticzay'
 dramaturgy: 'Lukáš Cenker'
 premiere: '6.12.2023'
+tag: archive
 reruns:
   -
     date: '6.12.2023'
