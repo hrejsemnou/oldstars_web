@@ -6,6 +6,7 @@ director: 'Prokop Košař'
 dramaturgy: 'Ema Zelená'
 music: 'Jonáš Balcar'
 actors: 'Nika Datiashvili, Daniel Spiess, Rút Charvátová a Matouš Košař'
+tag: archive
 premiere: '26.06.2021'
 ---
 Láska je pokřivená, vykořeněná a skomírá. Informace nás zaplavují a mají moc lidi častěji štěpit než spojovat. Jejich pravdivost nebo relevance nehraje roli.
