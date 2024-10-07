@@ -4,6 +4,7 @@ writer: 'Václav Borůvka Valtr'
 music: 'Václav Borůvka Valtr'
 director: 'Václav Borůvka Valtr'
 actors: 'Lucie Gabrovská, Kateřina Jeřábková, Tereza Kaucká, Kristýna Klimešová, Karolína Vaňková, Eliška Vocelová'
+tag: archive
 reruns:
   - 
     date: '28.10.2022'
