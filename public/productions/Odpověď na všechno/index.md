@@ -5,6 +5,7 @@ translation: 'Martin Preiss'
 director: 'Zdeněk Zajíček, Tomáš Hart'
 actors: 'Tereza Rozmarová, Rozálie Vraná, Markéta Husarová'
 tag: 'guests'
+tag: archive
 premiere: '22.10.2023'
 reruns:
   -  
