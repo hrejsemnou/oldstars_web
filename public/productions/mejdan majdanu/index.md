@@ -5,6 +5,7 @@ actors: 'Karolína Hartmanová, Eliška Brejchová, Adéla Fejková, Klára Urba
 director: 'Tomáš Staněk'
 note: 'sláva Ukrajině!'
 premiere: '9.7.2022'
+tag: archive
 reruns:
   -
     date: '29.10.2022'
