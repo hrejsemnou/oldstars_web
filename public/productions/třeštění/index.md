@@ -3,6 +3,7 @@ title: 'Třeštění ve dvou'
 writer: 'Eugen Ionesco'
 translation: 'Jan Tomek'
 tag: 'guests'
+tag: archive
 director: 'kolektiv'
 dramaturgy: 'Jan Hančil'
 actors: 'Lumíra Přichystalová, Jan Večeřa, Anna Olejníková'
