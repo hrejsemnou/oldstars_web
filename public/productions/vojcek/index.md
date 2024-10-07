@@ -2,6 +2,7 @@
 title: 'Vojcek'
 writer: 'Georg Büchner'
 actors: 'Anna Dickmannová, Julie Soukopová, Jolana Půlpánová, Františka Hanzíková, Anna Dostálová, Lucie Bláhová, Tereza Koulová, Matouš Košař, Petr Šimoníček, Jan Mikolášek'
+tag: archive
 reruns:
   -  
     date: '13.7.2023'
