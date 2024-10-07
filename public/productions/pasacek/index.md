@@ -5,6 +5,7 @@ translation: ' Jan Berger'
 director: 'Barbora Waschingerová a Eva Sinkovičová'
 actors: 'princ - Václav Řehka, král - Martin Černecký, princezna - Rozálie Košařová/Alexia Čejchanová, 1.dáma - Liliana Kosjak/Gréta Chlápková, 2. dáma - Andrea Součková/Laura Pospíšilová, 3. dáma - Alžběta Koníčková/Elen Rosenfeldová, lokaj - Laura Pospíšilová/Andrea Součková'
 note: 'Dětské divadelní studio'
+tag: archive
 reruns:
    -  
     date: '23.5.2022'
