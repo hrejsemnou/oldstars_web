@@ -6,6 +6,7 @@ director: 'Matyáš Řezníček'
 actors: 'Petr Jeřábek'
 premiere: '1.9.2019 20:00'
 tag: monodrama
+tag: archive
 ---
 
 Monodrama vypráví o muži, jehož jméno je symbolem zrady. O muži, kterým po celá staletí všichni opovrhovali. Avšak bez tohoto člověka a bez jeho Jidášova polibku by se křesťanství nikdy nestalo jedním z největších světových náboženství. V každé epoše vznikají dohady o Jidášovi a jeho motivech. Po dvou tisících letech už je načase, aby promluvil Jidáš sám: Podniká poslední pokus uvést svůj čin zpět na lidskou míru a dovést publikum tam, kde by raději být nechtělo: k Jidášovi v nás samých.
