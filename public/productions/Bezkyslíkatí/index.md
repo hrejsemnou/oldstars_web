@@ -5,6 +5,7 @@ translation: 'Pavel Peč'
 note: pásmo 6 jednoaktových her
 director: 'Ondřej Kulhavý, Prokop Košař, Anastázie Landová, Anna Marie Jarkovská, Emma Žežulová'
 actors: 'Alžběta Malá, Jiří Chadraba, Zuzana Pitterová, Petra Mošovská, Jan Šípal, Jana Matějková, Lukáš Cenker, Michael Rádl a Anna Klusáková, Marie Machová, Jana Vaculíková, Richard Dobiáš, Zbyněk Fric'
+tag: archive
 reruns:
   -
     date: '13.1.2023'
