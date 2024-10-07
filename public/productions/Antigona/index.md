@@ -5,6 +5,7 @@ director: 'Jan Šípal'
 actors: 'Matouš Košař, Sára Pospíšilová, Jana Soukupová, Petr Šimoníček, Marek Kryška, Martina Tylová, Lenka Mazlová, Jakub Brunclík, Lukáš Sahula, Michael Rádl'
 note: 'Nikdo z nás nebyl tak silný, aby ji přinutil žít'
 premiere: '10.4.2023'
+tag: archive
 reruns:
   -  
     date: '10.4.2023'
