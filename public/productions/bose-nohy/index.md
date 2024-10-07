@@ -4,6 +4,7 @@ writer: 'Neil Simon'
 translation: 'Ivo T. Havlů'
 note: A hlavně se nestresuj.
 director: 'Jan Šípal'
+tag: archive
 actors: 'Kateřina Michalíková, Daniel Spiess, Sára Pospíšilová a Sebastian Vopěnka. V roli Opraváře telefonů jako hostující hvězda hraje student Katedry činoherního divadla DAMU Prokop Košář.'
 reruns:
   -
