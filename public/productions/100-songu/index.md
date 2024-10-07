@@ -6,6 +6,7 @@ note: rekviem
 director: 'Tomáš Staněk'
 dramaturgy: 'Anna Marie Jarkovská'
 actors: 'Dorotka Tučková, Anna Mercedes Čtvrtníčková/Eliška Brejchová, Vilma Vojtíšková, Theresia Anna Hakenová, Anna Marie Jarkovská, Lukáš Cenker, Sebastian Vopěnka, Prokop Košař'
+tag: archive
 premiere: '28.11.2021'
 reruns:
   -  
