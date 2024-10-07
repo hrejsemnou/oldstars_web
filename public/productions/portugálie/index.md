@@ -4,6 +4,7 @@ writer: 'Zoltán Egressy'
 translation: 'Taťána Dimitrová'
 director: 'Zuzana Horáková'
 actors: 'Jiří Dejl, Matěj Podlešák, Jakub Brunclík, Daniel Rádl, Prokop Košař, Rozálie Matulová, Rebeka Chudobová, Ema Zelená, Anna Jerhotová/Rút Charvátová'
+tag: archive
 reruns:
   -  
     date: '22.9.2022'
