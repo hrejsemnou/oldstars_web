@@ -6,6 +6,7 @@ director: 'Prokop Košař'
 scenography: 'Amálie Dvořáková'
 actors: 'Tereza Koulová, Kristýna Froňková, Lucie Bláhová, Anna Dostálová a Anna Kühnová'
 tag: guests
+tag: archive
 reruns:
   -
     date: '19.6.2022'
