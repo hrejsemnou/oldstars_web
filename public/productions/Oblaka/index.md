@@ -7,6 +7,7 @@ actors: 'Gabriela Ines Almargni, Miloslava Macková, Kateřina Guthová, Natáli
 scenography: 'Anna Marie Němečková, Tereza Landsperská'
 music: 'Radek Šlangal'
 edit: 'Anna Marie Němečková'
+tag: archive
 reruns:
   -
     date: '9.1.2023'
