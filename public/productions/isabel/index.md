@@ -8,6 +8,7 @@ music: 'Judita Škodová'
 actors: 'Andrea Jeřábková, Klára Vaňkátová, Václav Šamárek'
 premiere: '01.10.2021'
 tag: guests
+tag: archive
 reruns:
   -
     date: '05.11.2021'
