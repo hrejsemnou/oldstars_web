@@ -5,6 +5,7 @@ translation: 'David Košťák'
 note: 'žádná otázka není špatná'
 director: 'Tomáš Staněk'
 actors: 'Kryštof Lepšík, Vojtěch Zemánek a Ondřej Polák'
+tag: archive
 reruns:
   -  
     date: '8.10.2022'
