@@ -4,6 +4,7 @@ writer: 'Matjaž Župančić'
 note: drama na několika metrech čtverečních
 director: 'Zuzana Horáková'
 actors: 'Cyril Janeček/Tomáš Hart, Jana Soukupová/Kateřina Michalíková, Jan Šípal/Lukáš Sahula, Marek Zavřel/Michael Rádl'
+tag: archive
 reruns:
   -
     date: '30.1.2022'
