@@ -4,6 +4,7 @@ writer: 'David Gieselmann'
 note: a není to příliš chaotické?
 director: 'Ivana Hronková'
 actors: 'Eliška Brejchová, Lukáš Cenker, Sára Jančaříková, Tomáš Hart, Petr Šimoníček'
+tag: archive
 reruns:
   -
     date: '27.1.2024'
