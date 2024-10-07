@@ -1,5 +1,6 @@
 ---
 title: 'Balada na Točníku'
+tag: archive
 reruns:
   -  
     date: '19.7.2024'
