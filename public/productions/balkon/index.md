@@ -10,6 +10,7 @@ note: 'Kde končí hra a začíná realita?'
 music: 'Jonáš Balcar'
 production: 'Jiří Dejl'
 premiere: '2.4.2022'
+tag: archive
 reruns:
   -
     date: '2.4.2022'
