@@ -4,6 +4,7 @@ writer: 'Jean-Paul Sartre'
 director: 'Anna Marie Němečková'
 actors: 'Karolína Hartmanová, Daniel Spiess, Jonáš Karel Pavlatovský, Kateřina Guthová'
 remiere: '31.8.2023'
+tag: archive
 reruns:
   -  
     date: '31.8.2023'
