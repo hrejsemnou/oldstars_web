@@ -5,6 +5,7 @@ translation: 'Barbora Schnelle'
 director: 'Zuzana Horáková'
 music: 'Jonáš Balcar'
 actors: 'Rút Charvátová, Rebeka Chudobová, Rosalie Matulová / Katie Čečilová, Ema Zelená / Klára Vaňkátová, Jakub Brunclík, Jiří Dejl / Matěj Podlešák, Prokop Košař, Daniel Rádl / Nika Datiashvili'
+tag: archive
 premiere: '11.07.2020'
 reruns:
    -
