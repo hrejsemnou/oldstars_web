@@ -4,6 +4,7 @@ director: 'Prokop Košař'
 actors: 'Berenika Fabienne Novotná, Tereza Hladíková, Magdaléna Saifrtová, Vendula Smižanská, Lucie Kosařová, Viktorie Kozderová, Josefina Rajnišová, Marie Míková'
 note: '„Ženská může bejt taky dost schopná.“'
 premiere: '23.6.2024'
+tag: archive
 reruns:
   -  
     date: '23.6.2024'
