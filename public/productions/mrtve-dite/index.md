@@ -5,6 +5,7 @@ translation: 'Barbora Havlová'
 director: 'Tomáš Staněk'
 actors: 'Anna Maria Jarkovská, Anna Klusáková, Dorota Tučková a Ella Ozuna'
 premiere: '30.08.2021'
+tag: archive
 reruns:
   -
     date: '6.4.2022'
