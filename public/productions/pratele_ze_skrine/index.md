@@ -6,6 +6,7 @@ note: 'Hořká satirická komedie o konzumu a morálce. Hra o hře na přátelst
 director: 'kolektiv'
 actors: 'Jacqueline/Klára Jurečková, Odile/Ilona Smolová, Juliette/Marie Fišárková, Roland/Vladimír Nezdařil'
 premiere: '16.04.2022'
+tag: archive
 reruns:
   -
     date: '16.04.2022'
