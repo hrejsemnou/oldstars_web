@@ -10,6 +10,7 @@ dramaturgy: 'Marcela Magdová'
 photography: 'Marie Tučková'
 premiere: '6. 3. 2016'
 tag: monodrama
+tag: archive
 ---
 Příběh dospívající Nataši, která netouží po ničem jiném než po lásce. Zoufalý výkřik duše neschopné smířit se se světem, v němž neexistují stejné možnosti pro všechny. Hlas osamělého člověka vracejícího Bohu vstupenku. "mojí mamce to nevyšlo, protože ji nikdo kromě mě nepotřeboval. Mě teď někdo potřebuje..."
 
