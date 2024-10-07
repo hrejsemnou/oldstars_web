@@ -7,6 +7,7 @@ art: 'Václav Šamárek'
 dramaturgy: 'Jiří Maršál'
 actors: 'Kryštof Lepšík, Jiří Maršál, Marek Kryška, Vašek Šamárek, Jan Šípal, Jan Hausenblas, Cyril Janeček a Vašek Podlešák'
 premiere: '28.09.2021'
+tag: archive
 reruns:
   -
     date: '10.11.2021'
