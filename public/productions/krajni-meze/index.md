@@ -8,6 +8,7 @@ scenography: 'Barbora Maleninská'
 photography: 'Ondřej Vidím'
 actors: 'Eva Sinkovičová, Ondřej Kulhavý, Nicol Hrabovská a Barbora Waschingerová'
 premiere: '15.10.2021'
+tag: archive
 reruns:
   -
     date: '15.10.2021'
