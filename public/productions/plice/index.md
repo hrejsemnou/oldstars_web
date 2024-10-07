@@ -5,6 +5,7 @@ note: Love story na pozadí globální katastrofy
 director: 'Matyáš Řezníček'
 actors: 'Petr Jeřábek a Eliška Vocelová'
 premiere: '10.07.2021'
+tag: archive
 reruns:
   -
     date: '27.10.2021'
