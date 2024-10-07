@@ -5,6 +5,7 @@ translation: 'Stanislav Škoda'
 director: 'Zuzana Horáková'
 actors: 'Anna Dostálová, Anna Dickmannová, Františka Hanzíková, Tereza Koulová, Lucie Bláhová, Kristýna Froňková, Julie Soukopová, Matouš Košař, Robert Volák, Marko Prole'
 premiere: '9.7.2022'
+tag: archive
 reruns:
   -  
     date: '27.10.2022'
