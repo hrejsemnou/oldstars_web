@@ -4,6 +4,7 @@ writer: 'Mike Bartlet'
 translation: 'Pavel Dominik'
 actors: 'Sebastián Vopěnka, Dorota Tučková, Ondřej Kulhavý, Marian Škorvaga a další'
 premiere: '20.3.2023'
+tag: archive
 reruns:
   -
     date: '20.3.2023'
