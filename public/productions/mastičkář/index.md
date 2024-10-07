@@ -3,6 +3,7 @@ title: 'Mastičkář'
 director: 'Anna Marie Němečková'
 dramaturgy: 'Anna Marie Němečková'
 actors: 'Jonáš Pavlatovský, Ondřej Vlachý, Kateřina Guthová, Adéla Kelbichová, Anna Kulhavá, Kristýna Hrdličková, Marie Měkotová a další'
+tag: archive
 reruns:
   -
     date: '8.7.2023'
