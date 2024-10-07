@@ -6,6 +6,7 @@ translation: 'Marta Skarlandtová'
 director: 'Tomáš Staněk'
 art: 'Jakub Cibula'
 actors: 'Samuel Toman, Tomáš Weisser, Karolína Vaňková'
+tag: archive
 premiere: '09.07.2021'
 ---
 Všechno závisí na úhlu pohledu.
