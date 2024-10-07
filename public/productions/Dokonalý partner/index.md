@@ -6,6 +6,7 @@ note: hosté - soubor Vanabí Litoměřice
 tag: guests
 director: 'Jan Šípal, Lukáš Klíma'
 actors: 'Klára Hávová/ Eliška Vytrhlíková, Zdeněk Zajíček/ Tomáš Hart a Petra Vališová'
+tag: archive
 reruns:
   -
     date: '16.9.2022'
