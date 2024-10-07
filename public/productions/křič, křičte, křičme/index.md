@@ -4,6 +4,7 @@ director: 'David Šrejma'
 actors: 'Barbora Lukešová, Veronika Tvrzníková, Valérie Václavíková, Lukáš Cenker, Matěj Zahajský'
 premiere: '25.2.2024'
 tag: 'guests'
+tag: archive
 reruns:
   -  
     date: '25.2.2024'
