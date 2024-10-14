@@ -5,6 +5,7 @@ translation: 'Hana Pavelková'
 režijní vedení: 'Tomáš Staněk'
 actors: 'Ondřej Polák, Vojta Zemánek/Kryštof Lepšík, Klára Vaňkátová/Bára Waschingerová, Klára Fittnerová/Tereza Střihavková a Markéta Zemánková'
 premiere: '04.08.2020'
+tag: archive
 reruns:
   -
     date: '22.11.2022'
