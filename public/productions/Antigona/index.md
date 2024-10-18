@@ -38,6 +38,11 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     available: 12
   -
+    date: '23. 11. 2024'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    available: 20
+  -
     date: '6. 12. 2024'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické - derniéra'
