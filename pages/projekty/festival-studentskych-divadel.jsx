@@ -2,14 +2,24 @@ import Layout from '../../components/Layout'
 
 const Home = () => (
   <Layout title="OLDstars > Projekty > Festival studentských divadel">
-    <h2>Program minulého ročníku 2023 k nahlédnutí zde:</h2>
+    <h2>Festival studentského divadla v Divadle v Celetné a Solné věži 2024!</h2>
     <p>
-      Podzimní Festival studentských divadel pořádáme již více než 10 let. Třídenní maraton soudobé tvorby na pražské prestižní adrese v Divadle Celetná a na půdě bývalé Solné věže je vyhledávanou platformou studentského divadla. Prostor dostávají i spřátelené studentské divadelní soubory - v minulosti to byly například Dismanův rozhlasový dětský soubor, DDM Praha 3, Vanabí Litoměřice, Divadelní spolek JAK, spolek Nepřijatelní, Divadelní studio gymnázia Jaroslava Heyrovského, Divadelní ateliér Ulita a mnoho dalších. 
+      Od 26. do 28. října 2024 bude v Divadle v Celetné probíhat 13. ročník podzimní divadelní slavnosti studentského divadla pod záštitou umělecké skupiny OLDstars. Tradiční lokace na prestižní divadelní adrese Divadla v Celetné bude již podruhé rozšířena o kulturní prostor v podkroví Solné věže, která je součástí nedalekého Dominikánského kláštera. Letos nese festival podtitul SAMET. Diváky během prodlouženého víkendu podzimních prázdnin čeká přes 1000 minut divadla, tedy 17 studentských inscenací. Repertoár OLDstars doplní hostující soubory - Divadelní ateliér Ulita, studenti DAMU, divadelní skupina Črty, soubor Za oponou divadla RADAR. Mimo nespočet emocí na jevišti i v hledišti se návštěvníci mohou těšit na dvě hudební vystoupení a různorodý doprovodný program jako například na workshopy, benefiční sekáč nebo debaty.
     </p>
     <p>
-      Festival je nízkorozpočtový a tradičně je podporován grantem Městské části Prahy 1 a Státním fondem kultury - děkujeme. 
+      Projekt je podpořen grantem Městské části Praha 1 a Státním fondem kultury - děkujeme!
     </p>
-    <h3>Letošní ročník 2024 proběhne v termínu 26.-28. října 2024. Program bude zveřejněn posledního srpna a v předprodeji na webu Divadla v Celetné a Goout. </h3>
+    <p>
+      Veškeré a aktuální informace naleznete na tomto aktivním odkazu: <a hned="https://linktr.ee/FSDVDVCAVSV">FSDVDVCAVSV</a>
+    </p>
+    <p>
+      Dále nás sledujte na sociálních sítích IG @oldstars.cz a FB Festival studentského divadla v Celetné
+    </p>
+    <p>
+      Vstupenky: <a href="https://www.divadlovceletne.cz/planovana-predstaveni/#rijen pro jeviště v Celetné">divadlovceletne.cz</a> a <a href="https://goout.net/cs/oldstars/pzoukpf/>goout.net</a> pro jeviště v Solné věži
+    </p>
+
+    
     <div>
     <h3>Kontakty</h3>
     <p>
