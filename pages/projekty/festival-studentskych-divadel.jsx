@@ -18,9 +18,10 @@ const Home = () => (
     <p>
       Vstupenky: <a href="https://www.divadlovceletne.cz/planovana-predstaveni/#rijen pro jeviště v Celetné">divadlovceletne.cz</a> a <a href="https://goout.net/cs/oldstars/pzoukpf/">goout.net</a> pro jeviště v Solné věži
     </p>
-    <p>
+    
+    <h3>
       👮🏻Pro jeviště v Celetné
-    </p>  
+    </h3>  
           <p>SOBOTA Na Greifswalské ulici (OLDstars) - 15:30</p>
           <p>SOBOTA Teremin (Ulita) - 17:30</p>
           <p>SOBOTA Piskoviste (OLDstars on the ROAD) - 20:00</p>
@@ -34,9 +35,10 @@ const Home = () => (
           <p>PONDĚLÍ Bazén/Bez vody (OLDstars) - 16:30</p>
           <p>PONDĚLÍ Až budeme mrtví, budeme si rovni (OLDstars) - 18:45</p>
           <p>PONDĚLÍ Romeo a Julie (OLDstars on the ROAD) - 21:00</p>
-    <p>
+    
+    <h3>
       🧂Pro jeviště v Solné věži
-    </p>  
+    </h3>  
           <p>SOBOTA Diskuze Alžběta Malá a Petr Uhlík a Dagmar Sedláčková - Jak vnímat producenta/ku a být s ní/m kámoš? - 14:30 <a href="https://fb.me/e/5PLp8ylRZ">Facebooková událost</a></p>
           <p>SOBOTA Tweety Věry Jirousové (Črty) - 17:00</p>
           <p>SOBOTA Dva bratři (OLDstars) - 19:00</p>
