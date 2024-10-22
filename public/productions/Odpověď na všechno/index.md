@@ -4,7 +4,7 @@ writer: 'Neil LaBute'
 translation: 'Martin Preiss'
 director: 'Zdeněk Zajíček, Tomáš Hart'
 scenography: 'Lenka Vokounová'
-actors: 'Tereza Rozmarová, Rozálie Vraná, Markéta Husarová'
+actors: 'Tereza Rozmarová, Tereza Vodseďálková, Markéta Husarová'
 tag: guests
 premiere: '22.10.2023'
 reruns:
