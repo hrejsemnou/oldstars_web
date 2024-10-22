@@ -3,11 +3,13 @@ title: 'Program festivalu studentských divadel'
 date: '19.10.2024'
 preview: 'Odhalujeme program letošního ročníku Festivalu studentských divadel v Divadle v Celetné a Solné věži. Na co se můžete těšit?'
 ---
+Odhalujeme program letošního ročníku Festivalu studentských divadel v Divadle v Celetné a Solné věži. Na co se můžete těšit?
+    
     👮🏻Pro jeviště v Celetné
           SOBOTA Na Greifswalské ulici (OLDstars) - 15:30  
           SOBOTA Teremin (Ulita) - 17:30  
           SOBOTA Piskoviste (OLDstars on the ROAD) - 20:00  
-          SOBOTA Koncert: Initial Decay - 21:45 <a href="https://fb.me/e/2rkaG2Gjj">Facebooková událost</a>  
+          SOBOTA Koncert: Initial Decay - 21:45 [Facebooková událost](https://fb.me/e/2rkaG2Gjj)  
           NEDĚLE Lepší zítřek (ne)bude (Ulita) - 12:00  
           NEDĚLE Jméno/noc (Ulita) - 14:00  
           NEDĚLE Národní třída (DAMU bakalářská práce) - 17:00  
@@ -20,11 +22,11 @@ preview: 'Odhalujeme program letošního ročníku Festivalu studentských divad
      
       🧂Pro jeviště v Solné věži
      
-          SOBOTA Diskuze Alžběta Malá a Petr Uhlík a Dagmar Sedláčková - Jak vnímat producenta/ku a být s ní/m kámoš? - 14:30 <a href="https://fb.me/e/5PLp8ylRZ">Facebooková událost</a>  
+          SOBOTA Diskuze Alžběta Malá a Petr Uhlík a Dagmar Sedláčková - Jak vnímat producenta/ku a být s ní/m kámoš? - 14:30 [Facebooková událost](https://fb.me/e/5PLp8ylRZ)  
           SOBOTA Tweety Věry Jirousové (Črty) - 17:00  
           SOBOTA Dva bratři (OLDstars) - 19:00  
           SOBOTA Osm žen (OLDstars) - 22:30  
-          NEDĚLE Debata s Jiřím Podzimkem - studentsví a revoluce - 15:00 <a href="https://fb.me/e/2xaO4bxHM">Facebooková událost</a>  
+          NEDĚLE Debata s Jiřím Podzimkem - studentsví a revoluce - 15:00 [Facebooková událost](https://fb.me/e/2xaO4bxHM)  
           NEDĚLE Experiment (OLDstars) - 18:30  
-          PONDĚLÍ Smekáč aneb benefiční sekáč - 11:30 až 15:00 <a href="https://fb.me/e/2cKJEIgzB">Facebooková událost</a>  
+          PONDĚLÍ Smekáč aneb benefiční sekáč - 11:30 až 15:00 [Facebooková událost](https://fb.me/e/2cKJEIgzB)  
           PONDĚLÍ Experiment (OLDstars) - 17:00  
