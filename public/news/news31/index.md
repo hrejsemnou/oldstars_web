@@ -18,14 +18,13 @@ preview: 'Odhalujeme program letošního ročníku Festivalu studentských divad
           PONDĚLÍ Až budeme mrtví, budeme si rovni (OLDstars) - 18:45  
           PONDĚLÍ Romeo a Julie (OLDstars on the ROAD) - 21:00  
      
-    <h4>
       🧂Pro jeviště v Solné věži
-    </h4>  
-          <p>SOBOTA Diskuze Alžběta Malá a Petr Uhlík a Dagmar Sedláčková - Jak vnímat producenta/ku a být s ní/m kámoš? - 14:30 <a href="https://fb.me/e/5PLp8ylRZ">Facebooková událost</a></p>
-          <p>SOBOTA Tweety Věry Jirousové (Črty) - 17:00</p>
-          <p>SOBOTA Dva bratři (OLDstars) - 19:00</p>
-          <p>SOBOTA Osm žen (OLDstars) - 22:30</p>
-          <p>NEDĚLE Debata s Jiřím Podzimkem - studentsví a revoluce - 15:00 <a href="https://fb.me/e/2xaO4bxHM">Facebooková událost</a></p>
-          <p>NEDĚLE Experiment (OLDstars) - 18:30</p>
-          <p>PONDĚLÍ Smekáč aneb benefiční sekáč - 11:30 až 15:00 <a href="https://fb.me/e/2cKJEIgzB">Facebooková událost</a></p>
-          <p>PONDĚLÍ Experiment (OLDstars) - 17:00</p>
+     
+          SOBOTA Diskuze Alžběta Malá a Petr Uhlík a Dagmar Sedláčková - Jak vnímat producenta/ku a být s ní/m kámoš? - 14:30 <a href="https://fb.me/e/5PLp8ylRZ">Facebooková událost</a>  
+          SOBOTA Tweety Věry Jirousové (Črty) - 17:00  
+          SOBOTA Dva bratři (OLDstars) - 19:00  
+          SOBOTA Osm žen (OLDstars) - 22:30  
+          NEDĚLE Debata s Jiřím Podzimkem - studentsví a revoluce - 15:00 <a href="https://fb.me/e/2xaO4bxHM">Facebooková událost</a>  
+          NEDĚLE Experiment (OLDstars) - 18:30  
+          PONDĚLÍ Smekáč aneb benefiční sekáč - 11:30 až 15:00 <a href="https://fb.me/e/2cKJEIgzB">Facebooková událost</a>  
+          PONDĚLÍ Experiment (OLDstars) - 17:00  
