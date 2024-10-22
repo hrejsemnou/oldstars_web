@@ -5,7 +5,8 @@ preview: 'Odhalujeme program letošního ročníku Festivalu studentských divad
 ---
 Odhalujeme program letošního ročníku Festivalu studentských divadel v Divadle v Celetné a Solné věži. Na co se můžete těšit?
 
-👮🏻Pro jeviště v Celetné
+👮🏻Pro jeviště v Celetné  
+
 SOBOTA Na Greifswalské ulici (OLDstars) - 15:30  
 SOBOTA Teremin (Ulita) - 17:30  
 SOBOTA Piskoviste (OLDstars on the ROAD) - 20:00  
