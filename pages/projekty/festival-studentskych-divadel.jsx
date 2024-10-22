@@ -10,13 +10,13 @@ const Home = () => (
       Projekt je podpořen grantem Městské části Praha 1 a Státním fondem kultury - děkujeme!
     </p>
     <p>
-      Veškeré a aktuální informace naleznete na tomto aktivním odkazu: <a hned="https://linktr.ee/FSDVDVCAVSV">FSDVDVCAVSV</a>
+      Veškeré a aktuální informace naleznete na tomto aktivním odkazu: <a href="https://linktr.ee/FSDVDVCAVSV">FSDVDVCAVSV</a>
     </p>
     <p>
-      Dále nás sledujte na sociálních sítích IG @oldstars.cz a FB Festival studentského divadla v Celetné
+      Dále nás sledujte na sociálních sítích IG <a href="https://www.instagram.com/oldstars.cz/">@oldstars.cz</a> a FB <a href="https://www.facebook.com/FestivalvCeletne">Festival studentského divadla v Celetné</a>
     </p>
     <p>
-      Vstupenky: <a href="https://www.divadlovceletne.cz/planovana-predstaveni/#rijen pro jeviště v Celetné">divadlovceletne.cz</a> a <a href="https://goout.net/cs/oldstars/pzoukpf/>goout.net</a> pro jeviště v Solné věži
+      Vstupenky: <a href="https://www.divadlovceletne.cz/planovana-predstaveni/#rijen pro jeviště v Celetné">divadlovceletne.cz</a> a <a href="https://goout.net/cs/oldstars/pzoukpf/">goout.net</a> pro jeviště v Solné věži
     </p>
 
     
