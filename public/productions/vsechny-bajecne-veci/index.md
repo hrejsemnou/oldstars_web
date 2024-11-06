@@ -425,6 +425,11 @@ reruns:
     time: '19:00'
     place: 'DON klub - Tábor'
     ticket: 'https://www.divadlotabor.cz/program/vsechny-bajecne-veci?backlink=j6ol5'
+  - 
+    date: '18.12.2024'
+    time: '19:30'
+    place: 'Činoherní klub'
+    ticket: 'https://cinoherniklub.cz/host-ck/duncan-macmillan-vsechny-bajecne-veci/'    
 ---
 Hlavní a jedinou postavou hry je chlapec, který má za 80 minut jediný úkol - přesvědčit nejen svou matku, že na světě existuje milion věcí, kvůli kterým stojí za to se nezabíjet…
 Dojemná, vtipná interaktivní inscenace o hledání duvodů proč žít. …aneb hra o tom, jak si vytvořit výstředně povznášející náhled na život.
