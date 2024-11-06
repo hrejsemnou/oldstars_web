@@ -11,6 +11,11 @@ reruns:
     time: '18:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/osm-zen/szcimgx/'
+  -
+    date: '3.12.2024'
+    time: '20:00'
+    place: 'Solná věž - Praha, Staré Město'
+    ticket: 'https://goout.net/cs/osm-zen/szxbhnx/'
 ---
 Jedna rodina. Jeden dům. Jedna rodinná oslava. Jedna mrtvola. A 8 žen.
 
