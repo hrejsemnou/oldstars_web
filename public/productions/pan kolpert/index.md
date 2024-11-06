@@ -29,7 +29,7 @@ reruns:
   -
     date: '20.12.2024'
     time: '20:00'
-    place: 'H2O - Bytové divadlo v Košické
+    place: 'H2O - Bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/pan-kolpert/szdchnx/'   
 ---
 “Oba jsme zatoužili něco cítit. Že jsme lidé. Pak nás to napadlo: vražda.”
