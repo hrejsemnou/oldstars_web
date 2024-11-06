@@ -26,7 +26,7 @@ reruns:
     time: '11:30'
     place: 'představení pro školy - zadáno'
     available: 0
-  -  
+  - 
     date: '20.12.2024'
     time: '20:00'
     place: 'H2O - Bytové divadlo v Košické
