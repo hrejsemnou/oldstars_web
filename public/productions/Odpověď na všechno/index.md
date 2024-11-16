@@ -16,8 +16,8 @@ reruns:
   -
     date: '16.11.2024'
     time: '20:00'
-    place: 'H2O - bytové divadlo v Košické'
-    available: 20
+    place: 'H2O - bytové divadlo v Košické - pro nemoc zrušeno'
+    available: 13
 ---
 Divadelní soubor Li-Di Litoměřice
 
