@@ -43,7 +43,7 @@ reruns:
   -  
     date: '7.12.2024'
     time: '20:00'
-    place: 'H2O - bytové divadlo v Košické'
+    place: 'H2O - bytové divadlo v Košické - přeloženo na jiný termín'
     ticket: 'https://goout.net/cs/svatba/szlddjx/'
 ---
 ,,I tehdy, když jsi sám, předstíráš pouze sebe samotného, dokonce i před sebou samým…“
