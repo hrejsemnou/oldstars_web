@@ -43,6 +43,11 @@ reruns:
     time: '20:00'
     place: 'Solná věž - Praha'
     ticket: 'https://goout.net/cs/caligula/szdevvw/'
+  -
+    date: '4.1.2025'
+    time: '20:00'
+    place: 'Solná věž - Praha - Derniéra'
+    available: 60
 ---
 režijní vedení: Zuzana Horáková
 
