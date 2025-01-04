@@ -19,7 +19,7 @@ reruns:
   -
     date: '7. 1. 2025'
     time: '20:00'
-    place: 'H2O - bytové divadlo v Košické - derniéra'
+    place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/jmeno/szvqxox/'
 ---
 "Noc, která se nikdy nekončí." 
