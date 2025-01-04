@@ -10,7 +10,7 @@ reruns:
     date: '12. 1. 2025'
     time: '20:00'
     place: 'sklepní prostor HarOLD, Charkovská 15'
-    ticket: 'předprodej Goout'
+    available: 'bude předprodej Goout'
 ---
 „Halooo, jsme ve výtahu!”
 
