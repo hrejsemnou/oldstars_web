@@ -46,7 +46,7 @@ reruns:
   -
     date: '4.1.2025'
     time: '20:00'
-    place: 'Solná věž - Praha - Derniéra'
+    place: 'Solná věž - Praha - Derniéra - VYPRODÁNO'
     available: 0
 ---
 režijní vedení: Zuzana Horáková
