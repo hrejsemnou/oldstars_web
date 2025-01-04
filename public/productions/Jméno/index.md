@@ -14,7 +14,7 @@ reruns:
   -
     date: '6. 1. 2025'
     time: '20:00'
-    place: 'H2O - bytové divadlo v Košické - z technických důvodů zrušeno'
+    place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/jmeno/szwqxox/'
   -
     date: '7. 1. 2025'
