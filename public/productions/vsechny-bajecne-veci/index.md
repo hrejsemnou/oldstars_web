@@ -425,7 +425,7 @@ reruns:
     time: '19:00'
     place: 'DON klub - Tábor'
     ticket: 'https://www.divadlotabor.cz/program/vsechny-bajecne-veci?backlink=j6ol5'
-  - 
+  -
     date: '18.12.2024'
     time: '19:30'
     place: 'Činoherní klub'
