@@ -429,7 +429,7 @@ reruns:
     date: '18.12.2024'
     time: '19:30'
     place: 'Činoherní klub'
-    ticket: 'https://cinoherniklub.cz/host-ck/duncan-macmillan-vsechny-bajecne-veci/
+    ticket: 'https://cinoherniklub.cz/host-ck/duncan-macmillan-vsechny-bajecne-veci/'
   - 
     date: '12.1.2025'
     time: '20:00'
