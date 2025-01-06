@@ -1,14 +1,14 @@
-import { Fragment } from 'react';
-import { useEffect, useState } from 'react';
-import { useRouter } from 'next/router'
-import ReactMarkdown from 'react-markdown'
+import { Fragment } from "react";
+import { useEffect, useState } from "react";
+import { useRouter } from "next/router";
+import ReactMarkdown from "react-markdown";
 
-import { getAllSnippets, getPageContentBySlug } from '../../lib/markdown'
-import { createDateObject } from '../../lib/parseProgram';
-import Layout from '../../components/Layout'
-import styles from './Detail.module.scss';
-import SplitContent from '../../components/SplitContent';
-import ImageGallery from '../../components/ImageGallery';
+import { getAllSnippets, getPageContentBySlug } from "../../lib/markdown";
+import { createDateObject } from "../../lib/parseProgram";
+import Layout from "../../components/Layout";
+import styles from "./Detail.module.scss";
+import SplitContent from "../../components/SplitContent";
+import ImageGallery from "../../components/ImageGallery";
 
 const getTitle = (writer, translation) => {
   if (translation) {
@@ -16,7 +16,7 @@ const getTitle = (writer, translation) => {
   } else {
     return writer;
   }
-}
+};
 
 const ReservationForm = ({ show, title, rerun }) => {
   const [name, setName] = useState("");
@@ -30,63 +30,91 @@ const ReservationForm = ({ show, title, rerun }) => {
     }
   }, [show]);
 
-  const handleSubmit = (e) => { 
+  const handleSubmit = (e) => {
     e.preventDefault();
     let data = {
       name,
       email,
       amount,
       title,
-      rerun
-    }
+      rerun,
+    };
 
-    fetch('/api/reservation', {
-      method: 'POST',
+    fetch("/api/reservation", {
+      method: "POST",
       headers: {
-        'Accept': 'application/json, text/plain, */*',
-        'Content-Type': 'application/json'
+        Accept: "application/json, text/plain, */*",
+        "Content-Type": "application/json",
       },
-      body: JSON.stringify(data)
+      body: JSON.stringify(data),
     }).then((res) => {
       if (res.status === 200) {
-        setName('');
-        setEmail('');
-        setAmount('');
+        setName("");
+        setEmail("");
+        setAmount("");
         setSubmitted(true);
       }
-    })
+    });
   };
-  
+
   if (show && submitted) {
-    return <div className={styles.reservationSuccess}>Žádost o rezervaci byla úspěšně odeslána. Děkujeme!</div>
+    return (
+      <div className={styles.reservationSuccess}>
+        Žádost o rezervaci byla úspěšně odeslána. Děkujeme!
+      </div>
+    );
   }
 
   if (show && !submitted) {
     return (
       <form className={styles.reservationForm}>
         <h4>Rezervace vstupenek</h4>
-        {(rerun.available || rerun.available === 0 || rerun.available === '0') && (
+        {(rerun.available ||
+          rerun.available === 0 ||
+          rerun.available === "0") && (
           <div className={styles.available}>
             Počet volných míst: {rerun.available}
           </div>
         )}
         <div className={styles.formGroup}>
           <label htmlFor="name">Jméno a příjmení</label>
-          <input type="text" name="name" onChange={e => setName(e.target.value)}/>
+          <input
+            type="text"
+            name="name"
+            onChange={(e) => setName(e.target.value)}
+          />
         </div>
         <div className={styles.formGroup}>
           <label htmlFor="e-mail">E-mail</label>
-          <input type="email" name="e-mail" onChange={e => setEmail(e.target.value)}/>
+          <input
+            type="email"
+            name="e-mail"
+            onChange={(e) => setEmail(e.target.value)}
+          />
         </div>
         <div className={styles.formGroup}>
           <label htmlFor="amount">Počet vstupenek</label>
-          <input type="number" min="0" name="amount" onChange={e => setAmount(e.target.value)}/>
+          <input
+            type="number"
+            min="0"
+            name="amount"
+            onChange={(e) => setAmount(e.target.value)}
+          />
         </div>
         <div>
-          <button type="submit" disabled={name === "" || email === "" || amount === ""} onClick={e => handleSubmit(e)}>Rezervovat</button>
+          <button
+            type="submit"
+            disabled={name === "" || email === "" || amount === ""}
+            onClick={(e) => handleSubmit(e)}
+          >
+            Rezervovat
+          </button>
         </div>
         <div className={styles.message}>
-          Rezervované vstupenky si vyzvedávejte 20 minut před začátkem představení v místě jeho konání. V případě, že změníte plány, zrušte prosím svoji rezezervaci na <a href="mailto:info@oldstars.cz">info@oldstars.cz</a>.
+          Rezervované vstupenky si vyzvedávejte 20 minut před začátkem
+          představení v místě jeho konání. V případě, že změníte plány, zrušte
+          prosím svoji rezezervaci na{" "}
+          <a href="mailto:info@oldstars.cz">info@oldstars.cz</a>.
         </div>
       </form>
     );
@@ -96,94 +124,111 @@ const ReservationForm = ({ show, title, rerun }) => {
 };
 
 const Snippet = ({ page }) => {
-  const router = new useRouter()
-  const reruns = page.reruns ? page.reruns.filter(item => createDateObject(item) > new Date()) : [];
+  const router = new useRouter();
+  const reruns = page.reruns
+    ? page.reruns.filter((item) => createDateObject(item) > new Date())
+    : [];
   const [showRerunForm, setShowRerunForm] = useState(null);
   return router.isFallback ? (
-    <Layout title = "OLDstars > Repertoár">
+    <Layout title="OLDstars > Repertoár">
       <div>Loading...</div>
     </Layout>
   ) : (
-    <Layout title = {`OLDstars > Repertoár > ${page.title}`}>
+    <Layout title={`OLDstars > Repertoár > ${page.title}`}>
       <SplitContent
         leftChild={
           <div>
             <h2>{page.title}</h2>
             <h3>{getTitle(page.writer, page.translation)}</h3>
-            <strong><em>{page.note}</em></strong>
+            <strong>
+              <em>{page.note}</em>
+            </strong>
             <div>
-              <ReactMarkdown
-                children={page.content}
-              />
+              <ReactMarkdown children={page.content} />
             </div>
             <div>
               {page.director ? (
                 <div>
-                  <span>Režie: </span><strong>{page.director}</strong>
+                  <span>Režie: </span>
+                  <strong>{page.director}</strong>
                 </div>
-              ) : null }
+              ) : null}
               {page.dramaturgy ? (
                 <div>
-                  <span>Dramaturgie: </span><strong>{page.dramaturgy}</strong>
+                  <span>Dramaturgie: </span>
+                  <strong>{page.dramaturgy}</strong>
                 </div>
-              ) : null }
+              ) : null}
               {page.production ? (
                 <div>
-                  <span>Produkce: </span><strong>{page.production}</strong>
+                  <span>Produkce: </span>
+                  <strong>{page.production}</strong>
                 </div>
-              ) : null }
+              ) : null}
               {page.actors ? (
                 <div>
-                  <span>Hraje: </span><strong>{page.actors}</strong>
+                  <span>Hraje: </span>
+                  <strong>{page.actors}</strong>
                 </div>
-              ) : null }
+              ) : null}
               {page.videoart ? (
                 <div>
-                  <span>Videoart: </span><strong>{page.videoart}</strong>
+                  <span>Videoart: </span>
+                  <strong>{page.videoart}</strong>
                 </div>
-              ) : null }
+              ) : null}
               {page.art ? (
                 <div>
-                  <span>Výtvarné řešení: </span><strong>{page.art}</strong>
+                  <span>Výtvarné řešení: </span>
+                  <strong>{page.art}</strong>
                 </div>
-              ) : null }
+              ) : null}
               {page.scenography ? (
                 <div>
-                  <span>Scénografie: </span><strong>{page.scenography}</strong>
+                  <span>Scénografie: </span>
+                  <strong>{page.scenography}</strong>
                 </div>
-              ) : null }
+              ) : null}
               {page.photography ? (
                 <div>
-                  <span>Fotografie: </span><strong>{page.photography}</strong>
+                  <span>Fotografie: </span>
+                  <strong>{page.photography}</strong>
                 </div>
-              ) : null }
+              ) : null}
               {page.edit ? (
                 <div>
-                  <span>Úprava: </span><strong>{page.edit}</strong>
+                  <span>Úprava: </span>
+                  <strong>{page.edit}</strong>
                 </div>
-              ) : null }
+              ) : null}
               {page.music ? (
                 <div>
-                  <span>Hudba: </span><strong>{page.music}</strong>
+                  <span>Hudba: </span>
+                  <strong>{page.music}</strong>
                 </div>
-              ) : null }
+              ) : null}
             </div>
             <div className={styles.section}>
               {page.length ? (
                 <div>
-                  <span>Délka představení: </span><strong>{page.length}</strong>
+                  <span>Délka představení: </span>
+                  <strong>{page.length}</strong>
                 </div>
-              ) : null }
+              ) : null}
               {page.premiere ? (
                 <div>
-                  <span>Premiéra: </span><strong>{page.premiere}</strong>
+                  <span>Premiéra: </span>
+                  <strong>{page.premiere}</strong>
                 </div>
-              ) : null }
+              ) : null}
               {page.review ? (
                 <div>
-                  <span>Recenze: </span><strong><a href={page.review}>i-divadlo</a></strong>
+                  <span>Recenze: </span>
+                  <strong>
+                    <a href={page.review}>i-divadlo</a>
+                  </strong>
                 </div>
-              ) : null }
+              ) : null}
             </div>
           </div>
         }
@@ -203,64 +248,73 @@ const Snippet = ({ page }) => {
                         <a href={rerun.ticket}>Vstupenky</a>
                       ) : (
                         <>
-                          {(rerun.available === 0 || rerun.available === '0') ? (
+                          {rerun.available === 0 || rerun.available === "0" ? (
                             <span>Vyprodáno</span>
                           ) : (
-                          <span
-                            onClick={() => { setShowRerunForm(index) }}
-                            className={styles.ticketCollapsible}
-                          >
-                            Vstupenky
-                          </span>
+                            <span
+                              onClick={() => {
+                                setShowRerunForm(index);
+                              }}
+                              className={styles.ticketCollapsible}
+                            >
+                              Vstupenky
+                            </span>
                           )}
                         </>
                       )}
                     </div>
                   </div>
-                  <ReservationForm show={showRerunForm === index} title={page.title} rerun={rerun} />
+                  <ReservationForm
+                    show={showRerunForm === index}
+                    title={page.title}
+                    rerun={rerun}
+                  />
                 </Fragment>
-                )
-              )) : (
-                <p>Momentálně není naplánovaná žádná repríza.</p>
-              )
-            }
-            {page.images.length > 0 ? (
-              <ImageGallery images={page.images?.sort().map(image => `/productions/${page.slug}/images/${image}`)} />
+              ))
             ) : (
-              <ImageGallery images={['/no-image.png']} />
+              <p>Momentálně není naplánovaná žádná repríza.</p>
+            )}
+            {page.images.length > 0 ? (
+              <ImageGallery
+                images={page.images
+                  ?.sort()
+                  .map((image) => `/productions/${page.slug}/images/${image}`)}
+              />
+            ) : (
+              <ImageGallery images={["/no-image.png"]} />
             )}
           </div>
         }
       />
     </Layout>
-  )
-}
+  );
+};
 
-export default Snippet
+export default Snippet;
 
 export async function getStaticProps({ params }) {
-  const { slug } = params
+  const { slug } = params;
   const page = getPageContentBySlug(slug, [
-    'slug',
-    'title',
-    'writer',
-    'translation',
-    'note',
-    'director',
-    'production',
-    'dramaturgy',
-    'actors',
-    'length',
-    'premiere',
-    'review',
-    'content',
-    'images',
-    'scenography',
-    'videoart',
-    'art',
-    'edit',
-    'reruns',
-  ])
+    "slug",
+    "title",
+    "writer",
+    "translation",
+    "note",
+    "director",
+    "production",
+    "dramaturgy",
+    "actors",
+    "length",
+    "premiere",
+    "review",
+    "content",
+    "images",
+    "scenography",
+    "videoart",
+    "art",
+    "edit",
+    "reruns",
+  ]);
 
   return {
     props: {
@@ -269,23 +323,19 @@ export async function getStaticProps({ params }) {
         markdown: page.content,
       },
     },
-  }
+  };
 }
 
 export async function getStaticPaths() {
-  const posts = getAllSnippets(['slug'])
+  const posts = getAllSnippets(["slug"]);
   const paths = posts.map(({ slug }) => ({
     params: {
       slug,
     },
-  }))
+  }));
 
   return {
     paths,
     fallback: false, // False for production, true for testing on local
-  }
-}
-
-export const config = {
-  unstable_excludeFiles: ['public/**/*'],
+  };
 }

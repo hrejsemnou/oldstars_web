@@ -96,8 +96,4 @@ export async function getStaticPaths() {
   };
 }
 
-export const config = {
-  unstable_excludeFiles: ["public/**/*"],
-};
-
 export default Program;

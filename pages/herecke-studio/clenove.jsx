@@ -1,16 +1,16 @@
-import { Fragment } from 'react';
-import Image from 'next/image';
+import { Fragment } from "react";
+import Image from "next/image";
 
-import Layout from '../../components/Layout'
-import { getMembers } from '../../lib/markdown';
+import Layout from "../../components/Layout";
+import { getMembers } from "../../lib/markdown";
 
-import styles from './Soubory.module.scss';
+import styles from "./Soubory.module.scss";
 
 const Members = ({ members }) => (
   <Layout title="OLDstars > Herecké studio > Členové">
     <h2>Členové</h2>
     <p>Omlouváme se, na této sekci se pracuje.</p>
-    {members.map(member => (
+    {members.map((member) => (
       <Fragment key={member.name}>
         <h3>{member.name}</h3>
         <div className={styles.soubor}>
@@ -24,27 +24,21 @@ const Members = ({ members }) => (
             />
           </div>
           <div className={styles.souborInfo}>
-            <span>
-              {member.content}
-            </span>
+            <span>{member.content}</span>
           </div>
         </div>
       </Fragment>
     ))}
   </Layout>
-)
+);
 
 export async function getStaticProps() {
-  const members = getMembers(['slug', 'name', 'content'])
+  const members = getMembers(["slug", "name", "content"]);
   return {
     props: {
       members: members,
-    }
-  }
+    },
+  };
 }
 
-export const config = {
-  unstable_excludeFiles: ['public/**/*'],
-}
-
-export default Members
+export default Members;
