@@ -19,13 +19,6 @@
     "target": "esnext",
     "incremental": true
   },
-  "exclude": [
-    "node_modules",
-    "public/**/*.jpg",
-    "public/**/*.JPG",
-    "public/**/*.png",
-    "public/**/*.JPEG",
-    "public/**/*.jpeg"
-  ],
+  "exclude": ["node_modules"],
   "include": ["**/*.ts", "**/*.tsx"]
 }

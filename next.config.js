@@ -23,4 +23,9 @@ module.exports = {
       },
     ];
   },
+  experimental: {
+    outputFileTracingExcludes: {
+      "/*": ["public/**/*"],
+    },
+  },
 };
