@@ -6,10 +6,7 @@
     "forceConsistentCasingInFileNames": true,
     "isolatedModules": true,
     "jsx": "preserve",
-    "lib": [
-      "dom",
-      "es2017"
-    ],
+    "lib": ["dom", "es2017"],
     "module": "esnext",
     "moduleResolution": "node",
     "noEmit": true,
@@ -23,10 +20,12 @@
     "incremental": true
   },
   "exclude": [
-    "node_modules"
+    "node_modules",
+    "public/**/*.jpg",
+    "public/**/*.JPG",
+    "public/**/*.png",
+    "public/**/*.JPEG",
+    "public/**/*.jpeg"
   ],
-  "include": [
-    "**/*.ts",
-    "**/*.tsx"
-  ]
+  "include": ["**/*.ts", "**/*.tsx"]
 }

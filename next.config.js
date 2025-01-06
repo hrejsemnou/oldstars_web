@@ -23,7 +23,4 @@ module.exports = {
       },
     ];
   },
-  experimental: {
-    exclude: ["public/**/*"],
-  },
 };
