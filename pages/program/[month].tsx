@@ -1,17 +1,27 @@
-import { useRouter } from 'next/router'
-import Link from 'next/link';
+import { useRouter } from "next/router";
+import Link from "next/link";
 
-import Layout from '../../components/Layout'
-import { getProgram } from '../../lib/markdown'
-import { Program as ProgramInterface, parseProgram, filterByMonth } from '../../lib/parseProgram';
+import Layout from "../../components/Layout";
+import { getProgram } from "../../lib/markdown";
+import {
+  Program as ProgramInterface,
+  parseProgram,
+  filterByMonth,
+} from "../../lib/parseProgram";
 
-import styles from './Program.module.scss';
+import styles from "./Program.module.scss";
 
-const Program = ({ program, month }: { month: number, program: ProgramInterface[] }) => {
+const Program = ({
+  program,
+  month,
+}: {
+  month: number;
+  program: ProgramInterface[];
+}) => {
   const parsedProgram = filterByMonth(parseProgram(program), month);
   const router = useRouter();
   return router.isFallback ? (
-    <Layout title = "OLDstars > Program">
+    <Layout title="OLDstars > Program">
       <div>Loading...</div>
     </Layout>
   ) : (
@@ -19,8 +29,12 @@ const Program = ({ program, month }: { month: number, program: ProgramInterface[
       {parsedProgram.length === 0 ? (
         <p>Na tento měsíc ještě nejsou naplánována žádná představení.</p>
       ) : (
-        parsedProgram.map(item => (
-          <Link href={`/repertoar/${item.slug}`} key={`${item.slug}${item.date}${item.time}`}>
+        parsedProgram.map((item) => (
+          <Link
+            legacyBehavior
+            href={`/repertoar/${item.slug}`}
+            key={`${item.slug}${item.date}${item.time}`}
+          >
             <a>
               <div className={styles.programItem}>
                 <div className={styles.timeAndInfo}>
@@ -46,40 +60,44 @@ const Program = ({ program, month }: { month: number, program: ProgramInterface[
   );
 };
 
-export async function getStaticProps({ params } : { params: { month: number } }) {
-  const program = getProgram()
+export async function getStaticProps({
+  params,
+}: {
+  params: { month: number };
+}) {
+  const program = getProgram();
   return {
     props: {
       month: params.month,
       program: program,
-    }
+    },
   };
 }
 
 export async function getStaticPaths() {
   const paths = [
-    '/program/1',
-    '/program/2',
-    '/program/3',
-    '/program/4',
-    '/program/5',
-    '/program/6',
-    '/program/7',
-    '/program/8',
-    '/program/9',
-    '/program/10',
-    '/program/11',
-    '/program/12',
-  ]
+    "/program/1",
+    "/program/2",
+    "/program/3",
+    "/program/4",
+    "/program/5",
+    "/program/6",
+    "/program/7",
+    "/program/8",
+    "/program/9",
+    "/program/10",
+    "/program/11",
+    "/program/12",
+  ];
 
   return {
     paths,
     fallback: false,
-  }
+  };
 }
 
 export const config = {
-  unstable_excludeFiles: ['public/**/*'],
-}
+  unstable_excludeFiles: ["public/**/*"],
+};
 
 export default Program;

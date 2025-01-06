@@ -1,14 +1,14 @@
-import { Fragment } from 'react';
-import { useRouter } from 'next/router'
-import ReactMarkdown from 'react-markdown'
-import Link from 'next/link';
+import { Fragment } from "react";
+import { useRouter } from "next/router";
+import ReactMarkdown from "react-markdown";
+import Link from "next/link";
 
-import { parseDate } from '../lib/utils';
-import Layout from '../components/Layout'
-import SplitContent from '../components/SplitContent';
-import { getProgram, getNews } from '../lib/markdown';
-import { Program as ProgramInterface, getNextPlays } from '../lib/parseProgram';
-import styles from './Index.module.scss';
+import { parseDate } from "../lib/utils";
+import Layout from "../components/Layout";
+import SplitContent from "../components/SplitContent";
+import { getProgram, getNews } from "../lib/markdown";
+import { Program as ProgramInterface, getNextPlays } from "../lib/parseProgram";
+import styles from "./Index.module.scss";
 
 export interface News {
   slug: string;
@@ -18,11 +18,17 @@ export interface News {
   content: string;
 }
 
-const Home = ({ program, news } : { program: ProgramInterface[], news: News[] }) => {
+const Home = ({
+  program,
+  news,
+}: {
+  program: ProgramInterface[];
+  news: News[];
+}) => {
   const parsedProgram = getNextPlays(program);
   const router = useRouter();
   return router.isFallback ? (
-    <Layout title = "OLDstars">
+    <Layout title="OLDstars">
       <div>Loading...</div>
     </Layout>
   ) : (
@@ -34,8 +40,12 @@ const Home = ({ program, news } : { program: ProgramInterface[], news: News[] })
             {parsedProgram.length === 0 ? (
               <p>Momentálně nejsou naplánována žádná představení.</p>
             ) : (
-              parsedProgram.map(item => (
-                <Link href={`/repertoar/${item.slug}`} key={`${item.slug}${item.date}${item.time}`}>
+              parsedProgram.map((item) => (
+                <Link
+                  legacyBehavior
+                  href={`/repertoar/${item.slug}`}
+                  key={`${item.slug}${item.date}${item.time}`}
+                >
                   <a>
                     <div className={styles.programItem}>
                       <div className={styles.timeAndInfo}>
@@ -61,43 +71,56 @@ const Home = ({ program, news } : { program: ProgramInterface[], news: News[] })
         }
         rightChild={
           <>
-            <h2><Link href="/novinky">Aktuality</Link></h2>
-            {news.sort((a, b) => Number(parseDate(b.date)) - Number(parseDate(a.date)) 
-            ).slice(0, 3).map(item => (
-              <Fragment key={item.title}>
-                <Link href={`/novinky/${item.slug}`}>
-                  <a><span className="text-bold">{item.title}</span></a>
-                </Link>
-                <p>{item.date}</p>
-                <div>
-                  <ReactMarkdown
-                    children={item.preview ? item.preview : (item.content.substring(0, 200) + "...")}
-                  />
-                </div>
-                <hr />
-              </Fragment>
-            ))
-            }
+            <h2>
+              <Link legacyBehavior href="/novinky">
+                Aktuality
+              </Link>
+            </h2>
+            {news
+              .sort(
+                (a, b) => Number(parseDate(b.date)) - Number(parseDate(a.date))
+              )
+              .slice(0, 3)
+              .map((item) => (
+                <Fragment key={item.title}>
+                  <Link legacyBehavior href={`/novinky/${item.slug}`}>
+                    <a>
+                      <span className="text-bold">{item.title}</span>
+                    </a>
+                  </Link>
+                  <p>{item.date}</p>
+                  <div>
+                    <ReactMarkdown
+                      children={
+                        item.preview
+                          ? item.preview
+                          : item.content.substring(0, 200) + "..."
+                      }
+                    />
+                  </div>
+                  <hr />
+                </Fragment>
+              ))}
           </>
         }
       />
     </Layout>
-  )
-}
+  );
+};
 
 export async function getStaticProps() {
-  const news = getNews(['slug', 'date', 'title', 'preview', 'content'])
-  const program = getProgram()
+  const news = getNews(["slug", "date", "title", "preview", "content"]);
+  const program = getProgram();
   return {
     props: {
       program: program,
       news: news,
-    }
+    },
   };
 }
 
 export const config = {
-  unstable_excludeFiles: ['public/**/*'],
-}
+  unstable_excludeFiles: ["public/**/*"],
+};
 
-export default Home
+export default Home;
