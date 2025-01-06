@@ -25,13 +25,28 @@ const Header = () => (
           </a>
         </Link>
         <a href="https://www.facebook.com/skupinaOLDstars">
-          <Image src="/fb_logo_white.png" width={20} height={20} />
+          <Image
+            alt="fb_logo"
+            src="/fb_logo_white.png"
+            width={20}
+            height={20}
+          />
         </a>
         <a href="http://www.youtube.com/user/OLDstarsHarOLD">
-          <Image src="/yt_logo_white.png" width={20} height={20} />
+          <Image
+            alt="yt_logo"
+            src="/yt_logo_white.png"
+            width={20}
+            height={20}
+          />
         </a>
         <a href="https://www.instagram.com/oldstars.cz/">
-          <Image src="/ig_logo_white.png" width={20} height={20} />
+          <Image
+            alt="ig_logo"
+            src="/ig_logo_white.png"
+            width={20}
+            height={20}
+          />
         </a>
       </div>
     </div>
