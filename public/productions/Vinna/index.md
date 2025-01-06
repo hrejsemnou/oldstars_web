@@ -10,12 +10,12 @@ reruns:
     date: '13. 1. 2025'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 'bude předprodej na Goout.net'
+    ticket: 'https://goout.net/cs/vinna/szjrkpx/'
   -
     date: '14. 1. 2025'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 'bude předprodej na Goout.net'
+    ticket: 'https://goout.net/cs/vinna/szkrkpx/'
 ---
 Kolik stojí úspěch? A kdo ho opravdu platí?                                                  Jak daleko jsme schopni zajít, když si myslíme, že nám něco patří? A co všechno jsme ochotni obětovat?
 Hra o vztazích, manipulaci a touze po dokonalosti. 
