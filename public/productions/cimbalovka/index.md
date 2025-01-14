@@ -6,7 +6,7 @@ tag: guests
 reruns:
   -
     date: '30.1.2025'
-    time: '18:00'
+    time: '17:00'
     place: 'H2O - bytové divadlo v Košické'
     available: 20
 ---
