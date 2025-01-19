@@ -15,7 +15,7 @@ reruns:
     date: '20.1.2025'
     time: '20:30'
     place: 'H2O - bytové divadlo v Košické'
-    available: 5
+    available: 3
 ---
 V blíže neurčeném místě a čase se potká pět žen. Společné mají jedno: potřebu promluvit.  
 
