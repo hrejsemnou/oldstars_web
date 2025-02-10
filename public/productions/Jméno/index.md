@@ -21,6 +21,16 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/jmeno/szvqxox/'
+  -
+    date: '8. 3. 2025'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/jmeno/szvdupx/'
+   -
+    date: '9. 3. 2025'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/jmeno/szwdupx/'
 ---
 "Noc, která se nikdy nekončí." 
 V obyčejném domě, v obyčejném obývacím pokoji se odehrává neobyčejný příběh. 
