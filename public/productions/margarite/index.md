@@ -96,6 +96,10 @@ reruns:
     time: '19:30'
     place: 'Werichova vila'
     ticket: 'https://goout.net/cs/margarite/sztuenx/'
+  -
+    date: '22.2.2025'
+    place: 'Jinec - zájezd'
+    ticket: 'https://www.jince.cz/kultura-a-skolstvi/plan-akci/margarite-3419_956cs.html'    
 ---
 Jak bojovat s nepřízní osudu? Nejlépe s humorem, nevadí, že je občas drsný. A hlavně se nenechat v průšvihu utopit.Nadechnout se lze i jednou nosní dírkou. Margarita má dnes narozeniny a nikdo z jejích dětí, natož bývalý manžel si na ni ani nevzpomněl. Jen od svého lékaře dostává nečekaný dárek. Monolog pro jednu herečku je jakýmsi deníkovým průletem 180 dny. Dojemná i silná hra se dostala mezi finálové texty španělské soutěže tvůrčího psaní Premi Born de Teatre 2013. V rámci letošního ročníku Měsíce autorského čtení, který byl věnován španělským autorům, absolvoval Carlos Be s touto hrou velmi úspěšná a divácky hojně navštívená scénická čtení v Brně, Ostravě, Košicích, polské Vratislavi a Lvově.
 
