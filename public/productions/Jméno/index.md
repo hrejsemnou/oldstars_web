@@ -26,7 +26,7 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/jmeno/szvdupx/'
-   -
+  -
     date: '9. 3. 2025'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
