@@ -50,6 +50,9 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/svatba/szlddjx/'
+  -  
+    date: '22.2.2025'
+    place: 'festival v Turnově'
 ---
 ,,I tehdy, když jsi sám, předstíráš pouze sebe samotného, dokonce i před sebou samým…“
 
