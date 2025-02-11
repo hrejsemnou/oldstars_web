@@ -74,7 +74,7 @@ function getDayName(day: number) {
 
 export const createDateObject = (rerun: { date: string; time: string }) => {
   const dateParts = rerun.date.split(".");
-  const timeParts = rerun.time.split(":");
+  const timeParts = rerun.time ? rerun.time.split(":") : ["", ""];
   const dateObject = new Date(
     new Date(
       +dateParts[2],

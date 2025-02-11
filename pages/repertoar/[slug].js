@@ -237,10 +237,12 @@ const Snippet = ({ page }) => {
             <h2>Kdy hrajeme</h2>
             {reruns.length > 0 ? (
               reruns.map((rerun, index) => (
-                <Fragment key={`${rerun.date} ${rerun.time}`}>
+                <Fragment key={`${rerun.date} ${rerun.time ? rerun.time : ""}`}>
                   <div className={`text-bold ${styles.reruns}`}>
                     <div className={styles.datetime}>
-                      <div>{`${rerun.date} ${rerun.time}`}</div>
+                      <div>{`${rerun.date} ${
+                        rerun.time ? rerun.time : ""
+                      }`}</div>
                       <div>{rerun.place}</div>
                     </div>
                     <div className={styles.placetickets}>
