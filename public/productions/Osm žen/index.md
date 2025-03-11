@@ -16,6 +16,11 @@ reruns:
     time: '20:00'
     place: 'Solná věž - Praha, Staré Město'
     ticket: 'https://goout.net/cs/osm-zen/szxbhnx/'
+  -
+    date: '5.4.2025'
+    time: '16:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/osm-zen/sztgurx/'    
 ---
 Jedna rodina. Jeden dům. Jedna rodinná oslava. Jedna mrtvola. A 8 žen.
 
