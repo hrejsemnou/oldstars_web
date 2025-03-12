@@ -20,7 +20,7 @@ reruns:
     date: '12.6.2025'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    ticket: 'https://goout.net/cs/listky/az-budeme-mrtvi-budeme-si-rovni/pbudb/'
+    ticket: 'https://goout.net/cs/az-budeme-mrtvi-budeme-si-rovni/szcdwrx/'
 ---
 V blíže neurčeném místě a čase se potká pět žen. Společné mají jedno: potřebu promluvit.  
 
