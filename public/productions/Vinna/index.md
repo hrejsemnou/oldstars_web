@@ -25,7 +25,7 @@ reruns:
     date: '26.4. 2025'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    ticket: 'bude předprodej v síti Goout' 
+    ticket: 'https://goout.net/cs/listky/vinna/lbudb/' 
 ---
 Kolik stojí úspěch? A kdo ho opravdu platí?                                                  Jak daleko jsme schopni zajít, když si myslíme, že nám něco patří? A co všechno jsme ochotni obětovat?
 Hra o vztazích, manipulaci a touze po dokonalosti. 
