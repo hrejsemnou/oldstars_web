@@ -22,7 +22,7 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vinna/szydupx/'
   -
-    date: '26. 4 2025'
+    date: '26.4. 2025'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'bude předprodej v síti Goout' 
