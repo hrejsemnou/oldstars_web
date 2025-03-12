@@ -35,7 +35,7 @@ reruns:
     date: '17. 5. 2025'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    ticket: 'bude predprodej v síti Goout.net'
+    ticket: 'https://goout.net/cs/listky/jmeno/nbudb/'
 ---
 "Noc, která se nikdy nekončí." 
 V obyčejném domě, v obyčejném obývacím pokoji se odehrává neobyčejný příběh. 
