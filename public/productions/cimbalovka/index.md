@@ -1,5 +1,5 @@
 ---
-title: '1. Cimbálový večer v Košické'
+title: '2. Cimbálový večer v Košické'
 writer: 'tvůrčí tým'
 actors: 'Viktor Janoštín, Lukáš Janoštín, Mikuláš Zelinský, Jakub Kostka'
 tag: guests
