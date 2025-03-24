@@ -13,7 +13,7 @@ reruns:
     date: '27.3.2025'
     time: '18:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 2
+    available: 0
 ---
 Netradiční cimbálová muzika u nás “doma” v Bytovém divadle Košická 21!
 
