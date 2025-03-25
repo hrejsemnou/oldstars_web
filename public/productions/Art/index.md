@@ -10,17 +10,17 @@ reruns:
     date: '5. 6. 2025'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    ticket: 'bude předprodej v síti Goout.net'
+    available: 'bude předprodej v síti Goout.net'
   -
     date: '6. 6. 2025'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    ticket: 'bude předprodej v síti Goout.net'
+    available: 'bude předprodej v síti Goout.net'
   -
     date: '7. 6. 2025'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    ticket: 'bude předprodej v síti Goout.net'
+    available: 'bude předprodej v síti Goout.net'
 ---
 Kolik pravdy a upřímnosti unese přátelství?
 
