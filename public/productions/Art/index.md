@@ -22,7 +22,6 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     available: 'bude předprodej v síti Goout.net'
 ---
-Kolik pravdy a upřímnosti unese přátelství?
 
 Tři nejlepší přátelé. Jeden extravagantní nákup. A otázky, na které možná nechtěli znát odpověď.
 Přátelství se ocitá na křižovatce. Co je vlastně spojuje?
