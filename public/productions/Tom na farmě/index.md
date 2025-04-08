@@ -8,8 +8,6 @@ edit: 'Martin Modrý a Karolína Vaňková'
 actors: 'v hlavní roli exceluje Daniel Krejčík'
 production: 'Karolína Hartmanová'
 tag: monodrama
-reruns:
-  - 
 ---
 Mladý muž přijíždí kamsi na venkov. Z velkoměsta na rodinou farmu na pohřeb svého přítele. 
 O osmačtyřicet krav stará matka jeho zesnulého milence a její druhý syn, bratr mrtvého. 
