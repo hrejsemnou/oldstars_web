@@ -1,0 +1,19 @@
+---
+title: 'Audience'
+writer: 'Václav Havel'
+director: 'Kristýna Hrdličková'
+actors: 'Klára Valášková, Sára Pospíšilová'
+reruns:
+  -
+    date: '24.4.2025'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/audience/sznqctx/'
+  -  
+    
+    date: '22.5.2025'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://www.mesto-nymburk.cz/letni-scena-pod-jasanem-oldstars-hamlet/a-1408'    
+---
+Vaněk je dramatik, nucený pracovat v pivovaru jako přikulovač sudů. Jeho nadřízený, sládek, má rád pivo, motivační citáty a Jiřinu Bohdalovou. A taky má na Vaňka podávat hlášení StB. Oba jsou ponořeni do marnosti situace, každý svým vlastním způsobem. To jsou paradoxy, co?
