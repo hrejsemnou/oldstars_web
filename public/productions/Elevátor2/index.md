@@ -36,6 +36,16 @@ reruns:
     time: '20:00'
     place: 'sklepní prostor HarOLD, Charkovská 15'
     available: 'https://goout.net/cs/elevator/szsdupx/'
+  -
+    date: '10.5.2025'
+    time: '20:00'
+    place: 'sklepní prostor HarOLD, Charkovská 15'
+    ticket: 'https://goout.net/cs/elevator/szmnctx/'
+  -
+    date: '5.7.2025'
+    time: '20:00'
+    place: 'sklepní prostor HarOLD, Charkovská 15'
+    ticket: 'https://goout.net/cs/elevator/sznnctx/'
 ---
 „Halooo, jsme ve výtahu!”
 
