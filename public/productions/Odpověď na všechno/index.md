@@ -18,6 +18,11 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické - pro nemoc zrušeno'
     available: 13
+  -
+    date: '31.5.2025'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    available: 'bude předprodej v síti Goout.net'
 ---
 Divadelní soubor Li-Di Litoměřice
 
