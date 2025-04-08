@@ -7,6 +7,7 @@ dramaturgy: 'Martin Modrý a Karolína Vaňková'
 edit: 'Martin Modrý a Karolína Vaňková'
 actors: 'v hlavní roli exceluje Daniel Krejčík'
 production: 'Karolína Hartmanová'
+tag: monodrama
 reruns:
   - 
 ---
