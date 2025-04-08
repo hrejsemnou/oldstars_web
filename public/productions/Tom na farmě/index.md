@@ -20,7 +20,9 @@ Tom zapadá do rodinných vztahů i lží.
 Vysvobozením z manipulativních vazeb však může být pouze pravda...
 
 V hlavní roli exceluje Daniel Krejčík.
-režie, úprava a dramaturgie: Martin Modrý a Karolína Vaňková
+
+Režie, úprava a dramaturgie: Martin Modrý a Karolína Vaňková
+Produkce: Karolína Hartmanová
 
 
 Projekt byl podpořen grantem Státního fondu kultury - děkujeme!
