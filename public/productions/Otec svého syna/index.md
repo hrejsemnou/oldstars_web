@@ -17,7 +17,7 @@ reruns:
     date: '28.4.2025'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 4
+    available: 0
 ---
 "Tatínku, Tatínku, z vás do smrti nic nebude ". S dětmi mívají rodiče trápení, ale co když je to naopak?  
 To se dozvíte v komedii Karla Poláčka OTEC SVÉHO SYNA v podání rodičovského souboru.
