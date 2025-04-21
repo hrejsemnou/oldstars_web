@@ -29,8 +29,8 @@ reruns:
     available: 10
    - 
     date: '21.4.2025'
-    time: '20:00 - pro nemoc zrušeno'
-    place: 'H2O - bytové divadlo v Košické' 
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické - pro nemoc zrušeno'
     ticket: 'https://goout.net/cs/listky/mucednik/kbudb/'
 ---
 Krutá komedie o dospívání v současném světě, o náboženském fanatismu, terorismu a povrchnosti dnešní společnosti. Co by se stalo, kdyby západoevropský křesťan hlásal svou víru tak naléhavě a radikálně, jako řada podobně uvědomělých stoupenců islámu...?
