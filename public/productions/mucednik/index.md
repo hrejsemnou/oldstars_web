@@ -29,7 +29,7 @@ reruns:
     available: 10
    - 
     date: '21.4.2025'
-    time: '20:00'
+    time: '20:00 - pro nemoc zrušeno'
     place: 'H2O - bytové divadlo v Košické' 
     ticket: 'https://goout.net/cs/listky/mucednik/kbudb/'
 ---
