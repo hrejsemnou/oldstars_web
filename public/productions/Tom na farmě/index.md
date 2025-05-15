@@ -5,7 +5,7 @@ translation: 'Petr Christov'
 director: 'Martin Modrý a Karolína Vaňková'
 dramaturgy: 'Martin Modrý a Karolína Vaňková'
 edit: 'Martin Modrý a Karolína Vaňková'
-actors: 'v hlavní roli exceluje Daniel Krejčík'
+actors: 'Daniel Krejčík, Zuzana Bydžovská, Janko Madaras a Barbora Waschingerová'
 production: 'Karolína Hartmanová'
 tag: monodrama
 ---
