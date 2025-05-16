@@ -51,8 +51,15 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/svatba/szlddjx/'
   -  
-    date: '22.2.2025'
-    place: 'festival v Turnově'
+    date: '21.6.2025'
+    time: '22:00'
+    place: 'REGIONY Mezinárodní divadelní festival Hradec Králové'
+    ticket: 'https://www.festivalregiony.cz/predstaveni-svatba?id=40'
+  -  
+    date: '22.6.2025'
+    time: '22:00'
+    place: 'REGIONY Mezinárodní divadelní festival Hradec Králové'
+    ticket: 'https://www.festivalregiony.cz/predstaveni-svatba?id=89'
 ---
 ,,I tehdy, když jsi sám, předstíráš pouze sebe samotného, dokonce i před sebou samým…“
 
