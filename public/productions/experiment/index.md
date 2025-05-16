@@ -21,6 +21,11 @@ reruns:
     time: '18:00'
     place: 'Solná věž - Jalovcová 2, Praha 1'
     ticket: 'https://goout.net/cs/experiment/szmjpfx/'
+  -
+    date: '24.6.2025'
+    time: '20:00'
+    place: 'Solná věž - Jalovcová 2, Praha 1'
+    ticket: 'https://goout.net/cs/experiment/sziulux/'
 ---
 Je to zábava, je to hra. Všichni dobře hrají svoji roli.  
 Je fajn nechat se trochu unést.  
