@@ -10,17 +10,17 @@ reruns:
     date: '5. 6. 2025'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 'bude předprodej v síti Goout.net'
+    available: 'https://goout.net/cs/art/szoulux/'
   -
     date: '6. 6. 2025'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 'bude předprodej v síti Goout.net'
+    available: 'https://goout.net/cs/art/sznulux/'
   -
     date: '7. 6. 2025'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 'bude předprodej v síti Goout.net'
+    available: 'https://goout.net/cs/art/szmulux/'
 ---
 
 Tři nejlepší přátelé. Jeden extravagantní nákup. A otázky, na které možná nechtěli znát odpověď.
