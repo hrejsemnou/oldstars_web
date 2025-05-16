@@ -15,6 +15,11 @@ reruns:
     time: '20:00'
     place: 'H2O - Bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/pokouseni/szxtdtx/'
+  -
+    date: '21.6.2025'
+    time: '16:00'
+    place: 'REGIONY Mezinárodní divadelní festival Hradec Králové'
+    ticket: 'https://www.festivalregiony.cz/predstaveni-pokouseni?id=38'
 ---
 Pokoušení duše, ideálů a zásad.  
 “Nelze sloužit všem najednou a zároveň všechny podvádět! Nelze ze všech stran jen brát a na žádnou nic nedávat! Člověk prostě někam patřit musí!”  
