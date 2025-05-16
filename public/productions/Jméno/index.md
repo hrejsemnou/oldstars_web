@@ -36,6 +36,21 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/listky/jmeno/nbudb/'
+  -
+    date: '21. 6. 2025'
+    time: '18:00'
+    place: 'REGIONY Mezinárodní divadelní festival Hradec Králové'
+    ticket: 'https://www.festivalregiony.cz/predstaveni-jmeno?id=56'
+  -
+    date: '21. 6. 2025'
+    time: '20:00'
+    place: 'REGIONY Mezinárodní divadelní festival Hradec Králové'
+    ticket: 'https://www.festivalregiony.cz/predstaveni-jmeno?id=39'
+  -
+    date: '22. 6. 2025'
+    time: '20:00'
+    place: 'REGIONY Mezinárodní divadelní festival Hradec Králové'
+    ticket: 'https://www.festivalregiony.cz/predstaveni-jmeno?id=88'
 ---
 "Noc, která se nikdy nekončí." 
 V obyčejném domě, v obyčejném obývacím pokoji se odehrává neobyčejný příběh. 
