@@ -485,6 +485,36 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szwbiqx/'
+  -
+    date: '29.5. 2025'
+    time: '19:00'
+    place: 'Tylovo divadlo - Kutná Hora'
+    ticket: 'https://www.divadlo-kutnahora.cz/detail/vsechny-bajecne-veci/'
+  -
+    date: '20.6.2025'
+    time: '17:00'
+    place: 'Měšťanská beseda v Plzni'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szqjrox/'
+  -
+    date: '7.7.2025'
+    time: '20:00'
+    place: 'Státní zámek Dačice'
+    ticket: 'https://www.dacice.cz/mesto/kalendar-akci-1/vsechny-bajecne-veci-1350_1770cs2375.html'
+  -
+    date: '14.8.2025'
+    time: '20:30'
+    place: 'zámek Osečany'
+    ticket: 'https://zamekbude.cz/udalost/vsechny-bajecne-veci-ctvrtek-14-srpna-2025-ve-2030/'
+  -
+    date: '17.8.2025'
+    time: '20:30'
+    place: 'zámek Osečany'
+    ticket: 'https://zamekbude.cz/udalost/vsechny-bajecne-veci-nedele-17-srpna-2025-ve-2030/'
+  -
+    date: '24.8.2025'
+    time: '20:30'
+    place: 'zámek Osečany'
+    ticket: 'https://zamekbude.cz/udalost/vsechny-bajecne-veci-nedele-24-srpna-2025-ve-2030/'
 ---
 Hlavní a jedinou postavou hry je chlapec, který má za 80 minut jediný úkol - přesvědčit nejen svou matku, že na světě existuje milion věcí, kvůli kterým stojí za to se nezabíjet…
 Dojemná, vtipná interaktivní inscenace o hledání duvodů proč žít. …aneb hra o tom, jak si vytvořit výstředně povznášející náhled na život.
