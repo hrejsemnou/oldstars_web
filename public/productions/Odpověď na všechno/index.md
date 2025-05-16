@@ -22,7 +22,7 @@ reruns:
     date: '31.5.2025'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 'bude předprodej v síti Goout.net'
+    available: 20
 ---
 Divadelní soubor Li-Di Litoměřice
 
