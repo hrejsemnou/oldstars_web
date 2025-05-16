@@ -9,12 +9,12 @@ reruns:
     date: '26.5.2025'
     time: '20:00'
     place: 'H2O - Bytové divadlo v Košické'
-    ticket: 'bude předprodej v síti Goout'
+    ticket: 'https://goout.net/cs/pokouseni/szytdtx/'
   -
     date: '29.5.2025'
     time: '20:00'
     place: 'H2O - Bytové divadlo v Košické'
-    ticket: 'bude předprodej v síti Goout'
+    ticket: 'https://goout.net/cs/pokouseni/szxtdtx/'
 ---
 Pokoušení duše, ideálů a zásad.  
 “Nelze sloužit všem najednou a zároveň všechny podvádět! Nelze ze všech stran jen brát a na žádnou nic nedávat! Člověk prostě někam patřit musí!”  
