@@ -1,7 +1,7 @@
 ---
 title: 'Art'
 writer: 'Yasmina Reza'
-translate: 'Michal Lázňovský'
+translation: 'Michal Lázňovský'
 actors: 'David Šrejma, Štěpán Jan Krafka a Matouš Košař'
 note: 'Kolik pravdy a upřímnosti unese přátelství?'
 premiere: '5. 6. 2025'
