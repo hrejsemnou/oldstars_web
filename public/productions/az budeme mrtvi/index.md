@@ -3,7 +3,7 @@ title: 'Až budeme mrtví, budeme si rovni'
 writer: 'Christine Brückner'
 translation: 'Magdalena Štulcová'
 director: 'Tomáš Staněk'
-actors: 'Marie Měkotová, Kristýna Hrdličková, Barbora Humlová, Anna Kulhavá, Josefína Prachařová'
+actors: 'Marie Měkotová, Kristýna Hrdličková, Vendula Smižanská, Anna Kulhavá, Josefína Prachařová'
 premiere: '10.4.2023'
 reruns:
   -  
