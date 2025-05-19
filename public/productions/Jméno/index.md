@@ -2,7 +2,7 @@
 title: 'Jméno'
 writer: 'Jon Fosse'
 translation: 'Karolína Stehlíková'
-actors: 'David Šrejma, Barbora Lukešová, Matouš Košař, Tereza Hladíková, Štěpán Jan Krafka, Anna Dickmannová/Barbora Wildová'
+actors: 'David Šrejma, Barbora Lukešová, Matouš Košař, Tereza Hladíková, Štěpán Jan Krafka, Anna Dickmannová/Barbora Wildová/Theresia Anna Hakenová'
 note: 'Noc, která se nikdy nekončí.'
 premiere: '5.1.2025'
 reruns:
