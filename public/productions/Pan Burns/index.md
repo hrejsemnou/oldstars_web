@@ -1,7 +1,7 @@
 ---
 title: 'Pan Burns'
 writer: 'Anne Washburn'
-translate: 'Ondřej Polák'
+translation: 'Ondřej Polák'
 actors: 'Ondřej Polák, Vojta Zemánek, Kryštof Lepšík, Klára Fittnerová, Bára Waschingerová/Klára Vaňkátová, Tereza Střihavková/Markéta Zemánková'
 note: 'Co si bude naše konzumní společnost pamatovat?'
 premiere: '3. 6. 2025'
