@@ -10,7 +10,7 @@ reruns:
     date: '3. 6. 2025'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 20
+    available: 3
   -
     date: '1. 7. 2025'
     time: '20:00'
