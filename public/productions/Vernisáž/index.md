@@ -20,5 +20,10 @@ reruns:
     time: '16:00'
     place: 'REGIONY Mezinárodní divadelní festival Hradec Králové '
     ticket: 'https://www.festivalregiony.cz/predstaveni-vernisaz-oldstars?id=457' 
+  -
+    date: '26. 6. 2025'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'    
+    ticket: 'https://goout.net/cs/vernisaz/szqajvx/'
 ---
 ,,Pro koho myslíš, že to všechno děláme? Pro sebe?" - Michal, postava ze hry Václava Havla VERNISÁŽ. Mladý pár vítá přítele Bedřicha do svého nově zařízeného bytu. Něco však nesedí. Dětský sen, který se stal skutečností. Všechno je jako v pohádce. Dokonalý byt, dokonalá rodina, dokonalý život - nenajdeš jediný kiks. Boj o pozornost a pochvalu začíná, jako ve školce. Vernisáž je absurdní drama z roku 1975, které stále rezonuje. 
