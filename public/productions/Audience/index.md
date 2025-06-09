@@ -2,6 +2,7 @@
 title: 'Audience'
 writer: 'Václav Havel'
 director: 'Kristýna Hrdličková'
+note: 'Mezi sudy a slovy'
 actors: 'Klára Valášková, Sára Pospíšilová'
 reruns:
   -
