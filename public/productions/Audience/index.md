@@ -4,6 +4,7 @@ writer: 'Václav Havel'
 director: 'Kristýna Hrdličková'
 note: 'Mezi sudy a slovy'
 actors: 'Klára Valášková, Sára Pospíšilová'
+note: 'život jako vystavené obrazy'
 reruns:
   -
     date: '24.4.2025'
