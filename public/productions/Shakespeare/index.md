@@ -11,12 +11,12 @@ reruns:
     date: '15. 6. 2025'
     time: '18:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 20
+    ticket: 'https://goout.net/cs/shekspeare/szvpivx/'
   -
     date: '15. 6. 2025'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 20
+    ticket: 'https://goout.net/cs/shekspeare/szupivx/'
 ---
 Pod tíhou smutku každá z nás teď musí říkat, co cítí, ne co se sluší.
 
