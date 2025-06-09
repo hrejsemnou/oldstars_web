@@ -1,9 +1,9 @@
 ---
 title: 'LITerák'
 writer: 'tvůrčí tým'
-music: rave_man_tony
+music: 'rave_man_tony'
 actors: 'Valentyna Šottnerová, Ester Huková, Natálie Kalista, Maria Bašeová, Jorik Chase, Sophia Strunga, Kryštof Racek, Valerie Fišerová, Natálie Ondrašíková'
-premiere: '10.4.2023'
+premiere: '11.6.2025'
 tag: guests
 reruns:
   -
