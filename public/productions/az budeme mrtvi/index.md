@@ -5,6 +5,7 @@ translation: 'Magdalena Štulcová'
 director: 'Tomáš Staněk'
 actors: 'Marie Měkotová, Kristýna Hrdličková, Vendula Smižanská, Anna Kulhavá, Josefína Prachařová'
 premiere: '10.4.2023'
+note: 'o osudu, spravedlnosti a smíření'
 reruns:
   -  
     date: '12.11.2024'
