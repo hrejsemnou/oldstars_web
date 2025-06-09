@@ -3,6 +3,7 @@ title: 'Pokoušení'
 writer: 'Václav Havel'
 director: 'David Šrejma'
 actors: 'Maxmilián Materna, Sebastian Hájek, Alžběta Kronková, Mojmír Pěnička, Mia Homečková, Natálie Kalista, Rozálie Košařová a Vojtěch Šimek'
+note: 'když ďábel není jen v detailu'
 premiere: '26.5.2025'
 reruns:
   -  
