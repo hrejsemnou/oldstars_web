@@ -9,7 +9,7 @@ reruns:
   -
     date: '11. 6. 2025'
     time: '18:00'
-    place: 'H2O - bytové divadlo v Košické - derniéra'
+    place: 'H2O - bytové divadlo v Košické'
     available: 50
 ---
 Poprvé v Košické!
