@@ -5,6 +5,7 @@ translation: 'Elisabeta Kučerová'
 actors: 'Matouš Košař a Tereza Hladíková'
 music: 'Lukáš Kudláček'
 premiere: '12.1.2025'
+note: 'souboj mezi patry'
 reruns:
   -  
     date: '12. 1. 2025'
