@@ -4,6 +4,7 @@ writer: 'Sławomir Mrożek'
 director: 'Krystian Przybysz'
 actors: 'Štěpán Krafka, Jan Šípal'
 premiere: '19. 6. 2025'
+note: 'dva muži, dva světy, jeden pokoj'
 reruns:
   -  
     date: '19. 6. 2025'
