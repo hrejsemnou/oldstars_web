@@ -26,17 +26,17 @@ reruns:
     date: '22. 3. 2025'
     time: '20:00'
     place: 'sklepní prostor HarOLD, Charkovská 15'
-    available: 'https://goout.net/cs/elevator/szudupx/'
+    ticket: 'https://goout.net/cs/elevator/szudupx/'
   -  
     date: '23. 3. 2025'
     time: '20:00'
     place: 'sklepní prostor HarOLD, Charkovská 15'
-    available: 'https://goout.net/cs/elevator/sztdupx/'
+    ticket: 'https://goout.net/cs/elevator/sztdupx/'
   -  
     date: '5. 4. 2025'
     time: '20:00'
     place: 'sklepní prostor HarOLD, Charkovská 15'
-    available: 'https://goout.net/cs/elevator/szsdupx/'
+    ticket: 'https://goout.net/cs/elevator/szsdupx/'
   -
     date: '10.5.2025'
     time: '20:00'
