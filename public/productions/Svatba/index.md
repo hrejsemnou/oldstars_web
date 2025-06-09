@@ -9,6 +9,7 @@ graphics: 'Petr Šimoníček'
 dramaturgy: 'Sebastian Vopěnka'
 art: 'Sebastian Vopěnka'
 premiere: '3.3.2024'
+note: 'groteskní obraz světa naruby'
 reruns:
   -
     date: '3.3.2024'
