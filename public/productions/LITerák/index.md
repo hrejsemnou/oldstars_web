@@ -10,7 +10,7 @@ reruns:
     date: '11. 6. 2025'
     time: '18:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 50
+    available: 38
 ---
 Poprvé v Košické!
 V jedinečném prostředí bytového divadla v Košické se ve spolupráci s uměleckou skupinou OLDstars poprvé uskuteční literární večer, kde se představí mladí a talentovaní tvůrci. Neváhejte a přijďte si užít atmosféru a načerpat inspiraci. Čeká vás spousta autorské tvorby v podobě recitace, slamu, poezie a hudebního intermezza. Začínáme ve středu 11. 6., v 18:00 na adrese Košická 21, Praha 10. A bude i pivo. :) 
