@@ -14,6 +14,21 @@ reruns:
     time: '20:00'
     place: 'hrad Točník'
     ticket: 'https://goout.net/cs/romeo-a-julie/szwjpex/'
+  -  
+    date: '11.7.2025'
+    time: '20:00'
+    place: 'Muzeum Českého ráje'
+    ticket: 'https://goout.net/cs/romeo-a-julie/szxqrvx/'
+  -  
+    date: '12.7.2025'
+    time: '20:00'
+    place: 'Kavárna Trojka - Brno'
+    ticket: 'https://goout.net/cs/romeo-a-julie/szbrrvx/'
+  -  
+    date: '13.7.2025'
+    time: '20:00'
+    place: 'zámek Mikulov - nádvoří'
+    ticket: 'https://goout.net/cs/listky/romeo-a-julie/xfdfb/'
 ---
 Letní dávka lásky sbalená na cesty.
 
