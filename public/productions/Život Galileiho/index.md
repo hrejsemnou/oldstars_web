@@ -14,7 +14,26 @@ reruns:
     time: '19:30'
     place: 'Divadlo X10'
     ticket: 'https://www.divadlox10.cz/cs/vstupenky/zivot-galileiho?e=1047'
-
+  -  
+    date: '24.8.2025'
+    time: '19:30'
+    place: 'Divadlo X10'
+    ticket: 'https://www.divadlox10.cz/cs/vstupenky/zivot-galileiho?e=1048'
+  -  
+    date: '25.8.2025'
+    time: '19:30'
+    place: 'Divadlo X10'
+    ticket: 'https://www.divadlox10.cz/cs/vstupenky/zivot-galileiho?e=1049'
+  -  
+    date: '26.8.2025'
+    time: '19:30'
+    place: 'Divadlo X10'
+    ticket: 'https://www.divadlox10.cz/cs/vstupenky/zivot-galileiho?e=1050'
+  -  
+    date: '27.8.2025'
+    time: '19:30'
+    place: 'Divadlo X10'
+    ticket: 'https://www.divadlox10.cz/cs/vstupenky/zivot-galileiho?e=1051'
 ---
 REŽIE Prokop Košař
 DRAMATURGIE Kryštof Krejčí
