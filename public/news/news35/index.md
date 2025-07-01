@@ -18,4 +18,4 @@ Navíc, celý festival oživí koncerty několika kapel a DJs, které uslyšíte
 
 Festival je podpořen Grantem Prahy 1 - děkujeme!
 
-Další informace naleznete zde: https://linktr.ee/fsdvdvcavsv a na našem Instagramu @oldstars.cz nebo Facebooku https://www.facebook.com/skupinaOLDstars
+Další informace naleznete zde: [Festival v Celetné](https://linktr.ee/fsdvdvcavsv) a na našem Instagramu @oldstars.cz nebo [Facebooku](https://www.facebook.com/skupinaOLDstars). 
