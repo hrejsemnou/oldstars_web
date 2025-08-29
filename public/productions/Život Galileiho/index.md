@@ -35,19 +35,19 @@ reruns:
     place: 'Divadlo X10'
     ticket: 'https://www.divadlox10.cz/cs/vstupenky/zivot-galileiho?e=1051'
 ---
-REŽIE Prokop Košař
-DRAMATURGIE Kryštof Krejčí
-ASISTENTKA DRAMATURGIE Dina Ibragimová
-VÝPRAVA Viktorie Drobná
-HUDBA Tomáš Dalecký
-LIGHTDESIGN Zdeněk Charvát
-VÝROBA DEKORACE Richard Sieber
-POHYBOVÁ SPOLUPRÁCE Karolína Gilová
-UMĚLECKÁ SUPERVIZE Tomáš Staněk
-PRODUKCE Barbora Horská, Anežka Sieberová
-FOTO A VIDEO Daniel Kvapil
-GRAFICKÝ DESIGN Anna Marie Myšičková
-TRAILER Karolína Beranová, Josef Kader Agha
+REŽIE Prokop Košař  
+DRAMATURGIE Kryštof Krejčí  
+ASISTENTKA DRAMATURGIE Dina Ibragimová  
+VÝPRAVA Viktorie Drobná  
+HUDBA Tomáš Dalecký  
+LIGHTDESIGN Zdeněk Charvát  
+VÝROBA DEKORACE Richard Sieber  
+POHYBOVÁ SPOLUPRÁCE Karolína Gilová  
+UMĚLECKÁ SUPERVIZE Tomáš Staněk  
+PRODUKCE Barbora Horská, Anežka Sieberová  
+FOTO A VIDEO Daniel Kvapil  
+GRAFICKÝ DESIGN Anna Marie Myšičková  
+TRAILER Karolína Beranová, Josef Kader Agha  
 
 tančí Barbora Bolíková, Charlota Ciklerová, Ester Kroutilová, Marie Macháčková, Adriana Nguyenová
 
