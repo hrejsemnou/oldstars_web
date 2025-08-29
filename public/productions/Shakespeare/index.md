@@ -17,6 +17,16 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/shekspeare/szupivx/'
+  -
+    date: '2. 9. 2025'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/shekspeare/szfqxvx/'
+  -
+    date: '4. 9. 2025'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/shekspeare/szeqxvx/'
 ---
 Pod tíhou smutku každá z nás teď musí říkat, co cítí, ne co se sluší.
 
