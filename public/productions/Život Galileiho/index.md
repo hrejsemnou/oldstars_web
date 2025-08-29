@@ -56,7 +56,7 @@ tančí Barbora Bolíková, Charlota Ciklerová, Ester Kroutilová, Marie Machá
 “Prosadí se vždy jen tolik pravdy, kolik jí prosadíme.” 
 Nadešel věk pokroku – ale něco je špatně… Duch vědění postupuje vpřed mílovými kroky, jenže realita kulhá za ním. Na počátku této schizofrenní epochy stojí Galileo Galilei. Vědec, který zatoužil proniknout tajemství vesmíru, ale proti své vůli se stal zakladatelem nového světového řádu. V aktuálním nastudování Brechtovy nejosobnější hry dochází mezi oprýskanými stěnami garážové dílny k rozhodnutím s dějinným dopadem.  
 
-            Evropa stojí na prahu osvícení, ale jak dlouho může noc zůstat jasná? 
+...Evropa stojí na prahu osvícení, ale jak dlouho může noc zůstat jasná? 
 
 
 UPOZORNĚNÍ: V inscenaci je použit stroboskop a na jevišti se kouří.
