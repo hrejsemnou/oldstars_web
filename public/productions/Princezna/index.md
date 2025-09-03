@@ -7,7 +7,7 @@ premiere: '7.9.2025'
 tag: archive
 reruns:
   -  
-    date: '7.9.2023'
+    date: '7.9.2025'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/princezna-t/szyfmyx/'
