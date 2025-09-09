@@ -34,4 +34,4 @@ Pokoušení duše, ideálů a zásad.
 
 V inscenaci se objevují vulgarity.
 
-Inscenace byla podpořena grantem Nadace Život umělce - děkujeme.
+Inscenace byla podpořena grantem Nadace Život umělce a ze Zásobníku projektů Partnerství pro Prahu 10 - 2025  - děkujeme.
