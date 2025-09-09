@@ -32,3 +32,5 @@ reruns:
     available: 20  
 ---
 ,,Pro koho myslíš, že to všechno děláme? Pro sebe?" - Michal, postava ze hry Václava Havla VERNISÁŽ. Mladý pár vítá přítele Bedřicha do svého nově zařízeného bytu. Něco však nesedí. Dětský sen, který se stal skutečností. Všechno je jako v pohádce. Dokonalý byt, dokonalá rodina, dokonalý život - nenajdeš jediný kiks. Boj o pozornost a pochvalu začíná, jako ve školce. Vernisáž je absurdní drama z roku 1975, které stále rezonuje. 
+
+Inscenace byla podpořena ze Zásobníku projektů Partnerství pro Prahu 10 - 2025. Děkujeme.
