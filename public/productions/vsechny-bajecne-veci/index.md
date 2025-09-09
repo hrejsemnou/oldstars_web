@@ -545,11 +545,6 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szfsray/'
-  -
-    date: '29.1.2026'
-    time: '20:00'
-    place: 'H2O - bytové divadlo v Košické'
-    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szmpray/'
   -  
     date: '5.2.2026'
     time: '20:00'
