@@ -541,21 +541,6 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szesray/'
   -
-    date: '16.10.2025'
-    time: '20:00'
-    place: 'H2O - bytové divadlo v Košické'
-    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szhssxx/'
-  -
-    date: '6.11.2025'
-    time: '20:00'
-    place: 'H2O - bytové divadlo v Košické'
-    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szgssxx/'
-  -
-    date: '13.11.2025'
-    time: '20:00'
-    place: 'H2O - bytové divadlo v Košické'
-    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szfssxx/'
-  -
     date: '4.12.2025'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
