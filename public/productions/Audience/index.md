@@ -23,4 +23,4 @@ reruns:
 
 Vaněk je dramatik, nucený pracovat v pivovaru jako přikulovač sudů. Jeho nadřízený, sládek, má rád pivo, motivační citáty a Jiřinu Bohdalovou. A taky má na Vaňka podávat hlášení StB. Oba jsou ponořeni do marnosti situace, každý svým vlastním způsobem. To jsou paradoxy, co?
 
-Inscenace byla podpořena ze Zásobníku projektů Partnerství pro Prahu 10 - 2025 - děkujeme.
+Inscenace byla podpořena ze Zásobníku projektů Partnerství pro Prahu 10 - 2025. Děkujeme.
