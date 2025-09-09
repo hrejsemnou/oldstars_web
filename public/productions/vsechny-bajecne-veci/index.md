@@ -570,6 +570,46 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szlpray/'
+  -  
+    date: '26.2.2026'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szkpray/'
+  -  
+    date: '5.3.2026'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szjpray/'
+  -  
+    date: '12.3.2026'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szipray/'
+  -  
+    date: '16.4.2026'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szhpray/'
+  -  
+    date: '23.4.2026'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szgpray/'
+  -  
+    date: '7.5.2026'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szfpray/'
+  -  
+    date: '21.5.2026'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szepray/'
+  -  
+    date: '11.6.2026'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/vsechny-bajecne-veci/szdpray/'
 ---
 Hlavní a jedinou postavou hry je chlapec, který má za 80 minut jediný úkol - přesvědčit nejen svou matku, že na světě existuje milion věcí, kvůli kterým stojí za to se nezabíjet…
 Dojemná, vtipná interaktivní inscenace o hledání duvodů proč žít. …aneb hra o tom, jak si vytvořit výstředně povznášející náhled na život.
