@@ -4,7 +4,7 @@ writer: 'Daniela Fischerová'
 director: 'David Šrejma'
 actors: 'Alžběta Kronková, Mojmír Pěnička, Sebastian Hájek, Vojtěch Šimek, Mia Homečková, Rozálie Košařová, Natálie Kalista, Maxmilián Materna'
 premiere: '7.9.2025'
-tag: archive
+note: 'V říši, kde se noc třpytí ostřím meče'
 reruns:
   -  
     date: '7.9.2025'
