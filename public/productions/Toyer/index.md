@@ -6,6 +6,7 @@ director: 'Sebastián Vopěnka'
 actors: 'Veronika Kupková, Matouš Rybák'
 production: 'Karolína Hartmanová'
 premiere: '28. 9. 2025'
+note: 'mezi důvěrou a manipulací'
 reruns:
   -  
     date: '28. 9. 2025'
