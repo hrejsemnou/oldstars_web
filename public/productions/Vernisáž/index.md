@@ -4,6 +4,7 @@ writer: 'Václav Havel'
 director: 'Vendula Smižanská'
 actors: 'Štěpán Krafka, Sebastián Hájek a Theresia Anna Hakenová'
 premiere: '15. 5. 2025'
+note: 'Dokonalý byt, dokonalá rodina, dokonalý život'
 reruns:
   -  
     date: '15. 5. 2025'
