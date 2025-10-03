@@ -16,7 +16,7 @@ const Home = () => (
       Chceme, aby děti poznaly komplexní divadlo jako vzrušující zábavu neomezených možností. V dětském věku není naším prvořadým cílem výtvor, ale cesta, která k němu vede.
     </p>
     <p> 
-      Lektory Dětského studia v průběhu let byli: Jeník Tyl, Aška Luhanová, Madla Rutová, Daniela Von Vorst nebo Zuzana Horáková. Od roku 2019 studio vedou naše členky Bára Waschingerová a Eva Sinkovičová.
+      Lektory Dětského studia v průběhu let byli: Jeník Tyl, Aška Luhanová, Madla Rutová, Daniela Von Vorst, Zuzana Horáková nebo Bára Waschingerová a Eva Sinkovičová. Od roku 2025 studio vedou naši členové David Šrejma, Štěpán Jan Krafka a Julie Stejskalová. 
     </p>
     <h3>Kontakt</h3>
     <p>
@@ -28,8 +28,6 @@ const Home = () => (
     <p>
       Veškeré informace na emailu <a href="mailto:detskestudio@oldstars.cz">detskestudio@oldstars.cz</a>.
     </p>
-    <h4>Minulé ročníky</h4>
-    <p>Omlouváme se, na této sekci se pracuje.</p>
   </Layout>
 )
 
