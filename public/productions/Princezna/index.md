@@ -17,7 +17,7 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/princezna-t/szeqray/'
   -  
-    date: '18.10.2025'
+    date: '18.10.2025 - zrušeno z technických důvodů'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/princezna-t/szdqray/'
