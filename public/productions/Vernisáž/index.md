@@ -31,7 +31,7 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'    
     available: 20  
-   -
+  -
     date: '17.11. 2025'
     time: '20:30'
     place: 'H2O - bytové divadlo v Košické'    
