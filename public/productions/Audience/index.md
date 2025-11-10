@@ -20,9 +20,9 @@ reruns:
     place: "H2O - bytové divadlo v Košické"
     ticket: "https://goout.net/cs/audience/szjarux/"
   -
-    date: '17.11.2025"
+    date: '17.11.2025'
     time: '19:00'
-    place: "H2O - bytové divadlo v Košické"
+    place: 'H2O - bytové divadlo v Košické'
     available: 25
 ---
 
