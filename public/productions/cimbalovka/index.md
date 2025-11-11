@@ -1,5 +1,5 @@
 ---
-title: '2. Cimbálový večer v Košické'
+title: '3. Cimbálový večer v Košické'
 writer: 'tvůrčí tým'
 actors: 'Viktor Janoštín, Lukáš Janoštín, Mikuláš Zelinský, Jakub Kostka'
 tag: guests
@@ -14,6 +14,11 @@ reruns:
     time: '18:00'
     place: 'H2O - bytové divadlo v Košické'
     available: 0
+  -
+    date: '5.12.2025'
+    time: '18:00'
+    place: 'H2O - bytové divadlo v Košické'
+    available: 20
 ---
 Netradiční cimbálová muzika u nás “doma” v Bytovém divadle Košická 21!
 
