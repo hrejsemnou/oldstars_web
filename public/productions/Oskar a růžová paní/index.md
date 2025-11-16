@@ -16,6 +16,11 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/oskar-a-ruzova-pani/szmvjdy/'
+  -  
+    date: '22.12.2025'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    available: 20
 ---
 Dojemný a zároveň osvobozující příběh o desetiletém chlapci, který z nemocničního pokoje píše dopisy Bohu. Oskar má málo času, ale díky energické „Růžové paní“ objeví, že i v několika dnech lze prožít celý život – se všemi jeho radostmi, láskami i smířením. Inscenace o odvaze dívat se smrti do očí a přesto milovat svět naplno.
 
