@@ -30,7 +30,7 @@ reruns:
     date: '17.11.2025'
     time: '15:00'
     place: 'H2O - Bytové divadlo v Košické'
-    available: 2
+    available: 0
 ---
 Pokoušení duše, ideálů a zásad.  
 “Nelze sloužit všem najednou a zároveň všechny podvádět! Nelze ze všech stran jen brát a na žádnou nic nedávat! Člověk prostě někam patřit musí!”  
