@@ -21,6 +21,16 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/princezna-t/szdqray/'
+  -  
+    date: '7.12. 2025'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/princezna-t/szjlidy/'
+  -  
+    date: '11.12. 2025'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/princezna-t/szilidy/'
 ---
 
 V říši, kde se noc třpytí ostřím meče a úsvit chutná po krvi, stojí princezna jako ledový chrám. Každá otázka z jejích úst je past, každá odpověď špatná je rozsudkem. Hlavy padají, láska se mění v hazard, dech v horkou páru strachu. Ale někdo, možná blázen, básník, či kat se rozhodl vstoupit do labyrintu jejích hádanek. A vítr už nese zpěv lidu…
