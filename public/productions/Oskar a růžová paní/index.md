@@ -24,6 +24,10 @@ reruns:
 ---
 Dojemný a zároveň osvobozující příběh o desetiletém chlapci, který z nemocničního pokoje píše dopisy Bohu. Oskar má málo času, ale díky energické „Růžové paní“ objeví, že i v několika dnech lze prožít celý život – se všemi jeho radostmi, láskami i smířením. Inscenace o odvaze dívat se smrti do očí a přesto milovat svět naplno.
 
-Výtěžek ze vstupného je věnován na podporu organizací, které šíří osvětu a pomáhají onkologickým pacientům i jejich rodinám.
+Malý Oskar, jeho rodiče, pečovatelka Rose, doktor Düsseldorf a mnoho dalších na jevišti ožívají v podání jediného herce. Výsledkem je propojení herecké proměny se silným příběhem o chlapci, který v nemocnici prožívá poslední dny svého života.
+
+Inscenace vznikla v rámci umělecké skupiny OLDstars a podává realistickou, citlivou a zároveň srozumitelnou výpověď o hodnotě každého okamžiku, při které zkoumá hranice komunikace, víry, smíření, humoru a dalších témat propojených s paliativní péčí.
+
+Projekt má benefiční přesah – podíl ze vstupného je věnován na podporu souvisejících projektů a organizací, které šíří osvětu a pomáhají onkologickým pacientům či nevyléčitelně nemocným a jejich rodinám.
 
 Vznik inscenace podpořila Nadace rodiny Vlčkových.
