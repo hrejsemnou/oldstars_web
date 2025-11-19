@@ -22,8 +22,6 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     available: 20
 ---
-Dojemný a zároveň osvobozující příběh o desetiletém chlapci, který z nemocničního pokoje píše dopisy Bohu. Oskar má málo času, ale díky energické „Růžové paní“ objeví, že i v několika dnech lze prožít celý život – se všemi jeho radostmi, láskami i smířením. Inscenace o odvaze dívat se smrti do očí a přesto milovat svět naplno.
-
 Malý Oskar, jeho rodiče, pečovatelka Rose, doktor Düsseldorf a mnoho dalších na jevišti ožívají v podání jediného herce. Výsledkem je propojení herecké proměny se silným příběhem o chlapci, který v nemocnici prožívá poslední dny svého života.
 
 Inscenace vznikla v rámci umělecké skupiny OLDstars a podává realistickou, citlivou a zároveň srozumitelnou výpověď o hodnotě každého okamžiku, při které zkoumá hranice komunikace, víry, smíření, humoru a dalších témat propojených s paliativní péčí.
