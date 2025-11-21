@@ -21,7 +21,7 @@ reruns:
     date: '22.12.2025'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 20
+    ticket: 'https://goout.net/cs/oskar-a-ruzova-pani/szsctdy/'
 ---
 Dojemný a zároveň osvobozující příběh o desetiletém chlapci, který má málo času, ale díky své energické pečovatelce objeví, že i v několika dnech lze prožít plnohodnotný život – se všemi jeho radostmi, láskami i smířením.
 
