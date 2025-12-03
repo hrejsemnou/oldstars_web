@@ -8,7 +8,7 @@ reruns:
   - date: "6.12.2025"
     time: "20:00"
     place: "H2O - bytové divadlo v Košické"
-    ticket: "https://goout.net/cs/audience/sznqctx/"
+    available: 20
 ---
 Divadlo-nedivadlo o cestě-necestě od někud nikam, od nikud někam. Tam tam tam tam tam tam. Kam?
 
