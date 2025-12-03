@@ -23,9 +23,9 @@ reruns:
     ticket: 'https://goout.net/cs/princezna-t/szdqray/'
   -  
     date: '7.12. 2025'
-    time: '20:00'
+    time: '17:00'
     place: 'H2O - bytové divadlo v Košické'
-    ticket: 'https://goout.net/cs/princezna-t/szjlidy/'
+    available: 20
   -  
     date: '11.12. 2025'
     time: '20:00'
