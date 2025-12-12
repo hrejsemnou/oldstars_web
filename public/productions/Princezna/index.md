@@ -27,7 +27,7 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     available: 20
   -  
-    date: '11.12. 2025'
+    date: '11.12. 2025 - zrušeno pro nemoc'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/princezna-t/szilidy/'
