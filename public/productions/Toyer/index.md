@@ -24,10 +24,10 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'    
     ticket: 'https://goout.net/cs/toyer/szicnby/'
   -
-    date: '15. 1. 2026'
+    date: '6. 3. 2026'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'    
-    ticket: 'https://goout.net/en/tickets/toyer/hbjib/'
+    ticket: 'https://goout.net/cs/toyer/szayxcy/'
   -
     date: '29. 1. 2026'
     time: '20:00'
