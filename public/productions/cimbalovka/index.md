@@ -19,6 +19,12 @@ reruns:
     time: '18:00'
     place: 'H2O - bytové divadlo v Košické'
     available: 20
+  -
+    date: '30.1.2026'
+    time: '18:00'
+    place: 'H2O - bytové divadlo v Košické'
+    available: 20
+    
 ---
 Netradiční cimbálová muzika u nás “doma” v Bytovém divadle Košická 21!
 
