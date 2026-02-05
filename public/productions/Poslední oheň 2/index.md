@@ -15,6 +15,16 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/posledni-ohen/szmmqey/'
+  -
+    date: '15. 2. 2026'
+    time: '17:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/posledni-ohen/szpsify/'
+  -
+    date: '15. 2. 2026'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/posledni-ohen/szosify/'
 ---
 
 Ulice. Poplach. Rodina. Dítě. Poplach. Dítě. Pohled. Smrt.
