@@ -77,6 +77,16 @@ reruns:
     time: '19:00'
     place: 'komorní scéna Vinohradského divadla'
     ticket: 'https://vstupenky.divadlonavinohradech.com/affil-index.php?pg=objednavka&prog=288243'
+  -
+    date: '14.2.2026'
+    time: '19:00'
+    place: 'komorní scéna Vinohradského divadla'
+    ticket: 'https://www.divadlonavinohradech.com/vstupenky-na-predstaveni/SIROTCI'
+  -
+    date: '16.4. 2026'
+    time: '19:00'
+    place: 'komorní scéna Vinohradského divadla'
+    ticket: 'https://www.divadlonavinohradech.com/vstupenky-na-predstaveni/SIROTCI'
 ---
 „Jsme úplně sami. Tam venku už neplatí žádnej zákon.“ Domov. Jediné místo, kam se schovat před osamělostí, chaosem a všudypřítomnou agresivitou vnějšího světa. Co ale dělat, když přes veškerou snahu chránit rodinu, prosakuje zvenčí hrozba? A je to opravdu zvenčí? Jak dobře známe svoje nejbližší? A známe vůbec sami sebe?
 
