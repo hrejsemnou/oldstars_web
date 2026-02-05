@@ -31,7 +31,17 @@ reruns:
     date: '22.1.2026'
     time: '19:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 'https://goout.net/cs/oskar-a-ruzova-pani/szbmqey/'
+    ticket: 'https://goout.net/cs/oskar-a-ruzova-pani/szbmqey/'
+  -  
+    date: '28.2. 2026'
+    time: '19:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/oskar-a-ruzova-pani/szebufy/'
+  -  
+    date: '20.3. 2026'
+    time: '19:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/oskar-a-ruzova-pani/szdbufy/'
 ---
 Dojemný a zároveň osvobozující příběh o desetiletém chlapci, který má málo času, ale díky své energické pečovatelce objeví, že i v několika dnech lze prožít plnohodnotný život – se všemi jeho radostmi, láskami i smířením.
 
