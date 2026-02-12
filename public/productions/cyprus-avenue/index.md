@@ -30,7 +30,7 @@ reruns:
   -
     date: '12.2.2026'
     time: '20:00'
-    place: 'H2O - bytové divadlo v Košické'
-    available: 20
+    place: 'H2O - bytové divadlo v Košické - pro nemoc zrušeno'
+    available: 0
 ---
 Británie, Irsko a Severní Irsko. Minulost, přítomnost a budoucnost. Co mohlo být, co je, ale hlavně, co s námi bude. Erik žije v krásném domě, má krásnou ženu, krásnou dceru, krásný oblek. Přesto už mu nic nedává smysl. Ta dnešní doba, ti lidi, ti Irové. Co si má počít takový poctivý pracující probritský protestant? Současný severoirský autor David Ireland sice zasadil Cyprus Avenue do rodného Belfastu, ale frustrace, nejistota a slepé předsudky jeho hrdinů sahají daleko za hranice Irska a Británie. Hranice zbořené zapomenutým krvavým konfliktem, ovšem dnes opět pomalu budované... Černočerná komedie, která vás donutí položit si otázku: Co bych asi udělal já, kdyby i moje vnučka byla převtělení republikánského politika?
