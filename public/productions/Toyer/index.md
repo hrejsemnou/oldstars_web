@@ -33,6 +33,11 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'    
     ticket: 'https://goout.net/cs/toyer/szowjdy/'
+  -
+    date: '14. 5. 2026'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'    
+    ticket: 'https://goout.net/cs/toyer/szkpjhy/'
 ---
 V osamělé vile na kraji města se setkávají dva lidé. Zkušená odbornice na lidskou psychiku a podezřelý cizinec. Komu můžeme věřit a kdo si hraje s kým? Z banálního rozhovoru se rodí nebezpečný střet mezi důvěrou a manipulací, pravdou a iluzí. Divák je uprostřed duelu, bez jistoty kdo má navrch – a co vlastně znamená vítězství.
 V české premiéře intimního dramatu se představí studenti herectví DAMU.
