@@ -96,6 +96,11 @@ const Navigation = () => {
           column: "left",
         },
         {
+          route: "/oldstars/agentura",
+          label: "Agentura",
+          column: "center",
+        },
+        {
           route: "/oldstars/prostory",
           label: "Prostory",
           column: "center",
