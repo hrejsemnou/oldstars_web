@@ -3,7 +3,7 @@ import Layout from '../../components/Layout'
 const Home = () => (
   <Layout title="OLDstars > Agentura">
     <h2>Agentura</h2>
-    <h3>Castingoví agentura OLDstars</h3>
+    <h3>Castingová agentura OLDstars</h3>
     <article>
       <p>
         Castingová agentura <strong>OLDstars</strong> propojuje mladé talentované herce s profesionálními příležitostmi ve filmu, televizi, divadle i reklamě. Vychází z více než dvacetileté zkušenosti umělecké skupiny OLDstars, která systematicky pracuje s mladými umělci a připravuje je na profesionální kariéru.
