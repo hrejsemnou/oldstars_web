@@ -17,13 +17,13 @@ const Home = () => (
       <p>
         Spolupracujeme s filmovými, televizními i divadelními produkcemi.
       </p>
-      <p>
+      <ul>
         <li> obsazování menších i větších hereckých rolí mladými talenty</li>
         <li> tipování nových neokoukaných tváří pro film, seriály a reklamy</li>
         <li> rychlé zajištění herců podle požadovaného typu</li>
         <li> castingové fotografie a videoukázky</li>
         <li> administrativní zajištění a koordinace spolupráce s umělci prostřednictvím agentury</li>
-      </p>
+      </ul>
       <p>
         Díky široké komunitě OLDstars jsme schopni nabídnout mladé <strong>herce různých typů</strong>.
       </p>  
@@ -36,16 +36,16 @@ const Home = () => (
     </article>
     <h3>Proč spolupracovat s OLDstars</h3>
     <article>
-      <p>
+      <ul>
         <li> dlouhodobá práce s mladými talenty</li>
         <li> silné zázemí umělecké skupiny a pedagogického vedení</li>
         <li> flexibilní a rychlá komunikace</li>
-      </p>
+      </ul>
       <p>
         Naším cílem je vytvářet prostředí, které pomáhá mladým umělcům vstupovat do profesionálního světa a zároveň nabízí producentům spolehlivý přístup k novým talentům.
       </p> 
       <p>
-      Matěj Zahajský - matej.zahajsky@oldstars.cz<br>
+      Matěj Zahajský - matej.zahajsky@oldstars.cz<br />
         +420 602 371 223
       </p>
     </article>
