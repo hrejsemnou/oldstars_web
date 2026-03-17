@@ -16,6 +16,11 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     available: 0
+  -
+    date: '9. 4. 2026'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    available: 20
 ---
 
 Co si bude naše konzumní společnost pamatovat, až budeme na konci týhle štace? 
