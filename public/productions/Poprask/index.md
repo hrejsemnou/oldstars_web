@@ -10,7 +10,7 @@ reruns:
     date: '24.4. 2026'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 20
+    ticket: 'https://goout.net/cs/poprask/szjtdiy/'
 ---
 Co když se Goldoniho laguna promění v devadesátkovou ulici?
 
