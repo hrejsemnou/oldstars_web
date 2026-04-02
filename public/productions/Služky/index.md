@@ -10,7 +10,7 @@ reruns:
     date: '6.4. 2026'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 20
+    ticket: 'https://goout.net/cs/sluzky/szbddiy/'
 ---
 Jsem drzá, hnusná děvka.
 
