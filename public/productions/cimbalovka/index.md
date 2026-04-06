@@ -1,7 +1,7 @@
 ---
-title: '5. Cimbálový večer v Košické'
+title: '6. Cimbálový večer v Košické'
 writer: 'tvůrčí tým'
-actors: 'Viktor Janoštín, Lukáš Janoštín, Mikuláš Zelinský, Jakub Kostka'
+actors: 'Václav Kopelec, Lukáš Janoštín, Mikuláš Zelinský, Jakub Kostka'
 tag: guests
 reruns:
   -
@@ -29,13 +29,20 @@ reruns:
     time: '18:00'
     place: 'H2O - bytové divadlo v Košické'
     available: 7
+  -
+    date: '10.4.2026'
+    time: '18:00'
+    place: 'H2O - bytové divadlo v Košické'
+    available: 20
+    
 ---
 Netradiční cimbálová muzika u nás “doma” v Bytovém divadle Košická 21!
 
 
-Housle: Lukáš Zindler
+Housle: Václav Kopelec
 Viola: Lukáš Janoštín
 Cimbál: Mikuláš Zelinský
-Basa: Jakub Cibira
+Basa: Jakub Kostka
+
 
 Místa omezená, vstupné dobrovolné, vína dost, rezervace důležitá.
