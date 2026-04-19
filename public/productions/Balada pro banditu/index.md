@@ -7,7 +7,7 @@ note: 'Legendární příběh'
 reruns:
   -  
     date: '11. 7. 2026'
-    time: 'bude upřesněno'
+    time: '20:00'
     place: 'u Kostela sv. Anny v obci Nové Dvory u Kutné Hory'
     available: 100
 ---
