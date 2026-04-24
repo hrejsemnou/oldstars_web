@@ -32,5 +32,5 @@ hrají: Barbora Wildová, Jan Šípal
 režie: Vendula Smižanská
 
 Člověk už ničemu nerozumí
-hrají: Natalie Danielová, Martin Alan Dušek, Barbora MatoušováMatoušová, Jan Šípal  
+hrají: Natalie Danielová, Martin Alan Dušek, Barbora Matoušová, Jan Šípal  
 režie: Martin Alan Dušek
