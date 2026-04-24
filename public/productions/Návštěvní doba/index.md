@@ -2,7 +2,7 @@
 title: 'Návštěvní doba'
 writer: 'Felix Mitterer'
 translator: 'Josef Balvín'
-actors: 'Markéta Novotná, Štěpán Jan Krafka, Tereza Střihavková, Bruno Babka, Barbora Wildová, Jan Šípal, Natalie Danielová, Martin Alan Dušek'
+actors: 'Markéta Novotná, Štěpán Jan Krafka, Tereza Střihavková, Bruno Babka, Barbora Wildová, Jan Šípal, Natalie Danielová, Martin Alan Dušek, Barbora Matoušová'
 premiere: '27. 4. 2026'
 note: 'během jediné návštěvy'
 reruns:
@@ -20,17 +20,17 @@ Obyčejné situace se v textech Felixe Mitterera nenápadně lámou do zneklidň
 O tom, co si říkáme – a co už říct nestihneme.
 
 Na odstavné koleji
-hrají: Markéta Novotná, Štěpán Jan Krafka
+hrají: Markéta Novotná, Štěpán Jan Krafka  
 režie: Maxmilian Materna
 
 Vražednice
-hrají: Tereza Střihavková, Bruno Babka
+hrají: Tereza Střihavková, Bruno Babka  
 režie: Viktorie Kozderová
 
 Pšenice na dálnici
-hrají: Barbora Wildová, Jan Šípal
+hrají: Barbora Wildová, Jan Šípal  
 režie: Vendula Smižanská
 
 Člověk už ničemu nerozumí
-hrají: Natalie Danielová, Martin Alan Dušek
+hrají: Natalie Danielová, Martin Alan Dušek, Barbora MatoušováMatoušová, Jan Šípal  
 režie: Martin Alan Dušek
