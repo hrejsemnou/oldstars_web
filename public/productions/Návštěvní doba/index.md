@@ -11,6 +11,16 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/en/navstevni-doba/szraniy/'
+  -  
+    date: '4. 5. 2026'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/navstevni-doba/szyiqiy/'
+  -  
+    date: '8. 6. 2026'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/navstevni-doba/szajqiy/'
 ---
 Co všechno se může odehrát během jediné návštěvy?
 
