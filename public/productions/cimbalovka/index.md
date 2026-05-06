@@ -36,7 +36,7 @@ reruns:
     available: 12
   -
     date: '15.5.2026'
-    time: '18:00'
+    time: '19:00'
     place: 'H2O - bytové divadlo v Košické'
     available: 20 
 ---
