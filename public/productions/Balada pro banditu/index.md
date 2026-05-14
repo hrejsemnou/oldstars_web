@@ -9,7 +9,7 @@ reruns:
     date: '11. 7. 2026'
     time: '20:00'
     place: 'u Kostela sv. Anny v obci Nové Dvory u Kutné Hory'
-    available: 100
+    available: 'bude předprodej Goout'
 ---
 
 Legendární příběh Nikoly Šuhaje Loupežníka o svobodě, lásce, zradě a touze po spravedlnosti. Muzikálová studentská inscenace propojuje syrovou poezii, živou hudbu a pečené maso s točeným pivem pod širým nebem.  
