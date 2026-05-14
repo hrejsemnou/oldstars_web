@@ -34,7 +34,7 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'    
     ticket: 'https://goout.net/cs/toyer/szowjdy/'
   -
-    date: '14. 5. 2026'
+    date: '16. 5. 2026'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'    
     ticket: 'https://goout.net/cs/toyer/szkpjhy/'
