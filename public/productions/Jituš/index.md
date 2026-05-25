@@ -9,7 +9,7 @@ reruns:
     date: '26. 5. 2026'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 25
+    available: 7
 ---
 Konec léta. Koupaliště ve Fryštátu. Vířivka vypnutá. Tobogán jen čůrek. 
 
