@@ -7,9 +7,8 @@ const Home = () => (
     <h2>OLDSTARS z.s., umělecká skupina</h2>
     <h3>Kde nás najdete?</h3>
     <p>H2O - bytové divadlo v Košické: Košická 21, Praha 10</p>
-    <p>HarOLD - sklepní prostor v Charkovské: Charkovská 15, Praha 10</p>
     <h3>Sídlo</h3>
-    <p>Fakturační a korespondenční adresa: Charkovská 15, Praha 10</p>
+    <p> Fakturační a korespondenční adresa: Žižkova brána 618/14 Kutná Hora, 284 01</p>
     <p>IČO: 266 755 79</p>
     <p>DIČ: CZ 266 755 79</p>
     <p>Bankovní spojení: Raiffeisenbank - 181 754 2001/5500</p>
@@ -55,23 +54,7 @@ const Home = () => (
       <a href="mailto:tomas.stanek@oldstars.cz">tomas.stanek@oldstars.cz</a>,
       +420 606 865 237
     </p>
-    <p>
-      <strong>Herecké studio OLDstars: </strong>
-      <a href="mailto:zuzana.horakova@oldstars.cz">
-        zuzana.horakova@oldstars.cz
-      </a>
-      , +420 723 607 104
-    </p>
-    <p>
-      <strong>Dětské studio OLDstars: </strong>
-      <a href="mailto:daniela.ouhrabkova@oldstars.cz">
-        daniela.ouhrabkova@oldstars.cz
-      </a>
-    </p>
-    <p>
-      <strong>Bytové divadlo v Košické: </strong>Adéla Fejková,{" "}
-      <a href="mailto:kosicka@oldstars.cz">kosicka@oldstars.cz</a>
-    </p>
+
     <p>
       <strong>Produkce a PR projektů: </strong>Jiří Dejl,{" "}
       <a href="mailto:jiri.dejl@oldstars.cz">jiri.dejl@oldstars.cz</a>, Karolína
@@ -85,14 +68,14 @@ const Home = () => (
       <a href="mailto:klara.vankatova@oldstars.cz">
         klara.vankatova@oldstars.cz
       </a>
-      , +420 773 695 561
+      , +420 773 665 680
     </p>
     <p>
       <strong>Agentura: </strong>
-      <a href="mailto:stanislava.lojkova@oldstars.cz">
-        stanislava.lojkova@oldstars.cz
+      <a href="mailto:matej.zahajsky@oldstars.cz">
+        matej.zahajsky@oldstars.cz
       </a>
-      , +420 739 339 367
+      , +420 602 371 223
     </p>
     <p>
       <a href="/documents/Závazná_přihláška_OLDstars.pdf" download>
