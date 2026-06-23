@@ -3,10 +3,10 @@ title: 'Sen noci svatojánské'
 writer: 'William Shakespeare'
 translation: 'Martin Hilský'
 actors: 'Bruno Babka, Adéla Bártová, Anežka Nika Brožová, Martin Alan Dušek, Anika Dohnalová, Sebastian Hajek, Adam Holeček, Anička Lukášková, Veronika Lafková, Maxmilián Materna, Barbora Matoušová, Klára Nováková'
-premiere: '1. 8. 2026'
+premiere: '2. 8. 2026'
 reruns:
   -
-    date: '1.8. 2026'
+    date: '2. 8. 2026'
     place: 'Kutná Hora'
     available: 100
 ---
