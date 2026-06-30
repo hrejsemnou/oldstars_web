@@ -8,7 +8,28 @@ reruns:
   -
     date: '2. 8. 2026'
     place: 'Kutná Hora'
-    available: 100
+    time: '20:00'
+    ticket: 'https://goout.net/cs/sen-noci-svatojanske/szjadly/'
+  -
+    date: '3. 8. 2026'
+    time: '20:00'
+    place: 'Havlíčkův Brod - náměstí'
+    ticket: 'https://goout.net/cs/sen-noci-svatojanske/szkadly/'
+  -
+    date: '4. 8. 2026'
+    time: '20:00'
+    place: 'Dobříš - zámecká zahrada'
+    ticket: 'https://goout.net/cs/sen-noci-svatojanske/szmadly/'
+  -
+    date: '9. 8. 2026'
+    time: '20:00'
+    place: 'Slaný - náměstí'
+    ticket: 'https://goout.net/cs/sen-noci-svatojanske/sznadly/'
+  -
+    date: '10. 8. 2026'
+    time: '20:00'
+    place: 'Mníšek pod Brdy'
+    ticket: 'https://goout.net/cs/sen-noci-svatojanske/szoadly/'
 ---
 režijní a pedagogické vedení: Jiří Dejl a Tomáš Staněk
 
