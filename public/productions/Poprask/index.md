@@ -20,7 +20,12 @@ reruns:
     date: '30. 5. 2026'
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
-    ticket: 'https://goout.net/cs/poprask/szrpliy/'    
+    ticket: 'https://goout.net/cs/poprask/szrpliy/'
+  -
+    date: '22. 9. 2026'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/en/poprask/szcabmy/'
 ---
 Co když se Goldoniho laguna promění v devadesátkovou ulici?
 
