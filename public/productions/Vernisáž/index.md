@@ -36,6 +36,11 @@ reruns:
     time: '20:30'
     place: 'H2O - bytové divadlo v Košické'    
     available: 7
+  -
+    date: '20. 10. 2026'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'    
+    available: zadáno
 ---
 ,,Pro koho myslíš, že to všechno děláme? Pro sebe?" - Michal, postava ze hry Václava Havla VERNISÁŽ. Mladý pár vítá přítele Bedřicha do svého nově zařízeného bytu. Něco však nesedí. Dětský sen, který se stal skutečností. Všechno je jako v pohádce. Dokonalý byt, dokonalá rodina, dokonalý život - nenajdeš jediný kiks. Boj o pozornost a pochvalu začíná, jako ve školce. Vernisáž je absurdní drama z roku 1975, které stále rezonuje. 
 
