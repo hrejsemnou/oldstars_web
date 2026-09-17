@@ -21,6 +21,11 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/navstevni-doba/szajqiy/'
+  -
+    date: '26. 9. 2026'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/en/navstevni-doba/szdabmy/'
 ---
 Co všechno se může odehrát během jediné návštěvy?
 
