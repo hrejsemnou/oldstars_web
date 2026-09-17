@@ -36,6 +36,11 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/princezna-t/szleijy/'
+  -  
+    date: '10. 10. 2026'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/en/princezna-t/szgabmy/'
 ---
 
 V říši, kde se noc třpytí ostřím meče a úsvit chutná po krvi, stojí princezna jako ledový chrám. Každá otázka z jejích úst je past, každá odpověď špatná je rozsudkem. Hlavy padají, láska se mění v hazard, dech v horkou páru strachu. Ale někdo, možná blázen, básník, či kat se rozhodl vstoupit do labyrintu jejích hádanek. A vítr už nese zpěv lidu…
