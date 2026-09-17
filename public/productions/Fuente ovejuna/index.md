@@ -15,6 +15,11 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/fuente-ovejuna/szgloiy/'
+  -
+    date: '29. 9. 2026'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/en/fuente-ovejuna/szeabmy/'
 ---
 Strhující příběh vesnice, která se rozhodne postavit moci, násilí a bezpráví. Kdo je ale vinen, když se vzepře celý lid?  
 
