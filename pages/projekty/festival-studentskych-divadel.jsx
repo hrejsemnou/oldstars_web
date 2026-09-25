@@ -10,7 +10,7 @@ const Home = () => (
       Celý festival bude provázen předponou RE-, na kterou budou navázána slova ACT, CONNECT, START nebo PLAY. Každé z těchto slov představí jednu oblast kultury. Návštěvníci festivalu se mohou těšit nejen na OLDstars, ale i na další divadelní soubory a pestrou studentskou uměleckou tvorbu. Festival je především dedikovaný divadlu, nechceme ale opominut i ostatní umělecká vyjádření.
     </p>
     <p>
-RE.act - Součástí divadelních představení budou nejen inscenace od OLDstars, ale i dalších hostujících souborů. RE.st(art) - Vzniká prostor k vystavení vizuálního umění a nabízí volnost k vyjádřením mladým umělcům.<br>
+RE.act - Součástí divadelních představení budou nejen inscenace od OLDstars, ale i dalších hostujících souborů. RE.st(art) - Vzniká prostor k vystavení vizuálního umění a nabízí volnost k vyjádřením mladým umělcům.<br/>
 RE.connect - Nabídne prostor pro workshopy či přednášky. RE.play - Čtvrtý a poslední den festivalu bude věnován hudebním vystoupením studentských kapel a dalších umělců za benefičním účelem.
     </p>
     <p>
@@ -21,13 +21,9 @@ RE.connect - Nabídne prostor pro workshopy či přednášky. RE.play - Čtvrtý
     <h3>Kontakty</h3>
     <p>
       koordinátor festivalu
-    </p> 
-    </div>
-    <div>
+    </p>
       Jiří Dejl, +420 608 165 789, <a href="mailto:jiri.dejl@oldstars.cz">jiri.dejl@oldstars.cz</a>
     </div>
   </Layout>
 )
-
 export default Home
-
