@@ -2,49 +2,22 @@ import Layout from '../../components/Layout'
 
 const Home = () => (
   <Layout title="OLDstars > Projekty > Festival studentských divadel">
-    <h2>Festival studentského divadla v Divadle v Celetné a Solné věži 2025!</h2>
+    <h2>Festival studentského divadla v Divadle v Celetné a Solné věži 2026!</h2>
     <p>
-      Od 26. do 28. října 2025 bude v Divadle v Celetné probíhat 14. ročník podzimní divadelní slavnosti studentského divadla pod záštitou umělecké skupiny OLDstars. Tradiční lokace na prestižní divadelní adrese Divadla v Celetné bude již po třetí rozšířena o kulturní prostor v podkroví Solné věže, která je součástí nedalekého Dominikánského kláštera. Letos se nese festival v duchu hesla "No FOMO just chill!". S nadsázkou tak vybízí především k autenticitě a odreagování. 
-Diváky během prodlouženého víkendu podzimních prázdnin čeká přes 1000 minut divadla. Mohou se těšit na nespočet divadelních novinek tvůrčí dílny OLDstars, ale i na další hostující soubory, kteří obohatí třídenní divadelní maraton. 
-Nebude chybět ani doprovodný program s důrazem na kreativní tvorbu, odpočinek a možnosti sdílení zážitků z procesu umělecké tvorby s ostatními. 
-Navíc, celý festival oživí koncerty několika kapel a DJs, které uslyšíte napříč všemi večery. Jedním z nich bude hned v neděli 26. října opening party, ku příležitosti slavnostního zahájení celého festivalu. ⋆｡˚✩
+    Ve dnech 26.–29. října 2026 se uskuteční již 15. ročník Festivalu studentského divadla pod záštitou umělecké skupiny OLDstars. I tento rok se divadelní festival odehraje v samotném srdci Prahy, v prostorách Divadla v Celetné, kavárně v Celetné a znovu také v Solné věži, jež je součástí nedalekého Dominikánského kláštera. Letošní téma bude reakcí na aktuální dění v kultuře, nezavíráme oči před tím, co se děje kolem nás. Považujeme za důležité ukázat kulturu v celé její šíři a kráse, a připomenout tak její společenskou důležitost. 
     </p>
     <p>
-      Projekt je podpořen grantem Městské části Praha 1 a Státním fondem kultury - děkujeme!
+      Celý festival bude provázen předponou RE-, na kterou budou navázána slova ACT, CONNECT, START nebo PLAY. Každé z těchto slov představí jednu oblast kultury. Návštěvníci festivalu se mohou těšit nejen na OLDstars, ale i na další divadelní soubory a pestrou studentskou uměleckou tvorbu. Festival je především dedikovaný divadlu, nechceme ale opominut i ostatní umělecká vyjádření.
     </p>
     <p>
-      Veškeré a aktuální informace naleznete na tomto aktivním odkazu: <a href="https://linktr.ee/FSDVDVCAVSV">FSDVDVCAVSV</a>
+RE.act - Součástí divadelních představení budou nejen inscenace od OLDstars, ale i dalších hostujících souborů. RE.st(art) - Vzniká prostor k vystavení vizuálního umění a nabízí volnost k vyjádřením mladým umělcům.<br>
+RE.connect - Nabídne prostor pro workshopy či přednášky. RE.play - Čtvrtý a poslední den festivalu bude věnován hudebním vystoupením studentských kapel a dalších umělců za benefičním účelem.
     </p>
     <p>
-      Dále nás sledujte na sociálních sítích IG <a href="https://www.instagram.com/oldstars.cz/">@oldstars.cz</a> a FB <a href="https://www.facebook.com/FestivalvCeletne">Festival studentského divadla v Celetné</a>
-    </p>
-    <p>
-      Vstupenky: <a href="https://www.divadlovceletne.cz/planovana-predstaveni/#rijen pro jeviště v Celetné">divadlovceletne.cz</a> a <a href="https://goout.net/cs/oldstars/pzoukpf/">goout.net</a> pro jeviště v Solné věži
+      Vstupenky: <a href="https://divadlovceletne.cz/soubory/oldstars/">divadlovceletne.cz</a>.
     </p>
     
-    <h3>NEDĚLE 26.10.</h3>
-    <p>11:00 Kde je východ</p>
-    <p>14:00 Pokoušení</p>
-    <p>16:30 Pan Burns</p>
-    <p>19:00 ART</p>
-    <p>21:00 SHEkespeare</p>
-    <p>23:00 SKOTAČNÍ KULOMET - koncert - vstup volný</p>
-
-
-    <h3>PONDĚLÍ 27.10.</h3>
-    <p>14:00 Princezna Turandot</p>
-    <p>16:00 LEDY</p>
-    <p>19:30 Kdo je tady praporčík?</p>
-    <p>22:00 ELEVÁTOR</p>
-    <p>23:30 Romeo a Jugoslavie - projekce dokumentárního filmu - vstup volný</p>
-
-
-    <h3>ÚTERÝ 28.10.</h3>
-    <p>13:30 Smyčka</p>
-    <p>15:30 Mučedník</p>
-    <p>18:30 Toyer</p>
-    <p>21:00 Svatba</p>
-    <p>23:00 HVÉZDIČKY- koncert - vstup volný</p>
+    
         
     <div>
     <h3>Kontakty</h3>
