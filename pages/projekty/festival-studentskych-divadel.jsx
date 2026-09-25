@@ -16,8 +16,6 @@ RE.connect - Nabídne prostor pro workshopy či přednášky. RE.play - Čtvrtý
     <p>
       Vstupenky: <a href="https://divadlovceletne.cz/soubory/oldstars/">divadlovceletne.cz</a>.
     </p>
-    
-    
         
     <div>
     <h3>Kontakty</h3>
