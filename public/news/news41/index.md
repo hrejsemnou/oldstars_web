@@ -13,5 +13,4 @@ RE.st(art) - Vzniká prostor k vystavení vizuálního umění a nabízí volnos
 RE.connect - Nabídne prostor pro workshopy či přednášky.  
 RE.play - Čtvrtý a poslední den festivalu bude věnován hudebním vystoupením studentských kapel a dalších umělců za benefičním účelem.
 
-[Festival studentského divadla v Celetné]
-https://www.facebook.com/share/1Etjewuusp/) 
+[Festival studentského divadla v Celetné]https://www.facebook.com/share/1Etjewuusp/) 
