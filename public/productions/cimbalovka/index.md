@@ -63,10 +63,10 @@ reruns:
 Netradiční cimbálová muzika u nás “doma” v Bytovém divadle Košická 21!
 
 
-Housle: Viktor Janošín
-Viola: Lukáš Janoštín
-Cimbál: Mikuláš Zelinský
-Basa: Jakub Kostka
+Housle: Viktor Janošín  
+Viola: Lukáš Janoštín  
+Cimbál: Mikuláš Zelinský  
+Basa: Jakub Kostka  
 
 
 Místa omezená, vstupné dobrovolné, vína dost, rezervace důležitá.
