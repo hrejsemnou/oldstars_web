@@ -1,5 +1,5 @@
 ---
-title: '7. Cimbálový večer v Košické'
+title: '8. Cimbálový večer v Košické'
 writer: 'tvůrčí tým'
 actors: 'Václav Kopelec, Lukáš Janoštín, Mikuláš Zelinský, Jakub Kostka'
 tag: guests
@@ -43,12 +43,12 @@ reruns:
     date: '17.9.2026'
     time: '18:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 20 
+    available: 19
   -
     date: '9.10.2026'
     time: '18:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 20 
+    available: 18
   -
     date: '26.11.2026'
     time: '18:00'
