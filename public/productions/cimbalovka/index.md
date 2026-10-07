@@ -48,7 +48,7 @@ reruns:
     date: '9.10.2026'
     time: '18:00'
     place: 'H2O - bytové divadlo v Košické'
-    available: 'rezervujte si misto na adrese [jiri.dejl@oldstars.cz](jiri.dejl@oldstars.cz)'
+    available: 'rezervujte si misto na adrese (jiri.dejl@oldstars.cz)[jiri.dejl@oldstars.cz]'
   -
     date: '26.11.2026'
     time: '18:00'
