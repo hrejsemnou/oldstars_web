@@ -25,6 +25,11 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/posledni-ohen/szosify/'
+  -
+    date: '26. 10. 2026'
+    time: '21:00'
+    place: 'Divadlo v Celetné'
+    ticket: 'https://divadlovceletne.cz/predstaveni/posledni-ohen/'
 ---
 
 Ulice. Poplach. Rodina. Dítě. Poplach. Dítě. Pohled. Smrt.
