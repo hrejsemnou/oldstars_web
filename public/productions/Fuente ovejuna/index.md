@@ -20,6 +20,11 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/en/fuente-ovejuna/szeabmy/'
+      -
+    date: '27. 10. 2026'
+    time: '18:30'
+    place: 'Solná věž - Staré Město'
+    ticket: 'https://goout.net/cs/fuente-ovejuna/szvrany/'
 ---
 Strhující příběh vesnice, která se rozhodne postavit moci, násilí a bezpráví. Kdo je ale vinen, když se vzepře celý lid?  
 
