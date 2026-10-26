@@ -2,7 +2,6 @@ require('dotenv').config()
 const CLIENT_ID = process.env.MAIL_CLIENT_ID;
 const CLIENT_SECRET = process.env.MAIL_CLIENT_SECRET;
 const REFRESH_TOKEN = process.env.MAIL_REFRESH_TOKEN;
-const ACCESS_TOKEN = process.env.MAIL_ACCESS_TOKEN;
 
 export default async function (req, res) {
   let nodemailer = require('nodemailer')
@@ -14,7 +13,6 @@ export default async function (req, res) {
       clientId: CLIENT_ID.replace(/\\n/g, '\n'),
       clientSecret: CLIENT_SECRET.replace(/\\n/g, '\n'),
       refreshToken: REFRESH_TOKEN.replace(/\\n/g, '\n'),
-      accessToken: ACCESS_TOKEN.replace(/\\n/g, '\n'),
       accessUrl: "https://oauth2.googleapis.com/token",
       user: 'demo.odesilatel@gmail.com',
     },
