@@ -20,7 +20,7 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/en/fuente-ovejuna/szeabmy/'
-      -
+  -
     date: '27. 10. 2026'
     time: '18:30'
     place: 'Solná věž - Staré Město'
