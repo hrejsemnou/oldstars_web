@@ -26,6 +26,11 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/en/navstevni-doba/szdabmy/'
+  -
+    date: '26. 10. 2026'
+    time: '17:30'
+    place: 'Solná věž - Staré Město'
+    ticket: 'https://goout.net/cs/listky/navstevni-doba/ncbob/?referrer=ticketportal.cz'
 ---
 Co všechno se může odehrát během jediné návštěvy?
 
