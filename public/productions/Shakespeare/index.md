@@ -1,5 +1,5 @@
 ---
-title: 'Shakespeare'
+title: 'SHEkespeare'
 writer: 'William Shakespeare'
 translation: 'Martin Hilský'
 director: 'Prokop Košař'
@@ -27,6 +27,11 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/cs/shekspeare/szeqxvx/'
+  -
+    date: '26. 10. 2026'
+    time: '15:30'
+    place: 'Divadlo v Celetné'
+    ticket: 'https://divadlovceletne.cz/predstaveni/shekespeare-2/'
 ---
 Pod tíhou smutku každá z nás teď musí říkat, co cítí, ne co se sluší.
 
