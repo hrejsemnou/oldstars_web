@@ -50,6 +50,11 @@ reruns:
     place: 'H2O - bytové divadlo v Košické'
     available: 'rezervujte si místo na adrese jiri.dejl@oldstars.cz'
   -
+    date: '26.10.2026'
+    time: '23:15'
+    place: 'Divadlo v Celetné'
+    ticket: 'https://divadlovceletne.cz/predstaveni/cimbal/'
+  -
     date: '26.11.2026'
     time: '18:00'
     place: 'H2O - bytové divadlo v Košické'
