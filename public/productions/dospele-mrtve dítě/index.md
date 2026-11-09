@@ -19,6 +19,11 @@ reruns:
     time: '20:00'
     place: 'H2O - bytové divadlo v Košické'
     ticket: 'https://goout.net/en/dospelemrtve-dite/szhabmy/'
+  -  
+    date: '16. 1. 2027'
+    time: '20:00'
+    place: 'H2O - bytové divadlo v Košické'
+    ticket: 'https://goout.net/cs/dospelemrtve-dite/szrwxny/'
 ---
 Když máš ten pocit, co neumíš ani vyjádřit…
 Hra o křehkosti dětství, dospívání i dospělosti. Jak žít, když kolem není láska? Široko daleko žádné porozumění. Jen hlas v hlavě.
