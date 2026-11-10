@@ -1,6 +1,7 @@
 ---
 title: 'V zahradě jsou s láskou svou don Perlimplin s Belisou'
 writer: 'Federico García Lorca'
+director: 'Marie Měkotová'
 actors: 'Maxmilián Materna, Lea Csámpai, Klára Plajnerová, Daniela Fabry'
 reruns:
   -  
